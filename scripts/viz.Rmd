@@ -1,0 +1,605 @@
+---
+title: "Blood Metabolites"
+author: "Tayaza Fadason"
+date: "9/25/2018"
+output: 
+  html_document
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir ="~/genome3d/tfad334/metabolites")
+```
+
+## R Markdown
+The following steps are necessary for the visualization script to work:
+
+1. Run 
+`python codes3d.py -i data/blood_metabolite_snps.txt -r mboi -o results/codes3d_output/` 
+to get significant_eqtls.txt
+
+2. Extract eGene list from `results/codes3d_output/significant_eqtls.txt` 
+  - Go to https://www.genome.jp/kegg/tool/map_pathway1.html
+  - Upload gene list txt file. 
+  - Select "Homo sapiens" in the Examples dropdown menu
+  - Check "Include aliases" and "Display objects not found in search" options 
+  - Uncheck "Search pathways containing all the objects (AND search)" option
+  - Click the "Exec" button
+  KEGG will now search its database and return the results
+  - Click on "Sort the pathway list"
+  - Select all (i.e. Cmd+a) and paste contents in a text file.
+  - Save file as `results/kegg_results.txt`
+  
+3. Run 
+`python3 scripts/make_phenogram_file.py -e results/codes3d_output/significant_eqtls.txt -r results/kegg_results.txt -o analysis/`
+
+
+```{r initialize_packages, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(readxl)
+library(stringi)
+library(viridis)
+library(VennDiagram)
+library(gridExtra)
+library(ggrepel)
+library(venn)
+library(plyr)
+library(UpSetR)
+
+```
+
+```{r read_data}
+
+eqtl.df <- read.delim("results/codes3d_output/significant_eqtls.txt")
+kegg.df <- read.delim("analysis/phenogram_all.txt")
+metab.df <- read_excel("data/shin_2014_suppl_tables.xlsx", sheet="Table S6", skip = c(3))
+
+# NOTE: SNP rs10988217 was substituted for rs7849270 in Table S6 (Compare with Table S4). 
+# Both mark the CRAT (locus 73). Here we replace rs10988217 with rs7849270 for consistency.
+metab.df$SNP <-  str_replace(metab.df$SNP, "rs10988217", "rs7849270")
+
+metab.df$split_eQTLs <- str_replace_all(metab.df$`eQTL (gene and tissue)`, c("[,]|[-]"), " ")
+metab.df$causal_eGene <- case_when(
+  mapply(function(x,y) grepl(x,y), metab.df$`Predicted causal gene`, metab.df$split_eQTLs) ~ "True",
+  TRUE ~ "False")
+
+merged.df <- merge(kegg.df[, c("SNP", "ANNOTATION", "First_Level", "PHENOTYPE")], metab.df, all.x=TRUE)
+merged.df$SNP_PHENOTYPE <- merged.df$`Most associated metabolite or ratio`
+names(merged.df) <- str_replace(names(merged.df), "ANNOTATION", "eGene")
+
+
+merged.df$split <- str_replace_all(merged.df$`Predicted causal gene`, c("[(]|[)]|[|]")," ")
+merged.df$Overlap <- case_when(stri_detect_fixed(merged.df$eGene, merged.df$split) ~ "True",
+          mapply(function(x,y) grepl(x,y), merged.df$eGene, merged.df$split) ~ "True",
+          TRUE ~ "False")
+
+# Edit the rs9392556-associated metabolite, "X-13435 (neutral acc mass: 313.225270 +/- 0.000910; similar to X-11421/4-decenoylcarnitine, but elutes later; prob a 10:1 carnitine)"  to "X-13435" for easier downstream literature text mining.
+
+merged.df$`Most associated metabolite or ratio` <-  case_when(
+  grepl("X-13435", merged.df$`Most associated metabolite or ratio`, TRUE) ~ "X-13435",
+  TRUE ~ as.character(merged.df$`Most associated metabolite or ratio`)
+)
+
+```
+
+
+Plot SNP-eGene frequency
+```{r snp_egene_frequency}
+
+# Number of eQTL SNPs: 130
+snps.freq <- count(distinct(eqtl.df[,c("SNP", "Gene_Name")]), vars=c("SNP")) 
+snps.freq <- snps.freq  %>%
+  mutate(
+    freq = factor(snps.freq$freq)
+  )
+
+ggplot(snps.freq, aes(x=freq))+
+  geom_bar()+
+  # geom_text(aes(labels(snps.freq)))+
+  theme_classic()+
+  scale_x_discrete("Number of eGenes")+
+  scale_y_continuous(limits=c(0,30), expand=c(0,0))#+
+  # ggsave("figures/snp_gene_frequency_rerun.pdf", width=4, height=4)
+
+```
+
+Our results revealed that `r length(snps.freq$SNP)` out of the `r length(metab.df$SNP)` blood metabolite SNPs are eSNPs. This represents a 2X fold increase on the 
+```r length(subset(metab.df, !is.na(metab.df$`eQTL (gene and tissue)`))$SNP)```
+eQTLs originally reported by Shin et al. 2014.
+
+```{r}
+# write_delim(
+#   subset(metab.df, SNP %in% snps.freq$SNP)[, c("SNP", "Locus name",
+#                                                "Most associated metabolite or ratio",
+#                                                "Predicted causal gene", "causal_eGene")], 
+#             "analysis/eSNPs.txt",
+#             delim="\t")
+# 
+# write_delim(
+#   subset(metab.df, !(SNP %in% snps.freq$SNP))[, c("SNP", "Locus name",
+#                                                "Most associated metabolite or ratio",
+#                                                "Predicted causal gene", "causal_eGene")], 
+#             "analysis/eSNPs_non.txt",
+#             delim="\t")
+
+
+eqtl.loci <- data.frame(
+  study = c("CoDeS3D", "Shin"),
+  eqtls = c(
+    length(snps.freq$SNP) / length(metab.df$SNP)*100,
+    length(subset(metab.df, !is.na(metab.df$`eQTL (gene and tissue)`))$SNP)
+    / length(metab.df$SNP)*100),
+  noeqtls = c(
+    (length(metab.df$SNP) - length(snps.freq$SNP)) / length(metab.df$SNP)*100,
+    (length(metab.df$SNP) 
+     - length(subset(metab.df, !is.na(metab.df$`eQTL (gene and tissue)`))$SNP))
+    / length(metab.df$SNP)*100))
+
+eqtl.loci <- gather(eqtl.loci, locus, value, eqtls:noeqtls)
+
+ggplot(eqtl.loci, aes(x=factor(study, levels=c("Shin","CoDeS3D")), y=value))+
+  geom_col(aes(fill=factor(locus, levels=c("noeqtls", "eqtls"))))+
+  theme_classic()+
+  scale_y_continuous("Percentage", expand=c(0,0), limits=c(0,100))+
+  scale_x_discrete("", labels=c("Shin et al", "CoDeS3D"))+
+  scale_fill_manual("", labels = c("Non-eQTLs", "eQTLs"), 
+                    values=c("#cccccb", "#333333"))#+
+    #ggsave("figures/shin_eqtls_compare.pdf",
+    #    width=8, height=6)
+  
+rm(snps.freq)
+rm(eqtl.loci)
+
+```
+
+
+
+
+SNP-gene pairs overlap
+```{r}
+metab_snp_genes <- subset(metab.df, `Predicted causal gene` != "unknown")[, c("SNP", "Predicted causal gene")]
+metab_snp_genes$snp_genes <- paste0(metab_snp_genes$SNP, "_", metab_snp_genes$`Predicted causal gene`)
+eqtl_snp_genes <- unique(eqtl.df[, c("SNP", "Gene_Name")])
+eqtl_snp_genes$snp_genes <- paste0(eqtl_snp_genes$SNP, "_", eqtl_snp_genes$Gene_Name)
+
+# SNP-`Predicted causal gene` pairs that are Shin specific
+shin_specific <- metab_snp_genes[which(!metab_snp_genes$snp_genes %in% eqtl_snp_genes$snp_genes),]
+shin_specific <- shin_specific[
+  !(shin_specific$snp_genes %in% c("rs1005390_ABP1 (AOC1)", "rs445925_APOE|APOC1|APOC2")),]
+# Note: The following are not Shin specific, which brings the number to 31
+# rs1005390 - ABP1 (AOC1) appears as rs1005390 - AOC1; and 
+# rs445925 - APOE|APOC1|APOC2 as rs445925 - APOE
+shin_specific <- metab.df[
+  (metab.df$SNP %in% shin_specific$SNP 
+   & metab.df$`Predicted causal gene` %in% shin_specific$`Predicted causal gene`), ]
+
+overlap <- metab_snp_genes[which(metab_snp_genes$snp_genes %in% eqtl_snp_genes$snp_genes),]
+overlap <- rbind(overlap,
+                 metab_snp_genes[
+  (metab_snp_genes$snp_genes %in% c("rs1005390_ABP1 (AOC1)", "rs445925_APOE|APOC1|APOC2")),])
+# Note: Same as for shin-specific, which brings the number to 71
+overlap <- metab.df[
+  (metab.df$SNP %in% overlap$SNP 
+   & metab.df$`Predicted causal gene` %in% overlap$`Predicted causal gene`), ]
+
+# pdf("figures/egene_overlap_rerun.pdf",
+#     width=8, height=8)
+temp <- VennDiagram::draw.pairwise.venn(length(overlap$`Predicted causal gene`)
+                                +length(shin_specific$`Predicted causal gene`),
+  length(eqtl_snp_genes$Gene_Name),
+  length(overlap$`Predicted causal gene`),
+  scaled = TRUE,
+  fill=c("#999999", "#36618e"),
+  alpha=c(1,1)
+  )
+
+grid.draw(temp)
+grid.newpage()
+rm(temp)
+rm(shin_specific)
+rm(metab_snp_genes)
+rm(eqtl_snp_genes)
+# dev.off()
+```
+
+
+Bootstrap overlap of predicted genes
+
+```{r}
+# TODO: remove
+all.genes <- read.delim("data/gene_reference.bed",
+                        header=FALSE)
+names(all.genes) <- c("chr", "start", "end", "gene")
+overlap_size <- length(subset(merged.df, merged.df$Overlap=="True")$eGene)
+simulations <- 10000
+boostrap <- function(){
+  predicted_genes <- subset(
+    metab.df, metab.df$`Predicted causal gene` != "unknown")$`Predicted causal gene`
+  overlap <- rep(NA, simulations)
+  for(i in 1:length(overlap)){
+    test_sample <- sample(all.genes$gene,
+       length(unique(eqtl.df$Gene_Name)),
+       replace=FALSE)
+    overlap[i] <- length(intersect(predicted_genes, test_sample))
+
+  }
+  p_value <-
+      case_when(
+      length(overlap[overlap >= overlap_size]) == 0 ~ 
+        paste("p-value < ", as.character(1 / simulations)),
+      TRUE ~ paste("p-value = ", as.character(
+        overlap[overlap >= overlap_size] / simulations))
+      )
+  return(p_value)
+}
+
+# boostrap()
+rm(simulations)
+rm(overlap_size)
+rm(all.genes)
+
+```
+
+
+Effect size vs eQTL pvalues
+```{r eqtl_pvals_effects}
+ eqtl.df <- merge(eqtl.df, merged.df[,c("SNP", "eGene", "Overlap")], 
+                      by.x=c("SNP", "Gene_Name"),
+                      by.y=c("SNP", "eGene"),
+                      all.x=TRUE)
+ eqtl.df$Overlap <- ifelse(is.na(eqtl.df$Overlap), "False", eqtl.df$Overlap)
+overlap_names <- c(`True` = "Shin et al", `False` = "CoDeS3D")
+
+ggplot(eqtl.df, aes(x=Overlap, y=Effect_Size, fill=Overlap))+
+  geom_violin()+
+  scale_x_discrete("", labels=c("CoDeS3D", "Shin et al"))+
+  scale_y_continuous("eQTL effect size")+
+  scale_fill_viridis("", discrete = TRUE, 
+                    begin=0.3, end=0.85, direction=1)+
+  guides(fill=FALSE)+
+  theme_minimal()
+ 
+ 
+```
+
+
+
+```{r}
+pathway_sets <- read.delim("analysis/pathway_set_upset.txt")
+# Output from scripts/make_pathway_set.py
+
+# pdf("~/genome3d/tfad334/metabolites/figures/pathways_upset_rerun.pdf",
+#     width=5, height=5, useDingbats=FALSE, onefile = F)
+upset(pathway_sets, 
+      sets=c("Cellular.Processes", "Environmental.Information.Processing",
+             "Genetic.Information.Processing", "Human.Diseases",
+             "Metabolism", "Organismal.Systems"),
+      intersections=list(list("Metabolism","Cellular.Processes"),
+                         list("Metabolism","Environmental.Information.Processing"),
+                         list("Metabolism","Genetic.Information.Processing"),
+                         list("Metabolism","Organismal.Systems"),
+                         list("Metabolism","Human.Diseases")
+      ),
+      matrix.color = "red")
+# dev.off()
+
+```
+
+
+
+Enzyme Class
+Protein Atlas
+```{r protein_classification, warning=FALSE}
+atlas_genes <- read.delim("analysis/protein_atlas_genes.txt", header=TRUE)
+atlas <- read.delim("analysis/protein_atlas_class.txt", header=TRUE)
+# From scripts/get_protein_class.py
+
+atlas$Overlap <- "Study" 
+atlas$sd <- NA
+atlas_boot <- read.delim("analysis/bootstrap_protein_atlas_class.txt", header=TRUE)
+atlas_boot_aggre <- read.delim("analysis/bootstrap_protein_atlas_class_aggregate.txt", 
+                               header=TRUE, check.names = FALSE)
+# Output from scripts/boostrap_protein_atlas_class.py
+
+atlas_boot_aggre <- gather(
+  atlas_boot_aggre, 
+`Blood group antigen proteins`, `Cancer-related genes`,                  
+`Candidate cardiovascular disease genes`, `CD markers`,                            
+`Citric acid cycle related proteins`, `Disease related genes`,                 
+`Enzymes`, `FDA approved drug targets`, `G-protein coupled receptors`,
+`Nuclear receptors`, `Plasma proteins`, `Potential drug targets`,                
+`Predicted intracellular proteins`, `Predicted membrane proteins`,           
+`Predicted secreted proteins`, `RAS pathway related proteins`,          
+`Ribosomal proteins`, `Transcription factors`,                 
+`Transporters`, `Voltage-gated ion channels`, `RNA polymerase related proteins`,
+       key="Class", value="Freq")
+
+data_summary <- function(data, varname, groupnames){
+  require(plyr)
+  summary_func <- function(x, col){
+    c(mean = mean(x[[col]], na.rm=TRUE),
+      sd = sd(x[[col]], na.rm=TRUE))
+  }
+  data_sum<-ddply(data, groupnames, .fun=summary_func,
+                  varname)
+  data_sum <- rename(data_sum, c("mean" = varname))
+ return(data_sum)
+}
+
+atlas_boot_aggre <- data_summary(atlas_boot_aggre, varname="Freq", 
+             groupnames = c("Class"))
+atlas_boot_aggre$Overlap <- "Bootstrap"
+# enzyme_bootstrap_aggre$Class <- as.factor(enzyme_bootstrap_aggre$Class)
+
+
+
+atlas <- rbind(atlas, atlas_boot_aggre)
+ggplot(atlas, 
+       aes(
+         x=fct_reorder(Class,Freq, desc=FALSE),
+         y=Freq, fill=Overlap))+
+  geom_bar(stat="identity", position=position_dodge())+
+  geom_errorbar(aes(ymin=Freq-sd, ymax=Freq+sd), width=.2,
+                 position=position_dodge(width=0.9))+ 
+  scale_y_continuous("Count", expand=c(0,0), limits=c(0,400))+
+  scale_x_discrete("Enzyme class")+
+  scale_fill_manual("", values=c("gray", "black"))+
+  coord_flip()+
+  guides(fill=guide_legend(reverse=TRUE))+
+  theme_classic()#+
+  # ggsave("figures/enzyme_class_atlas_rerun.pdf", width=7, height=4, dpi=300, useDingbats=F)
+atlas_genes <- atlas_genes[, c("Gene", "Protein.class", "Subcellular.location")]
+atlas_genes <- atlas_genes[order(atlas_genes[, "Gene"]),]
+atlas_genes <- atlas_genes[!duplicated(atlas_genes$Gene),]
+merged.df <- distinct(merge(merged.df, 
+                   distinct(
+                     atlas_genes[, c("Gene", "Protein.class", "Subcellular.location")]), 
+                   by.x="eGene", by.y="Gene", all.x=TRUE))
+  
+# merged.df <- merged.df[, c("SNP", "eGene", "First_Level", "PHENOTYPE", 
+#                            "Predicted causal gene", "Overlap", "Protein.class",
+#                            "Subcellular.location")]
+# write_delim(merged.df[, c("SNP", "eGene", "First_Level", "PHENOTYPE",
+                           # "Predicted causal gene", "Overlap", "Protein.class",
+                           # "Subcellular.location")], 
+# "analysis/merged_cleaned.txt", delim="\t")
+```
+
+
+Drug Associations
+
+```{r drug_associations, warning=FALSE, message=FALSE}
+drugs <- read.delim("analysis/dgi_druggable_genes.txt", header=TRUE)
+# From scripts/get_dgi_drug_targets.py
+drugs <- as.tibble(drugs)
+drugs <- drugs %>% mutate(Drug_Name = toupper(drugs$Drug_Name))
+drugs <- merge(drugs, merged.df[, c("eGene", "Overlap")],
+               by.x="Gene_Name", by.y="eGene")
+drugs.count <- count(drugs %>% distinct(Gene_Name, Drug_Name,
+                            .keep_all=TRUE), 
+                     vars=c("Gene_Name"))
+drug.eqtls <- count(drugs %>% distinct(Gene_Name,SNP,
+                            .keep_all=TRUE), 
+                     vars=c("Gene_Name"))
+drug.eqtls <- merge(drug.eqtls, 
+                    eqtl.df[, c("Gene_Name", "Gene_Chromosome", "SNP.gene_Distance")]) %>%
+  distinct(Gene_Name,SNP.gene_Distance,
+                            .keep_all=TRUE) %>% mutate(
+  Interaction = case_when(
+    is.na(SNP.gene_Distance) ~ "Interchromosomal",
+    SNP.gene_Distance <= 1000000 ~ "Cis",
+    SNP.gene_Distance > 1000000 ~ "Trans"
+    )
+                            )
+drugs.count <- merge(drugs.count,
+                     drug.eqtls,
+               by="Gene_Name") %>% mutate(
+                 Drugs_count = freq.x,
+                 SNP_count = freq.y,
+                 freq.x = NULL,
+                  freq.y = NULL
+               )
+
+drugs.count <- merge(drugs.count, drugs[, c("Gene_Name", "Overlap")],
+                     by=c("Gene_Name")) %>% distinct(Gene_Name, Drug_Name, .keep_all=TRUE)
+
+ggplot(drugs.count, aes(x=Gene_Chromosome, y=Drugs_count, color=Overlap, 
+                        shape=factor(Interaction, 
+                                     levels=c("Cis", "Trans", "Interchromosomal"))))+
+  geom_jitter(stat="identity", position=position_jitter(0.4), alpha=0.8, size=2)+
+  geom_text(aes(label=Gene_Name), size=2, check_overlap = T, nudge_x = 0, nudge_y = 4)+
+  scale_x_continuous("Chromosome", breaks = seq(1,22,1), labels=seq(1,22,1),
+                     expand=c(0.03,0))+
+  scale_y_continuous("Number of drugs", expand=c(0.03,0.1), limit=c(0, 150))+
+  scale_color_viridis("SNP-gene association", 
+                      labels = c("Novel", "Overlap with Shin et al."), 
+                      discrete = TRUE, 
+                    begin=0.3, end=0.85, direction=1)+
+  scale_shape_discrete("SNP-gene distance", 
+                       
+                       labels= c("< 1 Mb", ">= 1 Mb", "Interchromosomal"))+
+  theme_minimal()+
+  theme(axis.text.x = element_text(angle=0), 
+        panel.grid.major.x = element_blank())+
+  guides(size=FALSE)#+
+  # ggsave("figures/drugs_rerun.pdf", width=8, height=4, dpi=300, useDingbats=F)
+
+# write_delim(distinct(drugs[, c("Gene_Name", "Drug_Name", "Interaction_Type","Source")]),
+#             "analysis/rerun/drugs_cleaned.txt", delim="\t")
+
+
+```
+
+
+
+Text Mining
+Run 'text_mining.py' to query PubMed for articles.
+To filter off PubMed results with no overlapping articles:
+#`awk -F"\t" '$5>0 {print}' esearch_results.txt > esearch_intersection.txt`
+`awk -F"\t" '$3>0 {print}' esearch_metabolites.txt | sort -k1,1 -k2,2 | uniq > esearch_gene_metabolites.txt `
+
+To extract gene-metabolite literature overlap:
+#`awk -F"\t" 'NR==FNR{a[$2,$5]++; next}; ($1,$2) in a' phenogram1.txt #esearch_intersection.txt > esearch_matched_gene_metabolite.txt`
+
+```{r}
+# Common articles (>= 1) between egenes and SNP-associated metabolites: 90
+curated <- read.delim("analysis/curated.txt", header=TRUE)
+
+gene_metabolites <- read.delim("analysis/esearch_gene_metabolites.txt",
+                               header=FALSE)
+names(gene_metabolites) <- c("Gene", "Metabolite",
+                             "Common_articles", "Common_articles_list")
+# 59
+gene_metabolites <- merge(gene_metabolites, 
+                          merged.df[,
+                                    c("SNP", "eGene","SNP_PHENOTYPE", 
+                                      "Predicted causal gene",
+                                      "Overlap")],
+                          by.x = c("Gene", "Metabolite"),
+                          by.y = c("eGene", "SNP_PHENOTYPE"),
+                          suffixes = TRUE) 
+
+predicted_gene_metabolites <- subset(gene_metabolites, Overlap=="True")[, c("Gene", "Metabolite")]  
+predicted_gene_metabolites <- predicted_gene_metabolites %>% mutate(
+  Association = "",
+  PubMedID = ""
+)
+curated <- rbind(curated, predicted_gene_metabolites)
+predicted_gene_metabolites <- NULL
+curated <- curated %>% mutate(
+  gene_metab = paste0(Gene, "_", Metabolite)
+)
+# Number of predicted causal genes in text mining: 42. 
+length(unique(subset(gene_metabolites, Overlap=="True")$Gene))
+# write.table(subset(gene_metabolites, Overlap=="False"), 
+#             file = "analysis/novel_textmining.txt", 
+#             sep = "\t", row.names=FALSE, quote=FALSE)
+
+
+
+
+  
+
+```
+
+
+
+
+```{r}
+# curated <- read.delim("analysis/curated.txt", header=TRUE)
+curated <- merge(curated, distinct(merged.df[, c("eGene", "First_Level")]),
+                  by.x = c("Gene"), by.y = c("eGene"))
+
+# Druggable genes with at least one pathway: 
+# 119 genes, 127 pairs, 79 novel pairs, 29 curated, 10 novel curated
+# intersect(unique(subset(pathway_sets, Unknown == 0)$Gene), unique(drugs.count$Gene_Name))
+df <- subset(merged.df, 
+             eGene %in% intersect(unique(subset(pathway_sets, Unknown == 0)$Gene),
+                                  unique(drug.eqtls$Gene_Name)))
+df <- df %>% mutate(
+  gene_metab = paste0(eGene, "_", SNP_PHENOTYPE)
+)
+length(unique(df$eGene))
+subset(df, Overlap=="False")$eGene
+subset(df, gene_metab %in% curated$gene_metab)$eGene
+subset(df, Overlap=="False" & gene_metab %in% curated$gene_metab)$eGene
+# df_curated <- subset(df, gene_metab %in% curated$gene_metab)
+# df_drugs <- subset(drugs, Gene_Name %in% df_curated$eGene)
+
+# Genes in >= 1 pathway with gene-metabolite literature support:  
+# 218 genes, 233 SNP-gene pairs, 173 novel SNP-gene pairs, 31 curated, 10 novel curated
+# intersect(unique(subset(pathway_sets, Unknown == 0)$Gene), unique(gene_metabolites$Gene))
+df <- subset(merged.df,
+             eGene %in% unique(subset(pathway_sets, Unknown == 0)$Gene))
+df <- df %>% mutate(
+  gene_metab = paste0(eGene, "_", SNP_PHENOTYPE)
+)
+length(unique(df$eGene))
+subset(df, Overlap=="False")$eGene
+subset(df, gene_metab %in% curated$gene_metab)$eGene
+subset(df, Overlap=="False" & gene_metab %in% curated$gene_metab)$eGene
+
+# Druggable metabolism genes: 68 genes, 72 pairs, 33 novel pairs, 18 curated, 4 novel curated
+# intersect(unique(metabolism$eGene), unique(drugs.count$Gene_Name))
+df <- subset(merged.df, 
+             eGene %in% intersect(
+               subset(merged.df,  grepl("Metabolism", First_Level))$eGene,
+                                             unique(drugs.count$Gene_Name)))
+df <- df %>% mutate(
+  gene_metab = paste0(eGene, "_", SNP_PHENOTYPE)
+)
+length(unique(df$eGene))
+subset(df, Overlap=="False")$eGene
+subset(df, gene_metab %in% curated$gene_metab)$eGene
+subset(df, Overlap=="False" & gene_metab %in% curated$gene_metab)$eGene
+
+# Metabolism genes: 95 genes, 103 pairs, 57 novel pairs, 19 curated, 4 curated
+# intersect(unique(metabolism$eGene), unique(gene_metabolites$Gene))
+df <- subset(merged.df,  grepl("Metabolism", First_Level))
+df <- df %>% mutate(
+  gene_metab = paste0(eGene, "_", SNP_PHENOTYPE)
+)
+length(unique(df$eGene))
+subset(df, Overlap=="False")$eGene
+subset(df, gene_metab %in% curated$gene_metab)$eGene
+subset(df, Overlap=="False" & gene_metab %in% curated$gene_metab)$eGene
+
+# Druggable genes in >= 1 protein class: 147 genes, 154 gene-metabolite pairs, 103 novel pairs, 10 curated
+# intersect(unique(atlas_genes$Gene), unique(drugs.count$Gene_Name))
+df <- subset(merged.df, eGene %in% intersect(unique(atlas_genes$Gene),
+                                             unique(drugs.count$Gene_Name)))
+df <- df %>% mutate(
+  gene_metab = paste0(eGene, "_", SNP_PHENOTYPE)
+)
+length(unique(df$eGene))
+subset(df, Overlap=="False")$eGene
+subset(df, gene_metab %in% curated$gene_metab)$eGene
+subset(df, Overlap=="False" & gene_metab %in% curated$gene_metab)$eGene
+
+# Gene in >= 1 protein class: 82 genes, 62 pairs, 35 novel pairs, 15 curated
+# intersect(unique(atlas_genes$Gene), unique(gene_metabolites$Gene))
+df <- subset(merged.df, eGene %in% unique(atlas_genes$Gene))
+df <- df %>% mutate(
+  gene_metab = paste0(eGene, "_", SNP_PHENOTYPE)
+)
+length(unique(df$eGene))
+subset(df, Overlap=="False")$eGene
+subset(df, gene_metab %in% curated$gene_metab)$eGene
+subset(df, Overlap=="False" & gene_metab %in% curated$gene_metab)$eGene
+
+# druggable genes with gene-Metabolite literature support: 44 genes, 33 SNP-gene pairs, 13 novel SNP-gene pairs, 10 curated pairs
+# intersect(unique(gene_metabolites$Gene), unique(drugs.count$Gene_Name))
+# df <- subset(merged.df, 
+#              eGene %in% intersect(unique(gene_metabolites$Gene), unique(drugs.count$Gene_Name))
+# )
+# subset(df, Overlap=="False")$eGene
+# subset(df, Overlap=="False" & eGene %in% curated$Gene)$eGene
+
+
+```
+
+
+```{r}
+# genes.pathways <- as.tibble(unique(subset(kegg.df, First_Level != "Unknown")$ANNOTATION)) #218
+# genes.drugs <- as.tibble(unique(drug.eqtls$Gene_Name)) #147
+# genes.proteins <- as.tibble(unique(subset(atlas_genes, 
+#         grepl("Enzyme", Protein.class, fixed=TRUE) |
+#         grepl("Disease related genes", Protein.class, fixed=TRUE) |
+#         grepl("drugs", Protein.class, fixed=TRUE))$Gene)) #226
+# ideogram <- subset(merged.df, eGene %in%
+#   unique(union_all(genes.drugs$value, genes.pathways$value)))
+# ideogram <- ideogram %>% mutate(
+#   Chrom = paste0("chr", CHR)
+# )
+# write_delim(ideogram[, c("Chrom", "POS", "END", "eGene", "SNP", "SNP_PHENOTYPE",
+#                          "Overlap")], 
+#             "analysis/ideogram.txt", delim="\t")
+# write_delim(distinct(ideogram[, c("Chrom", "POS", "END")]),
+#             "analysis/ideogram_unique.bed", delim="\t")
+# write_delim(distinct(eqtl.df[, c("SNP", "SNP_Chromosome", "SNP_Locus")]),
+#             "analysis/eqtl_snps.txt", delim="\t")
+
+
+```
+

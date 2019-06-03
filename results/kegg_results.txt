@@ -1,0 +1,1758 @@
+Pathway Search Result
+Following object(s) was/were not found hsa:AC003075.4 hsa:AC004381.6 hsa:AC005237.4 hsa:AC008731.1 hsa:AC012314.8 hsa:AC016725.4 hsa:AC027763.2 hsa:AC034220.3 hsa:AC063976.7 hsa:AC074117.10 hsa:AC093391.2 hsa:AC104135.3 hsa:AC104809.3 hsa:AC104809.4 hsa:AC132872.2 hsa:AD000092.3 hsa:ADHFE1 hsa:AFF4 hsa:ALMS1 hsa:ALMS1P hsa:ANKFY1 hsa:ANKH hsa:ANKIB1 hsa:ANXA4 hsa:APOPT1 hsa:ARVCF hsa:ASF1B hsa:ASTN1 hsa:ATP11B hsa:ATP5J2 hsa:ATP8B4 hsa:ATRAID hsa:AVL9 hsa:BAG6 hsa:BAHD1 hsa:BASP1 hsa:BCAM hsa:BLOC1S2 hsa:C10orf129 hsa:C12orf43 hsa:C16orf52 hsa:C17orf107 hsa:C19orf40 hsa:C1QBP hsa:C1orf123 hsa:C2orf54 hsa:C6orf201 hsa:C8orf22 hsa:C8orf46 hsa:C9orf114 hsa:CABIN1 hsa:CACUL1 hsa:CAMTA2 hsa:CAPN5 hsa:CCBL1 hsa:CCBL2 hsa:CCDC163P hsa:CCDC57 hsa:CCDC77 hsa:CCT6A hsa:CEP152 hsa:CEP89 hsa:CES4A hsa:CHTF18 hsa:CLEC16A hsa:CMIP hsa:CNPY2 hsa:CNPY4 hsa:COPB1 hsa:COX6B1P4 hsa:CPQ hsa:CRLF1 hsa:CTA-384D8.36 hsa:CTD-2134A5.4 hsa:CTD-2192J16.21 hsa:CTD-2265O21.3 hsa:CTD-3065J16.9 hsa:CTD-3098H1.2 hsa:CYP4B1 hsa:CYP4V2 hsa:DCAF7 hsa:DCUN1D1 hsa:DDAH2 hsa:DGCR9 hsa:DIP2B hsa:DISP2 hsa:DLGAP4 hsa:DNAJC13 hsa:DNAJC3-AS1 hsa:DOCK10 hsa:DOCK3 hsa:DOCK7 hsa:DOPEY1 hsa:DUS1L hsa:DXO hsa:EEF1E1 hsa:EFCAB1 hsa:EFCAB14 hsa:ELL hsa:ELOVL2-AS1 hsa:EPPK1 hsa:ERI3 hsa:ETFDH hsa:FADS3 hsa:FAM149A hsa:FAM216A hsa:FAM217A hsa:FAM53B hsa:FAM69A hsa:FAM83E hsa:FBXO21 hsa:FBXO39 hsa:FGD4 hsa:FGF14 hsa:FMO6P hsa:FNDC4 hsa:FOXN3 hsa:FTSJ3 hsa:FUOM hsa:GABPB1-AS1 hsa:GBAS hsa:GCKR hsa:GEMIN8P2 hsa:GPR158 hsa:GPRIN1 hsa:GPS1 hsa:GRID2IP hsa:GS1-259H13.2 hsa:HCG20 hsa:HCG27 hsa:HEATR4 hsa:HELLS hsa:HERC6 hsa:HLA-DQB2 hsa:HLA-DRB6 hsa:HOOK2 hsa:HPS1 hsa:HPS5 hsa:IGFALS hsa:INCA1 hsa:INCENP hsa:ITIH4 hsa:KANSL1L hsa:KCNH6 hsa:KDM5A hsa:KIAA0101 hsa:KIAA1467 hsa:KIAA1875 hsa:KIAA1919 hsa:KIF1C hsa:KNSTRN hsa:KRT8P28 hsa:KRTCAP3 hsa:LACTB hsa:LINC00243 hsa:LINC00637 hsa:LPAL2 hsa:LPP hsa:LRRC25 hsa:LRRC45 hsa:LRRC8A hsa:LY6G5B hsa:LY6G5C hsa:LY6G6E hsa:MACF1 hsa:MAF1 hsa:MAMSTR hsa:MAP3K19 hsa:MARK3 hsa:MAST2 hsa:MCCC1-AS1 hsa:MEIOB hsa:MLEC hsa:MOB3C hsa:MRGPRX3 hsa:MRPS34 hsa:MSANTD1 hsa:MSH4 hsa:MTND4P19 hsa:MTPN hsa:MUC4 hsa:MXD3 hsa:MYBL1 hsa:MYO5A hsa:MYO9B hsa:MYT1L hsa:NAV1 hsa:NBPF18P hsa:NBPF3 hsa:NELFE hsa:NFIX hsa:NLRC5 hsa:NOC3L hsa:NRBP1 hsa:NRN1L hsa:NSUN4 hsa:NTAN1 hsa:NTN5 hsa:NUBP2 hsa:NUDT3 hsa:ODF3B hsa:OXR1 hsa:PARP10 hsa:PDCD11 hsa:PDCD5 hsa:PDILT hsa:PDLIM1 hsa:PDLIM4 hsa:PDXDC1 hsa:PGPEP1 hsa:PHYHD1 hsa:PKD1P6 hsa:PKNOX1 hsa:PLEC hsa:PM20D2 hsa:PNRC1 hsa:PPM1G hsa:PPM1K hsa:PPME1 hsa:PPP1R10 hsa:PPP1R13B hsa:PPP2R4 hsa:PRDX2 hsa:PRELID1 hsa:PRMT7 hsa:PRRC2A hsa:PRRT1 hsa:PSMD9 hsa:PSORS1C3 hsa:PTCD1 hsa:PYROXD2 hsa:RAB24 hsa:RANBP3L hsa:RASIP1 hsa:RBMS2 hsa:RERE hsa:RFX1 hsa:RNF167 hsa:RNF182 hsa:RP11-1024P17.1 hsa:RP11-10H3.1 hsa:RP11-10L7.1 hsa:RP11-111A22.1 hsa:RP11-1220K2.2 hsa:RP11-1376P16.1 hsa:RP11-143N13.1 hsa:RP11-150O12.1 hsa:RP11-173P15.7 hsa:RP11-247A12.1 hsa:RP11-247A12.2 hsa:RP11-266L9.2 hsa:RP11-266L9.4 hsa:RP11-266L9.6 hsa:RP11-283I3.2 hsa:RP11-30P6.6 hsa:RP11-321G12.1 hsa:RP11-410D17.2 hsa:RP11-445P17.8 hsa:RP11-589P10.5 hsa:RP11-593F23.1 hsa:RP11-598F7.6 hsa:RP11-611E13.2 hsa:RP11-680G24.5 hsa:RP11-72I8.1 hsa:RP11-81A22.5 hsa:RP11-977G19.11 hsa:RP3-400B16.4 hsa:RP3-400N23.6 hsa:RP3-414A15.11 hsa:RP4-536B24.2 hsa:RPAP3 hsa:RPL17P11 hsa:RPL39L hsa:RRN3 hsa:RSF1 hsa:RSU1 hsa:RTBDN hsa:S100A10 hsa:S100A11 hsa:SAP130 hsa:SCAPER hsa:SEC16A hsa:SEC1P hsa:SLBP hsa:SLC16A9 hsa:SLC17A1 hsa:SLC17A3 hsa:SLC1A4 hsa:SLC25A11 hsa:SLC2A9 hsa:SLC30A6 hsa:SLC38A7 hsa:SLC52A1 hsa:SLC5A11 hsa:SLC7A6 hsa:SNED1 hsa:SNX17 hsa:SPAG7 hsa:SPAST hsa:SPPL3 hsa:SPRYD4 hsa:SRSF12 hsa:SSBP4 hsa:STK19 hsa:STRIP1 hsa:SUMF2 hsa:SYCE2 hsa:SYCP2L hsa:SZRD1 hsa:TBC1D12 hsa:TBC1D13 hsa:TCTN3 hsa:TDRD12 hsa:TDRD9 hsa:TEKT1 hsa:THUMPD1 hsa:TLL2 hsa:TM4SF19 hsa:TMC4 hsa:TMEM159 hsa:TMEM163 hsa:TMEM176A hsa:TMEM176B hsa:TMEM258 hsa:TMEM69 hsa:TNIK hsa:TNK2 hsa:TOR1A hsa:TPRKB hsa:TPT1-AS1 hsa:TRIM38 hsa:TRIM4 hsa:TRIM54 hsa:TSPAN1 hsa:U91328.19 hsa:UBXN4 hsa:UFSP2 hsa:UGT1A2P hsa:UNC119B hsa:USP40 hsa:VPS54 hsa:VSX2 hsa:VWA7 hsa:WDR66 hsa:WDR83OS hsa:ZDHHC19 hsa:ZFPM1 hsa:ZKSCAN5 hsa:ZNF346 hsa:ZNF513 hsa:ZNF697
+Sort by the number of hits
+Hide all objects
+hsa01100 Metabolic pathways - Homo sapiens (human) (77)
+
+hsa:34 ACADM; acyl-CoA dehydrogenase medium chain
+hsa:35 ACADS; acyl-CoA dehydrogenase short chain
+hsa:641371 ACOT1; acyl-CoA thioesterase 1
+hsa:10965 ACOT2; acyl-CoA thioesterase 2
+hsa:23305 ACSL6; acyl-CoA synthetase long chain family member 6
+hsa:116285 ACSM1; acyl-CoA synthetase medium chain family member 1
+hsa:6296 ACSM3; acyl-CoA synthetase medium chain family member 3
+hsa:54988 ACSM5; acyl-CoA synthetase medium chain family member 5
+hsa:189 AGXT; alanine--glyoxylate and serine--pyruvate aminotransferase
+hsa:8644 AKR1C3; aldo-keto reductase family 1 member C3
+hsa:5832 ALDH18A1; aldehyde dehydrogenase 18 family member A1
+hsa:8854 ALDH1A2; aldehyde dehydrogenase 1 family member A2
+hsa:217 ALDH2; aldehyde dehydrogenase 2 family member
+hsa:239 ALOX12; arachidonate 12-lipoxygenase, 12S type
+hsa:249 ALPL; alkaline phosphatase, biomineralization associated
+hsa:272 AMPD3; adenosine monophosphate deaminase 3
+hsa:290 ANPEP; alanyl aminopeptidase, membrane
+hsa:26 AOC1; amine oxidase, copper containing 1
+hsa:635 BHMT; betaine--homocysteine S-methyltransferase
+hsa:23743 BHMT2; betaine--homocysteine S-methyltransferase 2
+hsa:790 CAD; carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase
+hsa:875 CBS; cystathionine-beta-synthase
+hsa:253782 CERS6; ceramide synthase 6
+hsa:1120 CHKB; choline kinase beta
+hsa:1312 COMT; catechol-O-methyltransferase
+hsa:1562 CYP2C18; cytochrome P450 family 2 subfamily C member 18
+hsa:1557 CYP2C19; cytochrome P450 family 2 subfamily C member 19
+hsa:1558 CYP2C8; cytochrome P450 family 2 subfamily C member 8
+hsa:1559 CYP2C9; cytochrome P450 family 2 subfamily C member 9
+hsa:1577 CYP3A5; cytochrome P450 family 3 subfamily A member 5
+hsa:1551 CYP3A7; cytochrome P450 family 3 subfamily A member 7
+hsa:1579 CYP4A11; cytochrome P450 family 4 subfamily A member 11
+hsa:51181 DCXR; dicarbonyl and L-xylulose reductase
+hsa:1892 ECHS1; enoyl-CoA hydratase, short chain 1
+hsa:2027 ENO3; enolase 3
+hsa:81889 FAHD1; fumarylacetoacetate hydrolase domain containing 1
+hsa:2194 FASN; fatty acid synthase
+hsa:2356 FPGS; folylpolyglutamate synthase
+hsa:2524 FUT2; fucosyltransferase 2
+hsa:339896 GADL1; glutamate decarboxylase like 1
+hsa:23193 GANAB; glucosidase II alpha subunit
+hsa:2639 GCDH; glutaryl-CoA dehydrogenase
+hsa:2806 GOT2; glutamic-oxaloacetic transaminase 2
+hsa:8733 GPAA1; glycosylphosphatidylinositol anchor attachment 1
+hsa:3098 HK1; hexokinase 1
+hsa:3620 IDO1; indoleamine 2,3-dioxygenase 1
+hsa:169355 IDO2; indoleamine 2,3-dioxygenase 2
+hsa:51477 ISYNA1; inositol-3-phosphate synthase 1
+hsa:3712 IVD; isovaleryl-CoA dehydrogenase
+hsa:3939 LDHA; lactate dehydrogenase A
+hsa:3990 LIPC; lipase C, hepatic type
+hsa:9388 LIPG; lipase G, endothelial type
+hsa:10905 MAN1A2; mannosidase alpha class 1A member 2
+hsa:56922 MCCC1; methylcrotonoyl-CoA carboxylase 1
+hsa:8972 MGAM; maltase-glucoamylase
+hsa:4832 NME3; NME/NM23 nucleoside diphosphate kinase 3
+hsa:4907 NT5E; 5'-nucleotidase ecto
+hsa:26873 OPLAH; 5-oxoprolinase, ATP-hydrolysing
+hsa:8974 P4HA2; prolyl 4-hydroxylase subunit alpha 2
+hsa:5053 PAH; phenylalanine hydroxylase
+hsa:5130 PCYT1A; phosphate cytidylyltransferase 1, choline, alpha
+hsa:5236 PGM1; phosphoglucomutase 1
+hsa:26227 PHGDH; phosphoglycerate dehydrogenase
+hsa:5625 PRODH; proline dehydrogenase 1
+hsa:81490 PTDSS2; phosphatidylserine synthase 2
+hsa:6120 RPE; ribulose-5-phosphate-3-epimerase
+hsa:8879 SGPL1; sphingosine-1-phosphate lyase 1
+hsa:55512 SMPD3; sphingomyelin phosphodiesterase 3
+hsa:55304 SPTLC3; serine palmitoyltransferase long chain base subunit 3
+hsa:8801 SUCLG2; succinate-CoA ligase GDP-forming beta subunit
+hsa:6999 TDO2; tryptophan 2,3-dioxygenase
+hsa:7086 TKT; transketolase
+hsa:1890 TYMP; thymidine phosphorylase
+hsa:54658 UGT1A1; UDP glucuronosyltransferase family 1 member A1
+hsa:54578 UGT1A6; UDP glucuronosyltransferase family 1 member A6
+hsa:54577 UGT1A7; UDP glucuronosyltransferase family 1 member A7
+hsa:7498 XDH; xanthine dehydrogenase
+
+hsa01200 Carbon metabolism - Homo sapiens (human) (11)
+
+hsa:34 ACADM; acyl-CoA dehydrogenase medium chain
+hsa:35 ACADS; acyl-CoA dehydrogenase short chain
+hsa:189 AGXT; alanine--glyoxylate and serine--pyruvate aminotransferase
+hsa:1892 ECHS1; enoyl-CoA hydratase, short chain 1
+hsa:2027 ENO3; enolase 3
+hsa:2806 GOT2; glutamic-oxaloacetic transaminase 2
+hsa:3098 HK1; hexokinase 1
+hsa:26227 PHGDH; phosphoglycerate dehydrogenase
+hsa:6120 RPE; ribulose-5-phosphate-3-epimerase
+hsa:8801 SUCLG2; succinate-CoA ligase GDP-forming beta subunit
+hsa:7086 TKT; transketolase
+
+hsa01210 2-Oxocarboxylic acid metabolism - Homo sapiens (human) (1)
+
+hsa:2806 GOT2; glutamic-oxaloacetic transaminase 2
+
+hsa01212 Fatty acid metabolism - Homo sapiens (human) (10)
+
+hsa:34 ACADM; acyl-CoA dehydrogenase medium chain
+hsa:35 ACADS; acyl-CoA dehydrogenase short chain
+hsa:23305 ACSL6; acyl-CoA synthetase long chain family member 6
+hsa:1375 CPT1B; carnitine palmitoyltransferase 1B
+hsa:1376 CPT2; carnitine palmitoyltransferase 2
+hsa:1892 ECHS1; enoyl-CoA hydratase, short chain 1
+hsa:3992 FADS1; fatty acid desaturase 1
+hsa:9415 FADS2; fatty acid desaturase 2
+hsa:2194 FASN; fatty acid synthase
+hsa:6319 SCD; stearoyl-CoA desaturase
+
+hsa01230 Biosynthesis of amino acids - Homo sapiens (human) (8)
+
+hsa:5832 ALDH18A1; aldehyde dehydrogenase 18 family member A1
+hsa:875 CBS; cystathionine-beta-synthase
+hsa:2027 ENO3; enolase 3
+hsa:2806 GOT2; glutamic-oxaloacetic transaminase 2
+hsa:5053 PAH; phenylalanine hydroxylase
+hsa:26227 PHGDH; phosphoglycerate dehydrogenase
+hsa:6120 RPE; ribulose-5-phosphate-3-epimerase
+hsa:7086 TKT; transketolase
+
+hsa00010 Glycolysis / Gluconeogenesis - Homo sapiens (human) (5)
+
+hsa:217 ALDH2; aldehyde dehydrogenase 2 family member
+hsa:2027 ENO3; enolase 3
+hsa:3098 HK1; hexokinase 1
+hsa:3939 LDHA; lactate dehydrogenase A
+hsa:5236 PGM1; phosphoglucomutase 1
+
+hsa00020 Citrate cycle (TCA cycle) - Homo sapiens (human) (1)
+
+hsa:8801 SUCLG2; succinate-CoA ligase GDP-forming beta subunit
+
+hsa00030 Pentose phosphate pathway - Homo sapiens (human) (3)
+
+hsa:5236 PGM1; phosphoglucomutase 1
+hsa:6120 RPE; ribulose-5-phosphate-3-epimerase
+hsa:7086 TKT; transketolase
+
+hsa00040 Pentose and glucuronate interconversions - Homo sapiens (human) (5)
+
+hsa:51181 DCXR; dicarbonyl and L-xylulose reductase
+hsa:6120 RPE; ribulose-5-phosphate-3-epimerase
+hsa:54658 UGT1A1; UDP glucuronosyltransferase family 1 member A1
+hsa:54578 UGT1A6; UDP glucuronosyltransferase family 1 member A6
+hsa:54577 UGT1A7; UDP glucuronosyltransferase family 1 member A7
+
+hsa00051 Fructose and mannose metabolism - Homo sapiens (human) (1)
+
+hsa:3098 HK1; hexokinase 1
+
+hsa00052 Galactose metabolism - Homo sapiens (human) (3)
+
+hsa:3098 HK1; hexokinase 1
+hsa:8972 MGAM; maltase-glucoamylase
+hsa:5236 PGM1; phosphoglucomutase 1
+
+hsa00053 Ascorbate and aldarate metabolism - Homo sapiens (human) (4)
+
+hsa:217 ALDH2; aldehyde dehydrogenase 2 family member
+hsa:54658 UGT1A1; UDP glucuronosyltransferase family 1 member A1
+hsa:54578 UGT1A6; UDP glucuronosyltransferase family 1 member A6
+hsa:54577 UGT1A7; UDP glucuronosyltransferase family 1 member A7
+
+hsa00500 Starch and sucrose metabolism - Homo sapiens (human) (3)
+
+hsa:3098 HK1; hexokinase 1
+hsa:8972 MGAM; maltase-glucoamylase
+hsa:5236 PGM1; phosphoglucomutase 1
+
+hsa00520 Amino sugar and nucleotide sugar metabolism - Homo sapiens (human) (2)
+
+hsa:3098 HK1; hexokinase 1
+hsa:5236 PGM1; phosphoglucomutase 1
+
+hsa00620 Pyruvate metabolism - Homo sapiens (human) (3)
+
+hsa:217 ALDH2; aldehyde dehydrogenase 2 family member
+hsa:3029 HAGH; hydroxyacylglutathione hydrolase
+hsa:3939 LDHA; lactate dehydrogenase A
+
+hsa00630 Glyoxylate and dicarboxylate metabolism - Homo sapiens (human) (1)
+
+hsa:189 AGXT; alanine--glyoxylate and serine--pyruvate aminotransferase
+
+hsa00640 Propanoate metabolism - Homo sapiens (human) (4)
+
+hsa:34 ACADM; acyl-CoA dehydrogenase medium chain
+hsa:1892 ECHS1; enoyl-CoA hydratase, short chain 1
+hsa:3939 LDHA; lactate dehydrogenase A
+hsa:8801 SUCLG2; succinate-CoA ligase GDP-forming beta subunit
+
+hsa00650 Butanoate metabolism - Homo sapiens (human) (5)
+
+hsa:35 ACADS; acyl-CoA dehydrogenase short chain
+hsa:116285 ACSM1; acyl-CoA synthetase medium chain family member 1
+hsa:6296 ACSM3; acyl-CoA synthetase medium chain family member 3
+hsa:54988 ACSM5; acyl-CoA synthetase medium chain family member 5
+hsa:1892 ECHS1; enoyl-CoA hydratase, short chain 1
+
+hsa00562 Inositol phosphate metabolism - Homo sapiens (human) (1)
+
+hsa:51477 ISYNA1; inositol-3-phosphate synthase 1
+
+hsa00061 Fatty acid biosynthesis - Homo sapiens (human) (2)
+
+hsa:23305 ACSL6; acyl-CoA synthetase long chain family member 6
+hsa:2194 FASN; fatty acid synthase
+
+hsa00062 Fatty acid elongation - Homo sapiens (human) (4)
+
+hsa:641371 ACOT1; acyl-CoA thioesterase 1
+hsa:10965 ACOT2; acyl-CoA thioesterase 2
+hsa:1892 ECHS1; enoyl-CoA hydratase, short chain 1
+hsa:117145 THEM4; thioesterase superfamily member 4
+
+hsa00071 Fatty acid degradation - Homo sapiens (human) (10)
+
+hsa:34 ACADM; acyl-CoA dehydrogenase medium chain
+hsa:35 ACADS; acyl-CoA dehydrogenase short chain
+hsa:23305 ACSL6; acyl-CoA synthetase long chain family member 6
+hsa:217 ALDH2; aldehyde dehydrogenase 2 family member
+hsa:1375 CPT1B; carnitine palmitoyltransferase 1B
+hsa:1376 CPT2; carnitine palmitoyltransferase 2
+hsa:1579 CYP4A11; cytochrome P450 family 4 subfamily A member 11
+hsa:1892 ECHS1; enoyl-CoA hydratase, short chain 1
+hsa:10455 ECI2; enoyl-CoA delta isomerase 2
+hsa:2639 GCDH; glutaryl-CoA dehydrogenase
+
+hsa00140 Steroid hormone biosynthesis - Homo sapiens (human) (7)
+
+hsa:8644 AKR1C3; aldo-keto reductase family 1 member C3
+hsa:1312 COMT; catechol-O-methyltransferase
+hsa:1577 CYP3A5; cytochrome P450 family 3 subfamily A member 5
+hsa:1551 CYP3A7; cytochrome P450 family 3 subfamily A member 7
+hsa:54658 UGT1A1; UDP glucuronosyltransferase family 1 member A1
+hsa:54578 UGT1A6; UDP glucuronosyltransferase family 1 member A6
+hsa:54577 UGT1A7; UDP glucuronosyltransferase family 1 member A7
+
+hsa00561 Glycerolipid metabolism - Homo sapiens (human) (3)
+
+hsa:217 ALDH2; aldehyde dehydrogenase 2 family member
+hsa:3990 LIPC; lipase C, hepatic type
+hsa:9388 LIPG; lipase G, endothelial type
+
+hsa00564 Glycerophospholipid metabolism - Homo sapiens (human) (5)
+
+hsa:1120 CHKB; choline kinase beta
+hsa:79143 MBOAT7; membrane bound O-acyltransferase domain containing 7
+hsa:5130 PCYT1A; phosphate cytidylyltransferase 1, choline, alpha
+hsa:23659 PLA2G15; phospholipase A2 group XV
+hsa:81490 PTDSS2; phosphatidylserine synthase 2
+
+hsa00600 Sphingolipid metabolism - Homo sapiens (human) (6)
+
+hsa:410 ARSA; arylsulfatase A
+hsa:253782 CERS6; ceramide synthase 6
+hsa:4758 NEU1; neuraminidase 1
+hsa:8879 SGPL1; sphingosine-1-phosphate lyase 1
+hsa:55512 SMPD3; sphingomyelin phosphodiesterase 3
+hsa:55304 SPTLC3; serine palmitoyltransferase long chain base subunit 3
+
+hsa00590 Arachidonic acid metabolism - Homo sapiens (human) (6)
+
+hsa:8644 AKR1C3; aldo-keto reductase family 1 member C3
+hsa:239 ALOX12; arachidonate 12-lipoxygenase, 12S type
+hsa:1557 CYP2C19; cytochrome P450 family 2 subfamily C member 19
+hsa:1558 CYP2C8; cytochrome P450 family 2 subfamily C member 8
+hsa:1559 CYP2C9; cytochrome P450 family 2 subfamily C member 9
+hsa:1579 CYP4A11; cytochrome P450 family 4 subfamily A member 11
+
+hsa00591 Linoleic acid metabolism - Homo sapiens (human) (3)
+
+hsa:1557 CYP2C19; cytochrome P450 family 2 subfamily C member 19
+hsa:1558 CYP2C8; cytochrome P450 family 2 subfamily C member 8
+hsa:1559 CYP2C9; cytochrome P450 family 2 subfamily C member 9
+
+hsa00592 alpha-Linolenic acid metabolism - Homo sapiens (human) (1)
+
+hsa:9415 FADS2; fatty acid desaturase 2
+
+hsa01040 Biosynthesis of unsaturated fatty acids - Homo sapiens (human) (5)
+
+hsa:641371 ACOT1; acyl-CoA thioesterase 1
+hsa:10965 ACOT2; acyl-CoA thioesterase 2
+hsa:3992 FADS1; fatty acid desaturase 1
+hsa:9415 FADS2; fatty acid desaturase 2
+hsa:6319 SCD; stearoyl-CoA desaturase
+
+hsa00230 Purine metabolism - Homo sapiens (human) (7)
+
+hsa:272 AMPD3; adenosine monophosphate deaminase 3
+hsa:953 ENTPD1; ectonucleoside triphosphate diphosphohydrolase 1
+hsa:2766 GMPR; guanosine monophosphate reductase
+hsa:4832 NME3; NME/NM23 nucleoside diphosphate kinase 3
+hsa:4907 NT5E; 5'-nucleotidase ecto
+hsa:5236 PGM1; phosphoglucomutase 1
+hsa:7498 XDH; xanthine dehydrogenase
+
+hsa00240 Pyrimidine metabolism - Homo sapiens (human) (5)
+
+hsa:790 CAD; carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase
+hsa:953 ENTPD1; ectonucleoside triphosphate diphosphohydrolase 1
+hsa:4832 NME3; NME/NM23 nucleoside diphosphate kinase 3
+hsa:4907 NT5E; 5'-nucleotidase ecto
+hsa:1890 TYMP; thymidine phosphorylase
+
+hsa00250 Alanine, aspartate and glutamate metabolism - Homo sapiens (human) (3)
+
+hsa:189 AGXT; alanine--glyoxylate and serine--pyruvate aminotransferase
+hsa:790 CAD; carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase
+hsa:2806 GOT2; glutamic-oxaloacetic transaminase 2
+
+hsa00260 Glycine, serine and threonine metabolism - Homo sapiens (human) (4)
+
+hsa:189 AGXT; alanine--glyoxylate and serine--pyruvate aminotransferase
+hsa:635 BHMT; betaine--homocysteine S-methyltransferase
+hsa:875 CBS; cystathionine-beta-synthase
+hsa:26227 PHGDH; phosphoglycerate dehydrogenase
+
+hsa00270 Cysteine and methionine metabolism - Homo sapiens (human) (5)
+
+hsa:635 BHMT; betaine--homocysteine S-methyltransferase
+hsa:23743 BHMT2; betaine--homocysteine S-methyltransferase 2
+hsa:875 CBS; cystathionine-beta-synthase
+hsa:2806 GOT2; glutamic-oxaloacetic transaminase 2
+hsa:3939 LDHA; lactate dehydrogenase A
+
+hsa00280 Valine, leucine and isoleucine degradation - Homo sapiens (human) (6)
+
+hsa:34 ACADM; acyl-CoA dehydrogenase medium chain
+hsa:35 ACADS; acyl-CoA dehydrogenase short chain
+hsa:217 ALDH2; aldehyde dehydrogenase 2 family member
+hsa:1892 ECHS1; enoyl-CoA hydratase, short chain 1
+hsa:3712 IVD; isovaleryl-CoA dehydrogenase
+hsa:56922 MCCC1; methylcrotonoyl-CoA carboxylase 1
+
+hsa00310 Lysine degradation - Homo sapiens (human) (3)
+
+hsa:217 ALDH2; aldehyde dehydrogenase 2 family member
+hsa:1892 ECHS1; enoyl-CoA hydratase, short chain 1
+hsa:2639 GCDH; glutaryl-CoA dehydrogenase
+
+hsa00220 Arginine biosynthesis - Homo sapiens (human) (1)
+
+hsa:2806 GOT2; glutamic-oxaloacetic transaminase 2
+
+hsa00330 Arginine and proline metabolism - Homo sapiens (human) (6)
+
+hsa:5832 ALDH18A1; aldehyde dehydrogenase 18 family member A1
+hsa:217 ALDH2; aldehyde dehydrogenase 2 family member
+hsa:26 AOC1; amine oxidase, copper containing 1
+hsa:2806 GOT2; glutamic-oxaloacetic transaminase 2
+hsa:8974 P4HA2; prolyl 4-hydroxylase subunit alpha 2
+hsa:5625 PRODH; proline dehydrogenase 1
+
+hsa00340 Histidine metabolism - Homo sapiens (human) (2)
+
+hsa:217 ALDH2; aldehyde dehydrogenase 2 family member
+hsa:26 AOC1; amine oxidase, copper containing 1
+
+hsa00350 Tyrosine metabolism - Homo sapiens (human) (3)
+
+hsa:1312 COMT; catechol-O-methyltransferase
+hsa:81889 FAHD1; fumarylacetoacetate hydrolase domain containing 1
+hsa:2806 GOT2; glutamic-oxaloacetic transaminase 2
+
+hsa00360 Phenylalanine metabolism - Homo sapiens (human) (2)
+
+hsa:2806 GOT2; glutamic-oxaloacetic transaminase 2
+hsa:5053 PAH; phenylalanine hydroxylase
+
+hsa00380 Tryptophan metabolism - Homo sapiens (human) (7)
+
+hsa:217 ALDH2; aldehyde dehydrogenase 2 family member
+hsa:26 AOC1; amine oxidase, copper containing 1
+hsa:1892 ECHS1; enoyl-CoA hydratase, short chain 1
+hsa:2639 GCDH; glutaryl-CoA dehydrogenase
+hsa:3620 IDO1; indoleamine 2,3-dioxygenase 1
+hsa:169355 IDO2; indoleamine 2,3-dioxygenase 2
+hsa:6999 TDO2; tryptophan 2,3-dioxygenase
+
+hsa00400 Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human) (2)
+
+hsa:2806 GOT2; glutamic-oxaloacetic transaminase 2
+hsa:5053 PAH; phenylalanine hydroxylase
+
+hsa00410 beta-Alanine metabolism - Homo sapiens (human) (4)
+
+hsa:34 ACADM; acyl-CoA dehydrogenase medium chain
+hsa:217 ALDH2; aldehyde dehydrogenase 2 family member
+hsa:1892 ECHS1; enoyl-CoA hydratase, short chain 1
+hsa:339896 GADL1; glutamate decarboxylase like 1
+
+hsa00430 Taurine and hypotaurine metabolism - Homo sapiens (human) (1)
+
+hsa:339896 GADL1; glutamate decarboxylase like 1
+
+hsa00440 Phosphonate and phosphinate metabolism - Homo sapiens (human) (1)
+
+hsa:5130 PCYT1A; phosphate cytidylyltransferase 1, choline, alpha
+
+hsa00480 Glutathione metabolism - Homo sapiens (human) (3)
+
+hsa:290 ANPEP; alanyl aminopeptidase, membrane
+hsa:9027 NAT8; N-acetyltransferase 8 (putative)
+hsa:26873 OPLAH; 5-oxoprolinase, ATP-hydrolysing
+
+hsa00510 N-Glycan biosynthesis - Homo sapiens (human) (3)
+
+hsa:57171 DOLPP1; dolichyldiphosphatase 1
+hsa:23193 GANAB; glucosidase II alpha subunit
+hsa:10905 MAN1A2; mannosidase alpha class 1A member 2
+
+hsa00563 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human) (1)
+
+hsa:8733 GPAA1; glycosylphosphatidylinositol anchor attachment 1
+
+hsa00601 Glycosphingolipid biosynthesis - lacto and neolacto series - Homo sapiens (human) (1)
+
+hsa:2524 FUT2; fucosyltransferase 2
+
+hsa00603 Glycosphingolipid biosynthesis - globo and isoglobo series - Homo sapiens (human) (1)
+
+hsa:2524 FUT2; fucosyltransferase 2
+
+hsa00511 Other glycan degradation - Homo sapiens (human) (1)
+
+hsa:4758 NEU1; neuraminidase 1
+
+hsa00730 Thiamine metabolism - Homo sapiens (human) (1)
+
+hsa:249 ALPL; alkaline phosphatase, biomineralization associated
+
+hsa00760 Nicotinate and nicotinamide metabolism - Homo sapiens (human) (1)
+
+hsa:4907 NT5E; 5'-nucleotidase ecto
+
+hsa00770 Pantothenate and CoA biosynthesis - Homo sapiens (human) (1)
+
+hsa:339896 GADL1; glutamate decarboxylase like 1
+
+hsa00790 Folate biosynthesis - Homo sapiens (human) (4)
+
+hsa:8644 AKR1C3; aldo-keto reductase family 1 member C3
+hsa:249 ALPL; alkaline phosphatase, biomineralization associated
+hsa:2356 FPGS; folylpolyglutamate synthase
+hsa:5053 PAH; phenylalanine hydroxylase
+
+hsa00830 Retinol metabolism - Homo sapiens (human) (10)
+
+hsa:8854 ALDH1A2; aldehyde dehydrogenase 1 family member A2
+hsa:1562 CYP2C18; cytochrome P450 family 2 subfamily C member 18
+hsa:1558 CYP2C8; cytochrome P450 family 2 subfamily C member 8
+hsa:1559 CYP2C9; cytochrome P450 family 2 subfamily C member 9
+hsa:1577 CYP3A5; cytochrome P450 family 3 subfamily A member 5
+hsa:1551 CYP3A7; cytochrome P450 family 3 subfamily A member 7
+hsa:1579 CYP4A11; cytochrome P450 family 4 subfamily A member 11
+hsa:54658 UGT1A1; UDP glucuronosyltransferase family 1 member A1
+hsa:54578 UGT1A6; UDP glucuronosyltransferase family 1 member A6
+hsa:54577 UGT1A7; UDP glucuronosyltransferase family 1 member A7
+
+hsa00860 Porphyrin and chlorophyll metabolism - Homo sapiens (human) (3)
+
+hsa:54658 UGT1A1; UDP glucuronosyltransferase family 1 member A1
+hsa:54578 UGT1A6; UDP glucuronosyltransferase family 1 member A6
+hsa:54577 UGT1A7; UDP glucuronosyltransferase family 1 member A7
+
+hsa00232 Caffeine metabolism - Homo sapiens (human) (1)
+
+hsa:7498 XDH; xanthine dehydrogenase
+
+hsa00524 Neomycin, kanamycin and gentamicin biosynthesis - Homo sapiens (human) (1)
+
+hsa:3098 HK1; hexokinase 1
+
+hsa00980 Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human) (6)
+
+hsa:1559 CYP2C9; cytochrome P450 family 2 subfamily C member 9
+hsa:1577 CYP3A5; cytochrome P450 family 3 subfamily A member 5
+hsa:6822 SULT2A1; sulfotransferase family 2A member 1
+hsa:54658 UGT1A1; UDP glucuronosyltransferase family 1 member A1
+hsa:54578 UGT1A6; UDP glucuronosyltransferase family 1 member A6
+hsa:54577 UGT1A7; UDP glucuronosyltransferase family 1 member A7
+
+hsa00982 Drug metabolism - cytochrome P450 - Homo sapiens (human) (9)
+
+hsa:1557 CYP2C19; cytochrome P450 family 2 subfamily C member 19
+hsa:1558 CYP2C8; cytochrome P450 family 2 subfamily C member 8
+hsa:1559 CYP2C9; cytochrome P450 family 2 subfamily C member 9
+hsa:1577 CYP3A5; cytochrome P450 family 3 subfamily A member 5
+hsa:2327 FMO2; flavin containing monooxygenase 2
+hsa:2328 FMO3; flavin containing monooxygenase 3
+hsa:54658 UGT1A1; UDP glucuronosyltransferase family 1 member A1
+hsa:54578 UGT1A6; UDP glucuronosyltransferase family 1 member A6
+hsa:54577 UGT1A7; UDP glucuronosyltransferase family 1 member A7
+
+hsa00983 Drug metabolism - other enzymes - Homo sapiens (human) (6)
+
+hsa:4832 NME3; NME/NM23 nucleoside diphosphate kinase 3
+hsa:1890 TYMP; thymidine phosphorylase
+hsa:54658 UGT1A1; UDP glucuronosyltransferase family 1 member A1
+hsa:54578 UGT1A6; UDP glucuronosyltransferase family 1 member A6
+hsa:54577 UGT1A7; UDP glucuronosyltransferase family 1 member A7
+hsa:7498 XDH; xanthine dehydrogenase
+
+hsa03022 Basal transcription factors - Homo sapiens (human) (2)
+
+hsa:2965 GTF2H1; general transcription factor IIH subunit 1
+hsa:6878 TAF6; TATA-box binding protein associated factor 6
+
+hsa03040 Spliceosome - Homo sapiens (human) (1)
+
+hsa:26121 PRPF31; pre-mRNA processing factor 31
+
+hsa03010 Ribosome - Homo sapiens (human) (1)
+
+hsa:51065 RPS27L; ribosomal protein S27 like
+
+hsa00970 Aminoacyl-tRNA biosynthesis - Homo sapiens (human) (2)
+
+hsa:1615 DARS; aspartyl-tRNA synthetase
+hsa:2193 FARSA; phenylalanyl-tRNA synthetase subunit alpha
+
+hsa03015 mRNA surveillance pathway - Homo sapiens (human) (2)
+
+hsa:10898 CPSF4; cleavage and polyadenylation specific factor 4
+hsa:8189 SYMPK; symplekin
+
+hsa03060 Protein export - Homo sapiens (human) (1)
+
+hsa:83943 IMMP2L; inner mitochondrial membrane peptidase subunit 2
+
+hsa04141 Protein processing in endoplasmic reticulum - Homo sapiens (human) (7)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:811 CALR; calreticulin
+hsa:23193 GANAB; glucosidase II alpha subunit
+hsa:3320 HSP90AA1; heat shock protein 90 alpha family class A member 1
+hsa:10960 LMAN2; lectin, mannose binding 2
+hsa:10905 MAN1A2; mannosidase alpha class 1A member 2
+
+hsa04130 SNARE interactions in vesicular transport - Homo sapiens (human) (1)
+
+hsa:2054 STX2; syntaxin 2
+
+hsa04120 Ubiquitin mediated proteolysis - Homo sapiens (human) (1)
+
+hsa:1642 DDB1; damage specific DNA binding protein 1
+
+hsa03050 Proteasome - Homo sapiens (human) (1)
+
+hsa:5705 PSMC5; proteasome 26S subunit, ATPase 5
+
+hsa03018 RNA degradation - Homo sapiens (human) (5)
+
+hsa:2027 ENO3; enolase 3
+hsa:54512 EXOSC4; exosome component 4
+hsa:23016 EXOSC7; exosome component 7
+hsa:87178 PNPT1; polyribonucleotide nucleotidyltransferase 1
+hsa:6499 SKIV2L; Ski2 like RNA helicase
+
+hsa03030 DNA replication - Homo sapiens (human) (1)
+
+hsa:4175 MCM6; minichromosome maintenance complex component 6
+
+hsa03410 Base excision repair - Homo sapiens (human) (1)
+
+hsa:6996 TDG; thymine DNA glycosylase
+
+hsa03420 Nucleotide excision repair - Homo sapiens (human) (2)
+
+hsa:1642 DDB1; damage specific DNA binding protein 1
+hsa:2965 GTF2H1; general transcription factor IIH subunit 1
+
+hsa03440 Homologous recombination - Homo sapiens (human) (2)
+
+hsa:79728 PALB2; partner and localizer of BRCA2
+hsa:7517 XRCC3; X-ray repair cross complementing 3
+
+hsa03460 Fanconi anemia pathway - Homo sapiens (human) (5)
+
+hsa:197342 EME2; essential meiotic structure-specific endonuclease subunit 2
+hsa:79728 PALB2; partner and localizer of BRCA2
+hsa:5980 REV3L; REV3 like, DNA directed polymerase zeta catalytic subunit
+hsa:9894 TELO2; telomere maintenance 2
+hsa:7398 USP1; ubiquitin specific peptidase 1
+
+hsa02010 ABC transporters - Homo sapiens (human) (2)
+
+hsa:4363 ABCC1; ATP binding cassette subfamily C member 1
+hsa:10257 ABCC4; ATP binding cassette subfamily C member 4
+
+hsa04014 Ras signaling pathway - Homo sapiens (human) (3)
+
+hsa:5062 PAK2; p21 (RAC1) activated kinase 2
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa04015 Rap1 signaling pathway - Homo sapiens (human) (6)
+
+hsa:999 CDH1; cadherin 1
+hsa:9863 MAGI2; membrane associated guanylate kinase, WW and PDZ domain containing 2
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+hsa:51735 RAPGEF6; Rap guanine nucleotide exchange factor 6
+hsa:26037 SIPA1L1; signal induced proliferation associated 1 like 1
+
+hsa04010 MAPK signaling pathway - Homo sapiens (human) (5)
+
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:8569 MKNK1; MAP kinase interacting serine/threonine kinase 1
+hsa:4775 NFATC3; nuclear factor of activated T cells 3
+hsa:5062 PAK2; p21 (RAC1) activated kinase 2
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa04012 ErbB signaling pathway - Homo sapiens (human) (3)
+
+hsa:145957 NRG4; neuregulin 4
+hsa:5062 PAK2; p21 (RAC1) activated kinase 2
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04310 Wnt signaling pathway - Homo sapiens (human) (4)
+
+hsa:4775 NFATC3; nuclear factor of activated T cells 3
+hsa:85407 NKD1; naked cuticle homolog 1
+hsa:5881 RAC3; Rac family small GTPase 3
+hsa:6425 SFRP5; secreted frizzled related protein 5
+
+hsa04330 Notch signaling pathway - Homo sapiens (human) (3)
+
+hsa:83464 APH1B; aph-1 homolog B, gamma-secretase subunit
+hsa:4855 NOTCH4; notch 4
+hsa:8650 NUMB; NUMB, endocytic adaptor protein
+
+hsa04340 Hedgehog signaling pathway - Homo sapiens (human) (2)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:11127 KIF3A; kinesin family member 3A
+
+hsa04390 Hippo signaling pathway - Homo sapiens (human) (3)
+
+hsa:999 CDH1; cadherin 1
+hsa:8994 LIMD1; LIM domains containing 1
+hsa:85407 NKD1; naked cuticle homolog 1
+
+hsa04392 Hippo signaling pathway - multiple species - Homo sapiens (human) (1)
+
+hsa:8994 LIMD1; LIM domains containing 1
+
+hsa04370 VEGF signaling pathway - Homo sapiens (human) (2)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa04371 Apelin signaling pathway - Homo sapiens (human) (2)
+
+hsa:999 CDH1; cadherin 1
+hsa:6261 RYR1; ryanodine receptor 1
+
+hsa04630 JAK-STAT signaling pathway - Homo sapiens (human) (2)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04064 NF-kappa B signaling pathway - Homo sapiens (human) (1)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+
+hsa04668 TNF signaling pathway - Homo sapiens (human) (3)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:3659 IRF1; interferon regulatory factor 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04066 HIF-1 signaling pathway - Homo sapiens (human) (6)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:2027 ENO3; enolase 3
+hsa:3098 HK1; hexokinase 1
+hsa:3939 LDHA; lactate dehydrogenase A
+hsa:8569 MKNK1; MAP kinase interacting serine/threonine kinase 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04068 FoxO signaling pathway - Homo sapiens (human) (2)
+
+hsa:2911 GRM1; glutamate metabotropic receptor 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04020 Calcium signaling pathway - Homo sapiens (human) (4)
+
+hsa:148 ADRA1A; adrenoceptor alpha 1A
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:2911 GRM1; glutamate metabotropic receptor 1
+hsa:6261 RYR1; ryanodine receptor 1
+
+hsa04070 Phosphatidylinositol signaling system - Homo sapiens (human) (1)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04072 Phospholipase D signaling pathway - Homo sapiens (human) (2)
+
+hsa:2911 GRM1; glutamate metabotropic receptor 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04071 Sphingolipid signaling pathway - Homo sapiens (human) (7)
+
+hsa:4363 ABCC1; ATP binding cassette subfamily C member 1
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:253782 CERS6; ceramide synthase 6
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+hsa:8879 SGPL1; sphingosine-1-phosphate lyase 1
+hsa:55304 SPTLC3; serine palmitoyltransferase long chain base subunit 3
+
+hsa04024 cAMP signaling pathway - Homo sapiens (human) (5)
+
+hsa:10257 ABCC4; ATP binding cassette subfamily C member 4
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+hsa:7434 VIPR2; vasoactive intestinal peptide receptor 2
+
+hsa04022 cGMP-PKG signaling pathway - Homo sapiens (human) (4)
+
+hsa:148 ADRA1A; adrenoceptor alpha 1A
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:4775 NFATC3; nuclear factor of activated T cells 3
+
+hsa04151 PI3K-Akt signaling pathway - Homo sapiens (human) (7)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:3320 HSP90AA1; heat shock protein 90 alpha family class A member 1
+hsa:9863 MAGI2; membrane associated guanylate kinase, WW and PDZ domain containing 2
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:29941 PKN3; protein kinase N3
+hsa:117145 THEM4; thioesterase superfamily member 4
+
+hsa04152 AMPK signaling pathway - Homo sapiens (human) (7)
+
+hsa:148 ADRA1A; adrenoceptor alpha 1A
+hsa:1375 CPT1B; carnitine palmitoyltransferase 1B
+hsa:29904 EEF2K; eukaryotic elongation factor 2 kinase
+hsa:2194 FASN; fatty acid synthase
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:6319 SCD; stearoyl-CoA desaturase
+hsa:92335 STRADA; STE20-related kinase adaptor alpha
+
+hsa04150 mTOR signaling pathway - Homo sapiens (human) (4)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:8140 SLC7A5; solute carrier family 7 member 5
+hsa:92335 STRADA; STE20-related kinase adaptor alpha
+hsa:9894 TELO2; telomere maintenance 2
+
+hsa04080 Neuroactive ligand-receptor interaction - Homo sapiens (human) (4)
+
+hsa:148 ADRA1A; adrenoceptor alpha 1A
+hsa:2642 GCGR; glucagon receptor
+hsa:2911 GRM1; glutamate metabotropic receptor 1
+hsa:7434 VIPR2; vasoactive intestinal peptide receptor 2
+
+hsa04512 ECM-receptor interaction - Homo sapiens (human) (1)
+
+hsa:2811 GP1BA; glycoprotein Ib platelet subunit alpha
+
+hsa04514 Cell adhesion molecules (CAMs) - Homo sapiens (human) (5)
+
+hsa:914 CD2; CD2 molecule
+hsa:925 CD8A; CD8a molecule
+hsa:999 CDH1; cadherin 1
+hsa:1001 CDH3; cadherin 3
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+
+hsa04144 Endocytosis - Homo sapiens (human) (6)
+
+hsa:116987 AGAP1; ArfGAP with GTPase domain, ankyrin repeat and PH domain 1
+hsa:10552 ARPC1A; actin related protein 2/3 complex subunit 1A
+hsa:10095 ARPC1B; actin related protein 2/3 complex subunit 1B
+hsa:1601 DAB2; DAB2, clathrin adaptor protein
+hsa:56904 SH3GLB2; SH3 domain containing GRB2 like, endophilin B2
+hsa:7251 TSG101; tumor susceptibility 101
+
+hsa04145 Phagosome - Homo sapiens (human) (3)
+
+hsa:811 CALR; calreticulin
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+hsa:4481 MSR1; macrophage scavenger receptor 1
+
+hsa04142 Lysosome - Homo sapiens (human) (4)
+
+hsa:410 ARSA; arylsulfatase A
+hsa:1777 DNASE2; deoxyribonuclease 2, lysosomal
+hsa:4758 NEU1; neuraminidase 1
+hsa:23659 PLA2G15; phospholipase A2 group XV
+
+hsa04146 Peroxisome - Homo sapiens (human) (10)
+
+hsa:23305 ACSL6; acyl-CoA synthetase long chain family member 6
+hsa:189 AGXT; alanine--glyoxylate and serine--pyruvate aminotransferase
+hsa:1384 CRAT; carnitine O-acetyltransferase
+hsa:10455 ECI2; enoyl-CoA delta isomerase 2
+hsa:390916 NUDT19; nudix hydrolase 19
+hsa:196743 PAOX; polyamine oxidase
+hsa:8800 PEX11A; peroxisomal biogenesis factor 11 alpha
+hsa:5052 PRDX1; peroxiredoxin 1
+hsa:11001 SLC27A2; solute carrier family 27 member 2
+hsa:7498 XDH; xanthine dehydrogenase
+
+hsa04140 Autophagy - animal - Homo sapiens (human) (6)
+
+hsa:84938 ATG4C; autophagy related 4C cysteine peptidase
+hsa:285973 ATG9B; autophagy related 9B
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5580 PRKCD; protein kinase C delta
+hsa:81671 VMP1; vacuole membrane protein 1
+
+hsa04136 Autophagy - other - Homo sapiens (human) (2)
+
+hsa:84938 ATG4C; autophagy related 4C cysteine peptidase
+hsa:285973 ATG9B; autophagy related 9B
+
+hsa04137 Mitophagy - animal - Homo sapiens (human) (1)
+
+hsa:285973 ATG9B; autophagy related 9B
+
+hsa04110 Cell cycle - Homo sapiens (human) (2)
+
+hsa:8556 CDC14A; cell division cycle 14A
+hsa:4175 MCM6; minichromosome maintenance complex component 6
+
+hsa04210 Apoptosis - Homo sapiens (human) (3)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:2021 ENDOG; endonuclease G
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04215 Apoptosis - multiple species - Homo sapiens (human) (1)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+
+hsa04216 Ferroptosis - Homo sapiens (human) (1)
+
+hsa:23305 ACSL6; acyl-CoA synthetase long chain family member 6
+
+hsa04217 Necroptosis - Homo sapiens (human) (4)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:3320 HSP90AA1; heat shock protein 90 alpha family class A member 1
+hsa:5481 PPID; peptidylprolyl isomerase D
+hsa:81858 SHARPIN; SHANK associated RH domain interactor
+
+hsa04115 p53 signaling pathway - Homo sapiens (human) (1)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+
+hsa04218 Cellular senescence - Homo sapiens (human) (4)
+
+hsa:91750 LIN52; lin-52 DREAM MuvB core complex component
+hsa:4775 NFATC3; nuclear factor of activated T cells 3
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5481 PPID; peptidylprolyl isomerase D
+
+hsa04510 Focal adhesion - Homo sapiens (human) (6)
+
+hsa:87 ACTN1; actinin alpha 1
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:5062 PAK2; p21 (RAC1) activated kinase 2
+hsa:29780 PARVB; parvin beta
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa04520 Adherens junction - Homo sapiens (human) (3)
+
+hsa:87 ACTN1; actinin alpha 1
+hsa:999 CDH1; cadherin 1
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa04530 Tight junction - Homo sapiens (human) (4)
+
+hsa:87 ACTN1; actinin alpha 1
+hsa:51762 RAB8B; RAB8B, member RAS oncogene family
+hsa:51735 RAPGEF6; Rap guanine nucleotide exchange factor 6
+hsa:8189 SYMPK; symplekin
+
+hsa04540 Gap junction - Homo sapiens (human) (1)
+
+hsa:2911 GRM1; glutamate metabotropic receptor 1
+
+hsa04550 Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human) (1)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04810 Regulation of actin cytoskeleton - Homo sapiens (human) (6)
+
+hsa:87 ACTN1; actinin alpha 1
+hsa:10552 ARPC1A; actin related protein 2/3 complex subunit 1A
+hsa:10095 ARPC1B; actin related protein 2/3 complex subunit 1B
+hsa:5062 PAK2; p21 (RAC1) activated kinase 2
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa04640 Hematopoietic cell lineage - Homo sapiens (human) (5)
+
+hsa:290 ANPEP; alanyl aminopeptidase, membrane
+hsa:914 CD2; CD2 molecule
+hsa:925 CD8A; CD8a molecule
+hsa:2811 GP1BA; glycoprotein Ib platelet subunit alpha
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+
+hsa04610 Complement and coagulation cascades - Homo sapiens (human) (2)
+
+hsa:2160 F11; coagulation factor XI
+hsa:2161 F12; coagulation factor XII
+
+hsa04611 Platelet activation - Homo sapiens (human) (2)
+
+hsa:2811 GP1BA; glycoprotein Ib platelet subunit alpha
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04620 Toll-like receptor signaling pathway - Homo sapiens (human) (1)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04621 NOD-like receptor signaling pathway - Homo sapiens (human) (5)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:3320 HSP90AA1; heat shock protein 90 alpha family class A member 1
+hsa:58484 NLRC4; NLR family CARD domain containing 4
+hsa:5580 PRKCD; protein kinase C delta
+hsa:81858 SHARPIN; SHANK associated RH domain interactor
+
+hsa04625 C-type lectin receptor signaling pathway - Homo sapiens (human) (4)
+
+hsa:3659 IRF1; interferon regulatory factor 1
+hsa:4775 NFATC3; nuclear factor of activated T cells 3
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5580 PRKCD; protein kinase C delta
+
+hsa04650 Natural killer cell mediated cytotoxicity - Homo sapiens (human) (3)
+
+hsa:4277 MICB; MHC class I polypeptide-related sequence B
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa04612 Antigen processing and presentation - Homo sapiens (human) (4)
+
+hsa:811 CALR; calreticulin
+hsa:925 CD8A; CD8a molecule
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+hsa:3320 HSP90AA1; heat shock protein 90 alpha family class A member 1
+
+hsa04660 T cell receptor signaling pathway - Homo sapiens (human) (4)
+
+hsa:925 CD8A; CD8a molecule
+hsa:4775 NFATC3; nuclear factor of activated T cells 3
+hsa:5062 PAK2; p21 (RAC1) activated kinase 2
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04658 Th1 and Th2 cell differentiation - Homo sapiens (human) (2)
+
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+hsa:4775 NFATC3; nuclear factor of activated T cells 3
+
+hsa04659 Th17 cell differentiation - Homo sapiens (human) (3)
+
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+hsa:3320 HSP90AA1; heat shock protein 90 alpha family class A member 1
+hsa:4775 NFATC3; nuclear factor of activated T cells 3
+
+hsa04657 IL-17 signaling pathway - Homo sapiens (human) (1)
+
+hsa:3320 HSP90AA1; heat shock protein 90 alpha family class A member 1
+
+hsa04662 B cell receptor signaling pathway - Homo sapiens (human) (3)
+
+hsa:4775 NFATC3; nuclear factor of activated T cells 3
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa04664 Fc epsilon RI signaling pathway - Homo sapiens (human) (2)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa04666 Fc gamma R-mediated phagocytosis - Homo sapiens (human) (4)
+
+hsa:10552 ARPC1A; actin related protein 2/3 complex subunit 1A
+hsa:10095 ARPC1B; actin related protein 2/3 complex subunit 1B
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5580 PRKCD; protein kinase C delta
+
+hsa04670 Leukocyte transendothelial migration - Homo sapiens (human) (2)
+
+hsa:87 ACTN1; actinin alpha 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04672 Intestinal immune network for IgA production - Homo sapiens (human) (1)
+
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+
+hsa04062 Chemokine signaling pathway - Homo sapiens (human) (4)
+
+hsa:2268 FGR; FGR proto-oncogene, Src family tyrosine kinase
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5580 PRKCD; protein kinase C delta
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa04911 Insulin secretion - Homo sapiens (human) (2)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+
+hsa04910 Insulin signaling pathway - Homo sapiens (human) (4)
+
+hsa:2194 FASN; fatty acid synthase
+hsa:3098 HK1; hexokinase 1
+hsa:8569 MKNK1; MAP kinase interacting serine/threonine kinase 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04922 Glucagon signaling pathway - Homo sapiens (human) (3)
+
+hsa:1375 CPT1B; carnitine palmitoyltransferase 1B
+hsa:2642 GCGR; glucagon receptor
+hsa:3939 LDHA; lactate dehydrogenase A
+
+hsa04923 Regulation of lipolysis in adipocytes - Homo sapiens (human) (1)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04920 Adipocytokine signaling pathway - Homo sapiens (human) (2)
+
+hsa:23305 ACSL6; acyl-CoA synthetase long chain family member 6
+hsa:1375 CPT1B; carnitine palmitoyltransferase 1B
+
+hsa03320 PPAR signaling pathway - Homo sapiens (human) (8)
+
+hsa:34 ACADM; acyl-CoA dehydrogenase medium chain
+hsa:23305 ACSL6; acyl-CoA synthetase long chain family member 6
+hsa:1375 CPT1B; carnitine palmitoyltransferase 1B
+hsa:1376 CPT2; carnitine palmitoyltransferase 2
+hsa:1579 CYP4A11; cytochrome P450 family 4 subfamily A member 11
+hsa:9415 FADS2; fatty acid desaturase 2
+hsa:6319 SCD; stearoyl-CoA desaturase
+hsa:11001 SLC27A2; solute carrier family 27 member 2
+
+hsa04912 GnRH signaling pathway - Homo sapiens (human) (2)
+
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:5580 PRKCD; protein kinase C delta
+
+hsa04913 Ovarian steroidogenesis - Homo sapiens (human) (2)
+
+hsa:10965 ACOT2; acyl-CoA thioesterase 2
+hsa:8644 AKR1C3; aldo-keto reductase family 1 member C3
+
+hsa04915 Estrogen signaling pathway - Homo sapiens (human) (6)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:2911 GRM1; glutamate metabotropic receptor 1
+hsa:3320 HSP90AA1; heat shock protein 90 alpha family class A member 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5580 PRKCD; protein kinase C delta
+
+hsa04914 Progesterone-mediated oocyte maturation - Homo sapiens (human) (2)
+
+hsa:3320 HSP90AA1; heat shock protein 90 alpha family class A member 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04917 Prolactin signaling pathway - Homo sapiens (human) (2)
+
+hsa:3659 IRF1; interferon regulatory factor 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04921 Oxytocin signaling pathway - Homo sapiens (human) (4)
+
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:29904 EEF2K; eukaryotic elongation factor 2 kinase
+hsa:4775 NFATC3; nuclear factor of activated T cells 3
+hsa:6261 RYR1; ryanodine receptor 1
+
+hsa04926 Relaxin signaling pathway - Homo sapiens (human) (2)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04918 Thyroid hormone synthesis - Homo sapiens (human) (1)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+
+hsa04919 Thyroid hormone signaling pathway - Homo sapiens (human) (3)
+
+hsa:4855 NOTCH4; notch 4
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:117247 SLC16A10; solute carrier family 16 member 10
+
+hsa04928 Parathyroid hormone synthesis, secretion and action - Homo sapiens (human) (3)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:64386 MMP25; matrix metallopeptidase 25
+
+hsa04924 Renin secretion - Homo sapiens (human) (2)
+
+hsa:1636 ACE; angiotensin I converting enzyme
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+
+hsa04614 Renin-angiotensin system - Homo sapiens (human) (2)
+
+hsa:1636 ACE; angiotensin I converting enzyme
+hsa:290 ANPEP; alanyl aminopeptidase, membrane
+
+hsa04925 Aldosterone synthesis and secretion - Homo sapiens (human) (2)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+
+hsa04927 Cortisol synthesis and secretion - Homo sapiens (human) (2)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+
+hsa04260 Cardiac muscle contraction - Homo sapiens (human) (2)
+
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:7168 TPM1; tropomyosin 1
+
+hsa04261 Adrenergic signaling in cardiomyocytes - Homo sapiens (human) (5)
+
+hsa:148 ADRA1A; adrenoceptor alpha 1A
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:7168 TPM1; tropomyosin 1
+
+hsa04270 Vascular smooth muscle contraction - Homo sapiens (human) (4)
+
+hsa:148 ADRA1A; adrenoceptor alpha 1A
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:1579 CYP4A11; cytochrome P450 family 4 subfamily A member 11
+hsa:5580 PRKCD; protein kinase C delta
+
+hsa04970 Salivary secretion - Homo sapiens (human) (2)
+
+hsa:148 ADRA1A; adrenoceptor alpha 1A
+hsa:6522 SLC4A2; solute carrier family 4 member 2
+
+hsa04971 Gastric acid secretion - Homo sapiens (human) (1)
+
+hsa:6522 SLC4A2; solute carrier family 4 member 2
+
+hsa04972 Pancreatic secretion - Homo sapiens (human) (1)
+
+hsa:6522 SLC4A2; solute carrier family 4 member 2
+
+hsa04976 Bile secretion - Homo sapiens (human) (4)
+
+hsa:10257 ABCC4; ATP binding cassette subfamily C member 4
+hsa:6522 SLC4A2; solute carrier family 4 member 2
+hsa:200931 SLC51A; solute carrier family 51 alpha subunit
+hsa:6822 SULT2A1; sulfotransferase family 2A member 1
+
+hsa04973 Carbohydrate digestion and absorption - Homo sapiens (human) (3)
+
+hsa:3098 HK1; hexokinase 1
+hsa:8972 MGAM; maltase-glucoamylase
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04974 Protein digestion and absorption - Homo sapiens (human) (2)
+
+hsa:117247 SLC16A10; solute carrier family 16 member 10
+hsa:11136 SLC7A9; solute carrier family 7 member 9
+
+hsa04975 Fat digestion and absorption - Homo sapiens (human) (1)
+
+hsa:2806 GOT2; glutamic-oxaloacetic transaminase 2
+
+hsa04979 Cholesterol metabolism - Homo sapiens (human) (5)
+
+hsa:27329 ANGPTL3; angiopoietin like 3
+hsa:348 APOE; apolipoprotein E
+hsa:1071 CETP; cholesteryl ester transfer protein
+hsa:3990 LIPC; lipase C, hepatic type
+hsa:9388 LIPG; lipase G, endothelial type
+
+hsa04977 Vitamin digestion and absorption - Homo sapiens (human) (3)
+
+hsa:4363 ABCC1; ATP binding cassette subfamily C member 1
+hsa:25974 MMACHC; metabolism of cobalamin associated C
+hsa:8884 SLC5A6; solute carrier family 5 member 6
+
+hsa04960 Aldosterone-regulated sodium reabsorption - Homo sapiens (human) (1)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04724 Glutamatergic synapse - Homo sapiens (human) (2)
+
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:2911 GRM1; glutamate metabotropic receptor 1
+
+hsa04727 GABAergic synapse - Homo sapiens (human) (3)
+
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:6539 SLC6A12; solute carrier family 6 member 12
+hsa:6540 SLC6A13; solute carrier family 6 member 13
+
+hsa04725 Cholinergic synapse - Homo sapiens (human) (4)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:56479 KCNQ5; potassium voltage-gated channel subfamily Q member 5
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04728 Dopaminergic synapse - Homo sapiens (human) (3)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:1312 COMT; catechol-O-methyltransferase
+
+hsa04726 Serotonergic synapse - Homo sapiens (human) (6)
+
+hsa:239 ALOX12; arachidonate 12-lipoxygenase, 12S type
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:1562 CYP2C18; cytochrome P450 family 2 subfamily C member 18
+hsa:1557 CYP2C19; cytochrome P450 family 2 subfamily C member 19
+hsa:1558 CYP2C8; cytochrome P450 family 2 subfamily C member 8
+hsa:1559 CYP2C9; cytochrome P450 family 2 subfamily C member 9
+
+hsa04720 Long-term potentiation - Homo sapiens (human) (2)
+
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:2911 GRM1; glutamate metabotropic receptor 1
+
+hsa04730 Long-term depression - Homo sapiens (human) (2)
+
+hsa:2911 GRM1; glutamate metabotropic receptor 1
+hsa:6261 RYR1; ryanodine receptor 1
+
+hsa04723 Retrograde endocannabinoid signaling - Homo sapiens (human) (2)
+
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:2911 GRM1; glutamate metabotropic receptor 1
+
+hsa04721 Synaptic vesicle cycle - Homo sapiens (human) (3)
+
+hsa:6539 SLC6A12; solute carrier family 6 member 12
+hsa:6540 SLC6A13; solute carrier family 6 member 13
+hsa:2054 STX2; syntaxin 2
+
+hsa04722 Neurotrophin signaling pathway - Homo sapiens (human) (3)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5580 PRKCD; protein kinase C delta
+
+hsa04742 Taste transduction - Homo sapiens (human) (2)
+
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:2911 GRM1; glutamate metabotropic receptor 1
+
+hsa04750 Inflammatory mediator regulation of TRP channels - Homo sapiens (human) (4)
+
+hsa:239 ALOX12; arachidonate 12-lipoxygenase, 12S type
+hsa:1579 CYP4A11; cytochrome P450 family 4 subfamily A member 11
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5580 PRKCD; protein kinase C delta
+
+hsa04360 Axon guidance - Homo sapiens (human) (4)
+
+hsa:4775 NFATC3; nuclear factor of activated T cells 3
+hsa:5062 PAK2; p21 (RAC1) activated kinase 2
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa04380 Osteoclast differentiation - Homo sapiens (human) (1)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04211 Longevity regulating pathway - Homo sapiens (human) (2)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04213 Longevity regulating pathway - multiple species - Homo sapiens (human) (1)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04713 Circadian entrainment - Homo sapiens (human) (2)
+
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:6261 RYR1; ryanodine receptor 1
+
+hsa04714 Thermogenesis - Homo sapiens (human) (4)
+
+hsa:23305 ACSL6; acyl-CoA synthetase long chain family member 6
+hsa:1375 CPT1B; carnitine palmitoyltransferase 1B
+hsa:1376 CPT2; carnitine palmitoyltransferase 2
+hsa:6598 SMARCB1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1
+
+hsa05200 Pathways in cancer - Homo sapiens (human) (7)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:8030 CCDC6; coiled-coil domain containing 6
+hsa:999 CDH1; cadherin 1
+hsa:3320 HSP90AA1; heat shock protein 90 alpha family class A member 1
+hsa:4855 NOTCH4; notch 4
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa05230 Central carbon metabolism in cancer - Homo sapiens (human) (6)
+
+hsa:3098 HK1; hexokinase 1
+hsa:3939 LDHA; lactate dehydrogenase A
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:9997 SCO2; SCO2, cytochrome c oxidase assembly protein
+hsa:9123 SLC16A3; solute carrier family 16 member 3
+hsa:8140 SLC7A5; solute carrier family 7 member 5
+
+hsa05231 Choline metabolism in cancer - Homo sapiens (human) (6)
+
+hsa:1120 CHKB; choline kinase beta
+hsa:5130 PCYT1A; phosphate cytidylyltransferase 1, choline, alpha
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+hsa:6583 SLC22A4; solute carrier family 22 member 4
+hsa:6584 SLC22A5; solute carrier family 22 member 5
+
+hsa05202 Transcriptional misregulation in cancer - Homo sapiens (human) (3)
+
+hsa:79058 ASPSCR1; ASPSCR1, UBX domain containing tether for SLC2A4
+hsa:905 CCNT2; cyclin T2
+hsa:8464 SUPT3H; SPT3 homolog, SAGA and STAGA complex component
+
+hsa05206 MicroRNAs in cancer - Homo sapiens (human) (4)
+
+hsa:4363 ABCC1; ATP binding cassette subfamily C member 1
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:4855 NOTCH4; notch 4
+hsa:7168 TPM1; tropomyosin 1
+
+hsa05205 Proteoglycans in cancer - Homo sapiens (human) (1)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05204 Chemical carcinogenesis - Homo sapiens (human) (11)
+
+hsa:1562 CYP2C18; cytochrome P450 family 2 subfamily C member 18
+hsa:1557 CYP2C19; cytochrome P450 family 2 subfamily C member 19
+hsa:1558 CYP2C8; cytochrome P450 family 2 subfamily C member 8
+hsa:1559 CYP2C9; cytochrome P450 family 2 subfamily C member 9
+hsa:64816 CYP3A43; cytochrome P450 family 3 subfamily A member 43
+hsa:1577 CYP3A5; cytochrome P450 family 3 subfamily A member 5
+hsa:1551 CYP3A7; cytochrome P450 family 3 subfamily A member 7
+hsa:6822 SULT2A1; sulfotransferase family 2A member 1
+hsa:54658 UGT1A1; UDP glucuronosyltransferase family 1 member A1
+hsa:54578 UGT1A6; UDP glucuronosyltransferase family 1 member A6
+hsa:54577 UGT1A7; UDP glucuronosyltransferase family 1 member A7
+
+hsa05203 Viral carcinogenesis - Homo sapiens (human) (5)
+
+hsa:87 ACTN1; actinin alpha 1
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:1642 DDB1; damage specific DNA binding protein 1
+hsa:2965 GTF2H1; general transcription factor IIH subunit 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05210 Colorectal cancer - Homo sapiens (human) (3)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa05212 Pancreatic cancer - Homo sapiens (human) (2)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa05225 Hepatocellular carcinoma - Homo sapiens (human) (2)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:6598 SMARCB1; SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1
+
+hsa05226 Gastric cancer - Homo sapiens (human) (3)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:999 CDH1; cadherin 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05214 Glioma - Homo sapiens (human) (1)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05216 Thyroid cancer - Homo sapiens (human) (2)
+
+hsa:8030 CCDC6; coiled-coil domain containing 6
+hsa:999 CDH1; cadherin 1
+
+hsa05221 Acute myeloid leukemia - Homo sapiens (human) (1)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05220 Chronic myeloid leukemia - Homo sapiens (human) (1)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05218 Melanoma - Homo sapiens (human) (2)
+
+hsa:999 CDH1; cadherin 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05211 Renal cell carcinoma - Homo sapiens (human) (2)
+
+hsa:5062 PAK2; p21 (RAC1) activated kinase 2
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05219 Bladder cancer - Homo sapiens (human) (2)
+
+hsa:999 CDH1; cadherin 1
+hsa:1890 TYMP; thymidine phosphorylase
+
+hsa05215 Prostate cancer - Homo sapiens (human) (3)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:3320 HSP90AA1; heat shock protein 90 alpha family class A member 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05213 Endometrial cancer - Homo sapiens (human) (2)
+
+hsa:999 CDH1; cadherin 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05224 Breast cancer - Homo sapiens (human) (2)
+
+hsa:4855 NOTCH4; notch 4
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05222 Small cell lung cancer - Homo sapiens (human) (2)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05223 Non-small cell lung cancer - Homo sapiens (human) (1)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05310 Asthma - Homo sapiens (human) (1)
+
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+
+hsa05322 Systemic lupus erythematosus - Homo sapiens (human) (2)
+
+hsa:87 ACTN1; actinin alpha 1
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+
+hsa05323 Rheumatoid arthritis - Homo sapiens (human) (1)
+
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+
+hsa05320 Autoimmune thyroid disease - Homo sapiens (human) (1)
+
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+
+hsa05321 Inflammatory bowel disease (IBD) - Homo sapiens (human) (1)
+
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+
+hsa05330 Allograft rejection - Homo sapiens (human) (1)
+
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+
+hsa05332 Graft-versus-host disease - Homo sapiens (human) (1)
+
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+
+hsa05340 Primary immunodeficiency - Homo sapiens (human) (1)
+
+hsa:925 CD8A; CD8a molecule
+
+hsa05010 Alzheimer disease - Homo sapiens (human) (6)
+
+hsa:102 ADAM10; ADAM metallopeptidase domain 10
+hsa:83464 APH1B; aph-1 homolog B, gamma-secretase subunit
+hsa:348 APOE; apolipoprotein E
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:3416 IDE; insulin degrading enzyme
+hsa:6622 SNCA; synuclein alpha
+
+hsa05012 Parkinson disease - Homo sapiens (human) (1)
+
+hsa:6622 SNCA; synuclein alpha
+
+hsa05014 Amyotrophic lateral sclerosis (ALS) - Homo sapiens (human) (2)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:84134 TOMM40L; translocase of outer mitochondrial membrane 40 like
+
+hsa05016 Huntington disease - Homo sapiens (human) (1)
+
+hsa:127602 DNAH14; dynein axonemal heavy chain 14
+
+hsa05030 Cocaine addiction - Homo sapiens (human) (1)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+
+hsa05031 Amphetamine addiction - Homo sapiens (human) (2)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+
+hsa05034 Alcoholism - Homo sapiens (human) (1)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+
+hsa05418 Fluid shear stress and atherosclerosis - Homo sapiens (human) (4)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:3320 HSP90AA1; heat shock protein 90 alpha family class A member 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa05410 Hypertrophic cardiomyopathy (HCM) - Homo sapiens (human) (3)
+
+hsa:1636 ACE; angiotensin I converting enzyme
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:7168 TPM1; tropomyosin 1
+
+hsa05412 Arrhythmogenic right ventricular cardiomyopathy (ARVC) - Homo sapiens (human) (1)
+
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+
+hsa05414 Dilated cardiomyopathy (DCM) - Homo sapiens (human) (2)
+
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:7168 TPM1; tropomyosin 1
+
+hsa05416 Viral myocarditis - Homo sapiens (human) (2)
+
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa04930 Type II diabetes mellitus - Homo sapiens (human) (4)
+
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+hsa:3098 HK1; hexokinase 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5580 PRKCD; protein kinase C delta
+
+hsa04940 Type I diabetes mellitus - Homo sapiens (human) (1)
+
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+
+hsa04932 Non-alcoholic fatty liver disease (NAFLD) - Homo sapiens (human) (1)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa04931 Insulin resistance - Homo sapiens (human) (4)
+
+hsa:1375 CPT1B; carnitine palmitoyltransferase 1B
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5580 PRKCD; protein kinase C delta
+hsa:11001 SLC27A2; solute carrier family 27 member 2
+
+hsa04933 AGE-RAGE signaling pathway in diabetic complications - Homo sapiens (human) (3)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5580 PRKCD; protein kinase C delta
+
+hsa04934 Cushing syndrome - Homo sapiens (human) (2)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:775 CACNA1C; calcium voltage-gated channel subunit alpha1 C
+
+hsa05120 Epithelial cell signaling in Helicobacter pylori infection - Homo sapiens (human) (1)
+
+hsa:102 ADAM10; ADAM metallopeptidase domain 10
+
+hsa05130 Pathogenic Escherichia coli infection - Homo sapiens (human) (3)
+
+hsa:10552 ARPC1A; actin related protein 2/3 complex subunit 1A
+hsa:10095 ARPC1B; actin related protein 2/3 complex subunit 1B
+hsa:999 CDH1; cadherin 1
+
+hsa05132 Salmonella infection - Homo sapiens (human) (5)
+
+hsa:10552 ARPC1A; actin related protein 2/3 complex subunit 1A
+hsa:10095 ARPC1B; actin related protein 2/3 complex subunit 1B
+hsa:3831 KLC1; kinesin light chain 1
+hsa:58484 NLRC4; NLR family CARD domain containing 4
+hsa:29941 PKN3; protein kinase N3
+
+hsa05131 Shigellosis - Homo sapiens (human) (2)
+
+hsa:10552 ARPC1A; actin related protein 2/3 complex subunit 1A
+hsa:10095 ARPC1B; actin related protein 2/3 complex subunit 1B
+
+hsa05133 Pertussis - Homo sapiens (human) (1)
+
+hsa:3659 IRF1; interferon regulatory factor 1
+
+hsa05134 Legionellosis - Homo sapiens (human) (1)
+
+hsa:58484 NLRC4; NLR family CARD domain containing 4
+
+hsa05150 Staphylococcus aureus infection - Homo sapiens (human) (1)
+
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+
+hsa05152 Tuberculosis - Homo sapiens (human) (2)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+
+hsa05100 Bacterial invasion of epithelial cells - Homo sapiens (human) (4)
+
+hsa:10552 ARPC1A; actin related protein 2/3 complex subunit 1A
+hsa:10095 ARPC1B; actin related protein 2/3 complex subunit 1B
+hsa:999 CDH1; cadherin 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05166 Human T-cell leukemia virus 1 infection - Homo sapiens (human) (5)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:811 CALR; calreticulin
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+hsa:4775 NFATC3; nuclear factor of activated T cells 3
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05170 Human immunodeficiency virus 1 infection - Homo sapiens (human) (7)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:811 CALR; calreticulin
+hsa:1642 DDB1; damage specific DNA binding protein 1
+hsa:4775 NFATC3; nuclear factor of activated T cells 3
+hsa:5062 PAK2; p21 (RAC1) activated kinase 2
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa05162 Measles - Homo sapiens (human) (1)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05164 Influenza A - Homo sapiens (human) (3)
+
+hsa:10898 CPSF4; cleavage and polyadenylation specific factor 4
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05161 Hepatitis B - Homo sapiens (human) (5)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:1642 DDB1; damage specific DNA binding protein 1
+hsa:4775 NFATC3; nuclear factor of activated T cells 3
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05160 Hepatitis C - Homo sapiens (human) (1)
+
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05168 Herpes simplex virus 1 infection - Homo sapiens (human) (8)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:811 CALR; calreticulin
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:146198 ZFP90; ZFP90 zinc finger protein
+hsa:57693 ZNF317; zinc finger protein 317
+hsa:80264 ZNF430; zinc finger protein 430
+hsa:349075 ZNF713; zinc finger protein 713
+
+hsa05163 Human cytomegalovirus infection - Homo sapiens (human) (5)
+
+hsa:1388 ATF6B; activating transcription factor 6 beta
+hsa:811 CALR; calreticulin
+hsa:4775 NFATC3; nuclear factor of activated T cells 3
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5881 RAC3; Rac family small GTPase 3
+
+hsa05167 Kaposi sarcoma-associated herpesvirus infection - Homo sapiens (human) (3)
+
+hsa:4277 MICB; MHC class I polypeptide-related sequence B
+hsa:4775 NFATC3; nuclear factor of activated T cells 3
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05169 Epstein-Barr virus infection - Homo sapiens (human) (6)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:811 CALR; calreticulin
+hsa:953 ENTPD1; ectonucleoside triphosphate diphosphohydrolase 1
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5705 PSMC5; proteasome 26S subunit, ATPase 5
+
+hsa05165 Human papillomavirus infection - Homo sapiens (human) (3)
+
+hsa:3659 IRF1; interferon regulatory factor 1
+hsa:4855 NOTCH4; notch 4
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05146 Amoebiasis - Homo sapiens (human) (2)
+
+hsa:87 ACTN1; actinin alpha 1
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05145 Toxoplasmosis - Homo sapiens (human) (2)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+
+hsa05140 Leishmaniasis - Homo sapiens (human) (1)
+
+hsa:3119 HLA-DQB1; major histocompatibility complex, class II, DQ beta 1
+
+hsa05142 Chagas disease (American trypanosomiasis) - Homo sapiens (human) (3)
+
+hsa:1636 ACE; angiotensin I converting enzyme
+hsa:811 CALR; calreticulin
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa05143 African trypanosomiasis - Homo sapiens (human) (2)
+
+hsa:3620 IDO1; indoleamine 2,3-dioxygenase 1
+hsa:169355 IDO2; indoleamine 2,3-dioxygenase 2
+
+hsa01521 EGFR tyrosine kinase inhibitor resistance - Homo sapiens (human) (2)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+
+hsa01524 Platinum drug resistance - Homo sapiens (human) (3)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3
+hsa:5980 REV3L; REV3 like, DNA directed polymerase zeta catalytic subunit
+
+hsa01523 Antifolate resistance - Homo sapiens (human) (4)
+
+hsa:4363 ABCC1; ATP binding cassette subfamily C member 1
+hsa:10257 ABCC4; ATP binding cassette subfamily C member 4
+hsa:239 ALOX12; arachidonate 12-lipoxygenase, 12S type
+hsa:2356 FPGS; folylpolyglutamate synthase
+
+hsa01522 Endocrine resistance - Homo sapiens (human) (3)
+
+hsa:596 BCL2; BCL2, apoptosis regulator
+hsa:4855 NOTCH4; notch 4
+hsa:8503 PIK3R3; phosphoinositide-3-kinase regulatory subunit 3

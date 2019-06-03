@@ -1,0 +1,613 @@
+SNP	ANNOTATION	CHR	POS	SNP_PHENOTYPE	END	rsID	First_Level	PHENOTYPE	Metabolism
+rs10022462	RP11-10L7.1	4	89206094	2-aminobutyrate	89252573	rs10022462	Unknown		False
+rs10022462	HERC6	4	89299891	2-aminobutyrate	89364263	rs10022462	Unknown		False
+rs10022462	PPM1K	4	89178772	2-aminobutyrate	89205921	rs10022462	Unknown		False
+rs10022462	SNCA	4	90645250	2-aminobutyrate	90759411	rs10022462	Unknown		False
+rs1005390	TMEM176B	7	150488373	4-acetamidobutanoate/ X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	150498448	rs1005390	Unknown		False
+rs1005390	TMEM176A	7	150497622	4-acetamidobutanoate/ X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	150502208	rs1005390	Unknown		False
+rs1005390	SLC4A2	7	150754297	4-acetamidobutanoate/ X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	150772862	rs1005390	Organismal Systems		False
+rs1005390	ATG9B	7	150709297	4-acetamidobutanoate/ X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	150721586	rs1005390	Cellular Processes		False
+rs1005390	AOC1	7	150521715	4-acetamidobutanoate/ X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	150558592	rs1005390	Metabolism	Amino acid metabolism	True
+rs1005390	MGAM	7	141607613	4-acetamidobutanoate/ X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	141806547	rs1005390	Metabolism, Organismal Systems	Carbohydrate metabolism	True
+rs1005390	VIPR2	7	158822887	4-acetamidobutanoate/ X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	158937649	rs1005390	Environmental Information Processing		False
+rs10112574	ADHFE1	8	67344718	X-04499--3,4-dihydroxybutyrate/ C-glycosyltryptophan	67383675	rs10112574	Unknown		False
+rs10112574	C8orf46	8	67372238	X-04499--3,4-dihydroxybutyrate/ C-glycosyltryptophan	67430759	rs10112574	Unknown		False
+rs10112574	MYBL1	8	67474410	X-04499--3,4-dihydroxybutyrate/ C-glycosyltryptophan	67525529	rs10112574	Unknown		False
+rs10112574	FOXN3	14	89591215	X-04499--3,4-dihydroxybutyrate/ C-glycosyltryptophan	90085493	rs10112574	Unknown		False
+rs10211524	SLC1A4	2	65215611	2-aminobutyrate	65250999	rs10211524	Unknown		False
+rs10242455	TRIM4	7	99488036	X-12063	99517223	rs10242455	Unknown		False
+rs10242455	CYP3A5	7	99245817	X-12063	99277621	rs10242455	Metabolism, Human Diseases	Xenobiotics biodegradation and metabolism	True
+rs10242455	ATP5J2	7	99046098	X-12063	99063954	rs10242455	Unknown		False
+rs10242455	ARPC1B	7	98971872	X-12063	98992424	rs10242455	Cellular Processes, Organismal Systems, Human Diseases		False
+rs10242455	CYP3A43	7	99425636	X-12063	99463718	rs10242455	Human Diseases		False
+rs1046080	LY6G5B	6	31637944	X-11444/ X-11470	31641553	rs1046080	Unknown		False
+rs1046080	HLA-DRB6	6	32520490	X-11444/ X-11470	32527799	rs1046080	Unknown		False
+rs1046080	LY6G5C	6	31644461	X-11444/ X-11470	31651817	rs1046080	Unknown		False
+rs1046080	NOTCH4	6	32162620	X-11444/ X-11470	32191844	rs1046080	Environmental Information Processing, Organismal Systems, Human Diseases		False
+rs1046080	PSORS1C3	6	31141512	X-11444/ X-11470	31145676	rs1046080	Unknown		False
+rs1046080	ATF6B	6	32083112	X-11444/ X-11470	32096030	rs1046080	Genetic Information Processing, Environmental Information Processing, Organismal Systems, Human Diseases		False
+rs1046080	SKIV2L	6	31926888	X-11444/ X-11470	31937532	rs1046080	Genetic Information Processing		False
+rs1046080	HCG27	6	31165915	X-11444/ X-11470	31171745	rs1046080	Unknown		False
+rs1046080	PRRT1	6	32116136	X-11444/ X-11470	32121621	rs1046080	Unknown		False
+rs1046080	STK19	6	31938943	X-11444/ X-11470	31949228	rs1046080	Unknown		False
+rs1046080	HCG20	6	30734602	X-11444/ X-11470	30760027	rs1046080	Unknown		False
+rs1046080	BAG6	6	31606805	X-11444/ X-11470	31620482	rs1046080	Unknown		False
+rs1046080	MICB	6	31462658	X-11444/ X-11470	31478901	rs1046080	Organismal Systems		False
+rs1046080	DDAH2	6	31694815	X-11444/ X-11470	31698357	rs1046080	Unknown		False
+rs1046080	LY6G6E	6	31679548	X-11444/ X-11470	31681842	rs1046080	Unknown		False
+rs1046080	DXO	6	31937587	X-11444/ X-11470	31940069	rs1046080	Unknown		False
+rs1046080	NELFE	6	31919864	X-11444/ X-11470	31926856	rs1046080	Unknown		False
+rs1046080	LINC00243	6	30766431	X-11444/ X-11470	30798436	rs1046080	Unknown		False
+rs1046080	VWA7	6	31733367	X-11444/ X-11470	31745108	rs1046080	Unknown		False
+rs1046080	PRRC2A	6	31588497	X-11444/ X-11470	31605548	rs1046080	Unknown		False
+rs1046080	HLA-DQB1	6	32627244	X-11444/ X-11470	32636160	rs1046080	Environmental Information Processing, Cellular Processes, Organismal Systems, Human Diseases		False
+rs1046080	NUDT3	6	34254546	X-11444/ X-11470	34360451	rs1046080	Unknown		False
+rs1046080	SIPA1L1	14	71787166	X-11444/ X-11470	72207946	rs1046080	Environmental Information Processing		False
+rs10468017	ALDH1A2	15	58245622	1-palmitoylglycero-phosphoethanolamine	58790065	rs10468017	Metabolism	Metabolism of cofactors and vitamins	True
+rs10468017	KIAA1467	12	13197218	1-palmitoylglycero-phosphoethanolamine	13295455	rs10468017	Unknown		False
+rs10491431	RANBP3L	5	36248536	X-11445--5-alpha-pregnan-3beta,20alpha-disulfate	36302216	rs10491431	Unknown		False
+rs10491431	DAB2	5	39371780	X-11445--5-alpha-pregnan-3beta,20alpha-disulfate	39462402	rs10491431	Cellular Processes		False
+rs10504073	C8orf22	8	49966870	lysine/ glutaroyl carnitine	49988649	rs10504073	Unknown		False
+rs10504073	EFCAB1	8	49623348	lysine/ glutaroyl carnitine	49647870	rs10504073	Unknown		False
+rs10504073	RP11-10H3.1	8	50081098	lysine/ glutaroyl carnitine	50141484	rs10504073	Unknown		False
+rs1053941	CCDC163P	1	45959538	erythritol	45965724	rs1053941	Unknown		False
+rs1053941	MMACHC	1	45965752	erythritol	45976707	rs1053941	Organismal Systems		False
+rs1053941	TMEM69	1	46152886	erythritol	46159995	rs1053941	Unknown		False
+rs1053941	PRDX1	1	45976740	erythritol	45988719	rs1053941	Cellular Processes		False
+rs1053941	MAST2	1	46252659	erythritol	46501796	rs1053941	Unknown		False
+rs1053941	PIK3R3	1	46505812	erythritol	46642160	rs1053941	Environmental Information Processing, Cellular Processes, Organismal Systems, Human Diseases		False
+rs1053941	NSUN4	1	46805849	erythritol	46830824	rs1053941	Unknown		False
+rs1053941	ERI3	1	44686742	erythritol	44820932	rs1053941	Unknown		False
+rs1053941	SZRD1	1	16679070	erythritol	16724640	rs1053941	Unknown		False
+rs11101730	FUOM	10	135168658	X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	135171529	rs11101730	Unknown		False
+rs11101730	PAOX	10	135192695	X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	135205198	rs11101730	Cellular Processes		False
+rs11101730	ECHS1	10	135175984	X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	135187193	rs11101730	Metabolism	Amino acid metabolism	True
+rs1163251	ZNF697	1	120162045	Serine	120190396	rs1163251	Unknown		False
+rs1163251	PHGDH	1	120202421	Serine	120286838	rs1163251	Metabolism	Amino acid metabolism	True
+rs1163251	MACF1	1	39546988	Serine	39952849	rs1163251	Unknown		False
+rs11647589	ACSM5	16	20420856	3-phenylpropionate (hydrocinnamate)	20452571	rs11647589	Metabolism	Carbohydrate metabolism	True
+rs11647589	RP11-143N13.1	16	20598007	3-phenylpropionate (hydrocinnamate)	20618429	rs11647589	Unknown		False
+rs11647589	AC004381.6	16	20817999	3-phenylpropionate (hydrocinnamate)	20860987	rs11647589	Unknown		False
+rs11647589	ACSM1	16	20634559	3-phenylpropionate (hydrocinnamate)	20710212	rs11647589	Metabolism	Carbohydrate metabolism	True
+rs11647589	ACSM3	16	20621565	3-phenylpropionate (hydrocinnamate)	20807446	rs11647589	Metabolism	Carbohydrate metabolism	True
+rs11647589	PDILT	16	20370492	3-phenylpropionate (hydrocinnamate)	20416059	rs11647589	Unknown		False
+rs11647589	EEF2K	16	22217603	3-phenylpropionate (hydrocinnamate)	22298554	rs11647589	Environmental Information Processing, Organismal Systems		False
+rs11647589	TPT1-AS1	13	45915506	3-phenylpropionate (hydrocinnamate)	45965857	rs11647589	Unknown		False
+rs1171615	SLC16A9	10	61410523	carnitine/ X-12798	61495760	rs1171615	Unknown		False
+rs1171615	CCDC6	10	61548521	carnitine/ X-12798	61666414	rs1171615	Human Diseases		False
+rs1185567	SLC17A1	6	25783125	dehydroisoandrosterone sulfate (DHEA-S)/ 4-androsten-3beta,17beta-diol disulfate 2	25832287	rs1185567	Unknown		False
+rs1185567	SLC17A3	6	25833294	dehydroisoandrosterone sulfate (DHEA-S)/ 4-androsten-3beta,17beta-diol disulfate 2	25874471	rs1185567	Unknown		False
+rs1185567	U91328.19	6	25992890	dehydroisoandrosterone sulfate (DHEA-S)/ 4-androsten-3beta,17beta-diol disulfate 2	26002003	rs1185567	Unknown		False
+rs1185567	TRIM38	6	25963030	dehydroisoandrosterone sulfate (DHEA-S)/ 4-androsten-3beta,17beta-diol disulfate 2	25987384	rs1185567	Unknown		False
+rs12141041	DOCK3	3	50712672	Alpha-hydroxyisovalerate	51421629	rs12141041	Unknown		False
+rs12141041	CD2	1	117297007	Alpha-hydroxyisovalerate	117311850	rs12141041	Environmental Information Processing, Organismal Systems		False
+rs12141041	MAN1A2	1	117910071	Alpha-hydroxyisovalerate	118071494	rs12141041	Metabolism, Genetic Information Processing	Carbohydrate metabolism	True
+rs12550729	MAF1	8	145159402	5-oxoproline	145162514	rs12550729	Unknown		False
+rs12550729	PARP10	8	145051321	5-oxoproline	145086940	rs12550729	Unknown		False
+rs12550729	KIAA1875	8	145162629	5-oxoproline	145173218	rs12550729	Unknown		False
+rs12550729	GPAA1	8	145137493	5-oxoproline	145141119	rs12550729	Metabolism	Carbohydrate metabolism	True
+rs12550729	SHARPIN	8	145153536	5-oxoproline	145162961	rs12550729	Cellular Processes, Organismal Systems		False
+rs12550729	EXOSC4	8	145134326	5-oxoproline	145135550	rs12550729	Genetic Information Processing		False
+rs12550729	OPLAH	8	145106630	5-oxoproline	145118735	rs12550729	Metabolism	Amino acid metabolism	True
+rs12550729	CTD-3065J16.9	8	145132905	5-oxoproline	145134168	rs12550729	Unknown		False
+rs12550729	EPPK1	8	144939497	5-oxoproline	144952632	rs12550729	Unknown		False
+rs12550729	PLEC	8	144989321	5-oxoproline	145050902	rs12550729	Unknown		False
+rs12602901	RP11-81A22.5	17	4704454	X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	4710308	rs12602901	Unknown		False
+rs12602901	ENO3	17	4851387	X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	4860426	rs12602901	Metabolism, Genetic Information Processing, Environmental Information Processing	Carbohydrate metabolism	True
+rs12602901	INCA1	17	4891521	X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	4900905	rs12602901	Unknown		False
+rs12602901	CAMTA2	17	4871287	X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	4890939	rs12602901	Unknown		False
+rs12602901	RNF167	17	4843547	X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	4848517	rs12602901	Unknown		False
+rs12602901	SPAG7	17	4862521	X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	4871167	rs12602901	Unknown		False
+rs12602901	GP1BA	17	4835592	X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	4838325	rs12602901	Environmental Information Processing, Organismal Systems		False
+rs12602901	C17orf107	17	4802713	X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	4806227	rs12602901	Unknown		False
+rs12602901	C1QBP	17	5336197	X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	5352128	rs12602901	Unknown		False
+rs12602901	SLC25A11	17	4840425	X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	4843302	rs12602901	Unknown		False
+rs12602901	SLC52A1	17	4935895	X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	4955304	rs12602901	Unknown		False
+rs12602901	KIF1C	17	4901243	X-03056--N-[3-(2-oxopyrrolidin-1-yl)propyl]acetamide	4931696	rs12602901	Unknown		False
+rs1260326	AC074117.10	2	27579360	glucose/ mannose	27590489	rs1260326	Unknown		False
+rs1260326	NRBP1	2	27650657	glucose/ mannose	27665126	rs1260326	Unknown		False
+rs1260326	KRTCAP3	2	27665233	glucose/ mannose	27669348	rs1260326	Unknown		False
+rs1260326	ZNF513	2	27600098	glucose/ mannose	27603657	rs1260326	Unknown		False
+rs1260326	ATRAID	2	27435155	glucose/ mannose	27440046	rs1260326	Unknown		False
+rs1260326	PPM1G	2	27604061	glucose/ mannose	27632554	rs1260326	Unknown		False
+rs1260326	SNX17	2	27593389	glucose/ mannose	27599995	rs1260326	Unknown		False
+rs1260326	FNDC4	2	27714750	glucose/ mannose	27718112	rs1260326	Unknown		False
+rs1260326	GCKR	2	27719709	glucose/ mannose	27746554	rs1260326	Unknown		False
+rs12709013	GOT2	16	58741035	phenyllactate (PLA)/ phenylalanine	58768261	rs12709013	Metabolism, Organismal Systems	Amino acid metabolism	True
+rs12709013	SLC38A7	16	58699013	phenyllactate (PLA)/ phenylalanine	58719008	rs12709013	Unknown		False
+rs12709013	GEMIN8P2	16	58810444	phenyllactate (PLA)/ phenylalanine	58811467	rs12709013	Unknown		False
+rs12709013	RP11-410D17.2	16	58767816	phenyllactate (PLA)/ phenylalanine	59142878	rs12709013	Unknown		False
+rs13122250	TDO2	4	156775890	tryptophan	156841558	rs13122250	Metabolism	Amino acid metabolism	True
+rs131794	SCO2	22	50961997	uridine	50964035	rs131794	Human Diseases		False
+rs131794	TYMP	22	50964181	uridine	50968485	rs131794	Metabolism, Human Diseases	Xenobiotics biodegradation and metabolism	True
+rs131794	CHKB	22	51017378	uridine	51039884	rs131794	Metabolism, Human Diseases	Lipid metabolism	True
+rs131794	ODF3B	22	50968838	uridine	50971009	rs131794	Unknown		False
+rs131794	CPT1B	22	51007290	uridine	51017096	rs131794	Metabolism, Environmental Information Processing, Organismal Systems, Human Diseases	Lipid metabolism	True
+rs131794	CTA-384D8.36	22	50962854	uridine	50963209	rs131794	Unknown		False
+rs13222543	DIP2B	12	50898890	androsterone sulfate/ 4-androsten-3beta,17beta-diol disulfate 2	51142450	rs13222543	Unknown		False
+rs13222543	ANKIB1	7	91875548	androsterone sulfate/ 4-androsten-3beta,17beta-diol disulfate 2	92030698	rs13222543	Unknown		False
+rs13278849	ADRA1A	8	26605667	levulinate (4-oxovalerate)	26724790	rs13278849	Environmental Information Processing, Organismal Systems		False
+rs13278849	COX6B1P4	8	26693334	levulinate (4-oxovalerate)	26693817	rs13278849	Unknown		False
+rs13278849	RP11-150O12.1	8	37278859	levulinate (4-oxovalerate)	37411701	rs13278849	Unknown		False
+rs13278849	MSR1	8	15965387	levulinate (4-oxovalerate)	16424999	rs13278849	Cellular Processes		False
+rs13375749	C1orf123	1	53679870	glutaroyl carnitine	53686289	rs13375749	Unknown		False
+rs13375749	CPT2	1	53662101	glutaroyl carnitine	53679770	rs13375749	Metabolism, Organismal Systems	Lipid metabolism	True
+rs13375749	TSPAN1	1	46640745	glutaroyl carnitine	46651630	rs13375749	Unknown		False
+rs13538	ALMS1P	2	73872046	N-acetylornithine/ myo-inositol	73912703	rs13538	Unknown		False
+rs13538	NAT8	2	73867959	N-acetylornithine/ myo-inositol	73869520	rs13538	Unknown		False
+rs13538	TPRKB	2	73956231	N-acetylornithine/ myo-inositol	73964527	rs13538	Unknown		False
+rs13538	ALMS1	2	73612886	N-acetylornithine/ myo-inositol	73837920	rs13538	Unknown		False
+rs13538	AC104135.3	2	75145275	N-acetylornithine/ myo-inositol	75165545	rs13538	Unknown		False
+rs1365505	SLC27A2	15	50474393	10-undecenoate (11:1n1)/ X-11438	50528592	rs1365505	Cellular Processes, Organismal Systems, Human Diseases		False
+rs1365505	ATP8B4	15	50150435	10-undecenoate (11:1n1)/ X-11438	50411654	rs1365505	Unknown		False
+rs1365505	GABPB1-AS1	15	50647606	10-undecenoate (11:1n1)/ X-11438	50659636	rs1365505	Unknown		False
+rs1365505	LIPC	15	58702768	10-undecenoate (11:1n1)/ X-11438	58861151	rs1365505	Metabolism, Organismal Systems	Lipid metabolism	True
+rs1394678	ACSM5	16	20420856	indolepropionate	20452571	rs1394678	Metabolism	Carbohydrate metabolism	True
+rs1394678	RP11-143N13.1	16	20598007	indolepropionate	20618429	rs1394678	Unknown		False
+rs1394678	ACSM3	16	20621565	indolepropionate	20807446	rs1394678	Metabolism	Carbohydrate metabolism	True
+rs1394678	THUMPD1	16	20744986	indolepropionate	20753406	rs1394678	Unknown		False
+rs1394678	ACSM1	16	20634559	indolepropionate	20710212	rs1394678	Metabolism	Carbohydrate metabolism	True
+rs1394678	AC004381.6	16	20817999	indolepropionate	20860987	rs1394678	Unknown		False
+rs1394678	TMEM159	16	21169698	indolepropionate	21191937	rs1394678	Unknown		False
+rs1394678	PDILT	16	20370492	indolepropionate	20416059	rs1394678	Unknown		False
+rs1394678	PALB2	16	23614488	indolepropionate	23652631	rs1394678	Genetic Information Processing		False
+rs1394678	EEF2K	16	22217603	indolepropionate	22298554	rs1394678	Environmental Information Processing, Organismal Systems		False
+rs1395	AC074117.10	2	27579360	pantothenate	27590489	rs1395	Unknown		False
+rs1395	ATRAID	2	27435155	pantothenate	27440046	rs1395	Unknown		False
+rs1395	NRBP1	2	27650657	pantothenate	27665126	rs1395	Unknown		False
+rs1395	KRTCAP3	2	27665233	pantothenate	27669348	rs1395	Unknown		False
+rs1395	SLC5A6	2	27422455	pantothenate	27435733	rs1395	Organismal Systems		False
+rs1395	SNX17	2	27593389	pantothenate	27599995	rs1395	Unknown		False
+rs1395	TRIM54	2	27505260	pantothenate	27530267	rs1395	Unknown		False
+rs1395	CAD	2	27440258	pantothenate	27466811	rs1395	Metabolism	Amino acid metabolism	True
+rs1395	ANXA4	2	69871557	pantothenate	70053596	rs1395	Unknown		False
+rs1395	PAK2	3	196466728	pantothenate	196559518	rs1395	Environmental Information Processing, Cellular Processes, Organismal Systems, Human Diseases		False
+rs1395	VPS54	2	64119280	pantothenate	64246206	rs1395	Unknown		False
+rs1466788	STRIP1	1	110574199	Carnitine	110597263	rs1466788	Unknown		False
+rs1466788	CCBL2	1	89401456	Carnitine	89454038	rs1466788	Unknown		False
+rs1472631	LACTB	15	63413999	succinylcarnitine	63434260	rs1472631	Unknown		False
+rs1472631	RPS27L	15	63418071	succinylcarnitine	63450220	rs1472631	Genetic Information Processing		False
+rs1472631	TPM1	15	63334831	succinylcarnitine	63364114	rs1472631	Organismal Systems, Human Diseases		False
+rs1472631	RP11-321G12.1	15	63682335	succinylcarnitine	63729347	rs1472631	Unknown		False
+rs1472631	APH1B	15	63568217	succinylcarnitine	63601325	rs1472631	Environmental Information Processing		False
+rs1472631	RAB8B	15	63481668	succinylcarnitine	63559981	rs1472631	Cellular Processes		False
+rs1472631	CEP152	15	49005125	succinylcarnitine	49102791	rs1472631	Unknown		False
+rs1472631	KIAA0101	15	64657193	succinylcarnitine	64679886	rs1472631	Unknown		False
+rs1498694	PAH	12	103230663	phenylalanine	103344646	rs1498694	Metabolism	Metabolism of cofactors and vitamins	True
+rs1498694	TDG	12	104359582	phenylalanine	104382652	rs1498694	Genetic Information Processing		False
+rs1498694	RP11-611E13.2	12	70297813	phenylalanine	70636673	rs1498694	Unknown		False
+rs1509123	FBXO39	17	6679542	citrate	6700420	rs1509123	Unknown		False
+rs1509123	TEKT1	17	6692452	citrate	6735080	rs1509123	Unknown		False
+rs15676	C9orf114	9	131581930	indolelactate	131592100	rs15676	Unknown		False
+rs15676	ENDOG	9	131580753	indolelactate	131581464	rs15676	Cellular Processes		False
+rs15676	TBC1D13	9	131549483	indolelactate	131572711	rs15676	Unknown		False
+rs15676	PHYHD1	9	131683174	indolelactate	131704320	rs15676	Unknown		False
+rs15676	PKN3	9	131464802	indolelactate	131483147	rs15676	Environmental Information Processing, Human Diseases		False
+rs15676	LRRC8A	9	131644391	indolelactate	131680318	rs15676	Unknown		False
+rs15676	CCBL1	9	131595221	indolelactate	131644773	rs15676	Unknown		False
+rs15676	AMPD3	11	10329860	indolelactate	10529126	rs15676	Metabolism	Nucleotide metabolism	True
+rs15676	PARVB	22	44395091	indolelactate	44568829	rs15676	Cellular Processes		False
+rs15676	SEC16A	9	139334549	indolelactate	139372141	rs15676	Unknown		False
+rs16876394	BHMT2	5	78365540	betaine	78385289	rs16876394	Metabolism	Amino acid metabolism	True
+rs16876394	BHMT	5	78407602	betaine	78428108	rs16876394	Metabolism	Amino acid metabolism	True
+rs1697421	NBPF3	1	21766621	DSGEGDFXAEGGGVR/ ADpSGEGDFXAEGGGVR	21811498	rs1697421	Unknown		False
+rs1697421	ALPL	1	21835858	DSGEGDFXAEGGGVR/ ADpSGEGDFXAEGGGVR	21904905	rs1697421	Metabolism	Metabolism of cofactors and vitamins	True
+rs1697421	NAV1	1	201598532	DSGEGDFXAEGGGVR/ ADpSGEGDFXAEGGGVR	201796102	rs1697421	Unknown		False
+rs170149	NFIX	19	13106422	citrate	13209610	rs170149	Unknown		False
+rs17134585	AKR1C3	10	5077546	androsterone sulfate/ epiandrosterone sulfate	5149878	rs17134585	Metabolism, Organismal Systems	Metabolism of cofactors and vitamins	True
+rs17134585	RP11-445P17.8	10	5307996	androsterone sulfate/ epiandrosterone sulfate	5313199	rs17134585	Unknown		False
+rs17134585	RSU1	10	16632610	androsterone sulfate/ epiandrosterone sulfate	16859527	rs17134585	Unknown		False
+rs17279437	LIMD1	3	45596886	X-11315/ pyroglutamine	45727830	rs17279437	Environmental Information Processing		False
+rs17279437	EXOSC7	3	45016733	X-11315/ pyroglutamine	45054160	rs17279437	Genetic Information Processing		False
+rs174548	FADS1	11	61567099	arachidonate (20:4n6)/ dihomo-linolenate (20:3n3 or n6)	61596790	rs174548	Metabolism	Lipid metabolism	True
+rs174548	FADS2	11	61583728	arachidonate (20:4n6)/ dihomo-linolenate (20:3n3 or n6)	61634826	rs174548	Metabolism, Organismal Systems	Lipid metabolism	True
+rs174548	TMEM258	11	61535973	arachidonate (20:4n6)/ dihomo-linolenate (20:3n3 or n6)	61560108	rs174548	Unknown		False
+rs174548	FADS3	11	61640991	arachidonate (20:4n6)/ dihomo-linolenate (20:3n3 or n6)	61659523	rs174548	Unknown		False
+rs174548	DDB1	11	61066923	arachidonate (20:4n6)/ dihomo-linolenate (20:3n3 or n6)	61110045	rs174548	Genetic Information Processing, Human Diseases		False
+rs174548	GANAB	11	62392298	arachidonate (20:4n6)/ dihomo-linolenate (20:3n3 or n6)	62414104	rs174548	Metabolism, Genetic Information Processing	Carbohydrate metabolism	True
+rs174548	RSF1	11	77371041	arachidonate (20:4n6)/ dihomo-linolenate (20:3n3 or n6)	77532063	rs174548	Unknown		False
+rs174548	PPME1	11	73882256	arachidonate (20:4n6)/ dihomo-linolenate (20:3n3 or n6)	73965748	rs174548	Unknown		False
+rs174548	CAPN5	11	76777979	arachidonate (20:4n6)/ dihomo-linolenate (20:3n3 or n6)	76837201	rs174548	Unknown		False
+rs17806888	SUCLG2	3	67410884	succinylcarnitine	67705038	rs17806888	Metabolism	Carbohydrate metabolism	True
+rs1800775	NLRC5	16	57023397	X-12038	57117443	rs1800775	Unknown		False
+rs1800775	CETP	16	56995762	X-12038	57017757	rs1800775	Organismal Systems		False
+rs1800775	CDH3	16	68670092	X-12038	68756519	rs1800775	Environmental Information Processing		False
+rs1800775	NKD1	16	50582241	X-12038	50670647	rs1800775	Environmental Information Processing		False
+rs1853207	HELLS	10	96305547	X-11247	96373662	rs1853207	Unknown		False
+rs1853207	CYP2C9	10	96698415	X-11247	96749147	rs1853207	Metabolism, Organismal Systems, Human Diseases	Xenobiotics biodegradation and metabolism	True
+rs1853207	C10orf129	10	96953957	X-11247	96988685	rs1853207	Unknown		False
+rs1853207	TBC1D12	10	96162261	X-11247	96295687	rs1853207	Unknown		False
+rs1853207	CYP2C18	10	96443251	X-11247	96495947	rs1853207	Metabolism, Organismal Systems, Human Diseases	Metabolism of cofactors and vitamins	True
+rs1853207	PDLIM1	10	96997329	X-11247	97050781	rs1853207	Unknown		False
+rs1934955	C10orf129	10	96953957	X-02249	96988685	rs1934955	Unknown		False
+rs1934955	NOC3L	10	96075085	X-02249	96122716	rs1934955	Unknown		False
+rs1934955	GPR158	10	25463991	X-02249	25891155	rs1934955	Unknown		False
+rs1934955	TLL2	10	98124363	X-02249	98273675	rs1934955	Unknown		False
+rs1934963	C10orf129	10	96953957	X-11787	96988685	rs1934963	Unknown		False
+rs1934963	CYP2C8	10	96796530	X-11787	96829254	rs1934963	Metabolism, Organismal Systems, Human Diseases	Xenobiotics biodegradation and metabolism	True
+rs1934963	IDE	10	94211441	X-11787	94333833	rs1934963	Unknown		False
+rs2007084	ANPEP	15	90328120	HWESASXX	90358633	rs2007084	Metabolism, Organismal Systems	Amino acid metabolism	True
+rs2007084	PEX11A	15	90220995	HWESASXX	90234014	rs2007084	Cellular Processes		False
+rs2007084	TNIK	3	170779128	HWESASXX	171178197	rs2007084	Unknown		False
+rs2062541	ABCC1	16	16043434	hexanoylcarnitine/ octanoylcarnitine	16236931	rs2062541	Environmental Information Processing, Organismal Systems, Human Diseases		False
+rs2066938	SPPL3	12	121200313	butyrylcarnitine	121342174	rs2066938	Unknown		False
+rs2066938	C12orf43	12	121440316	butyrylcarnitine	121454305	rs2066938	Unknown		False
+rs2066938	ACADS	12	121163538	butyrylcarnitine	121177811	rs2066938	Metabolism	Amino acid metabolism	True
+rs2066938	UNC119B	12	121148238	butyrylcarnitine	121161443	rs2066938	Unknown		False
+rs2066938	MLEC	12	121124672	butyrylcarnitine	121139667	rs2066938	Unknown		False
+rs2066938	RP11-173P15.7	12	121178273	butyrylcarnitine	121199395	rs2066938	Unknown		False
+rs2066938	FBXO21	12	117581146	butyrylcarnitine	117628336	rs2066938	Unknown		False
+rs2070895	LIPC	15	58702768	1-palmitoylglycero-phosphoethanolamine	58861151	rs2070895	Metabolism, Organismal Systems	Lipid metabolism	True
+rs2070895	CPQ	8	97657455	1-palmitoylglycero-phosphoethanolamine	98161882	rs2070895	Unknown		False
+rs2160860	IDO2	8	39792133	X-12100--hydroxytryptophan*	39873910	rs2160860	Metabolism, Human Diseases	Amino acid metabolism	True
+rs2160860	IDO1	8	39759794	X-12100--hydroxytryptophan*	39785963	rs2160860	Metabolism, Human Diseases	Amino acid metabolism	True
+rs2187375	LIPG	18	47087069	X-03094	47119272	rs2187375	Metabolism, Organismal Systems	Lipid metabolism	True
+rs2235649	TELO2	16	1543345	X-12556	1560427	rs2235649	Genetic Information Processing, Environmental Information Processing		False
+rs2235649	HAGH	16	1845621	X-12556	1876967	rs2235649	Metabolism	Carbohydrate metabolism	True
+rs2235649	NUBP2	16	1832902	X-12556	1839192	rs2235649	Unknown		False
+rs2235649	FAHD1	16	1877196	X-12556	1890208	rs2235649	Metabolism	Amino acid metabolism	True
+rs2235649	EME2	16	1823208	X-12556	1831709	rs2235649	Genetic Information Processing		False
+rs2235649	CHTF18	16	838046	X-12556	850737	rs2235649	Unknown		False
+rs2235649	MRPS34	16	1821891	X-12556	1823156	rs2235649	Unknown		False
+rs2235649	NME3	16	1820319	X-12556	1821731	rs2235649	Metabolism	Xenobiotics biodegradation and metabolism	True
+rs2235649	MEIOB	16	1883984	X-12556	1934295	rs2235649	Unknown		False
+rs2235649	IGFALS	16	1840414	X-12556	1844972	rs2235649	Unknown		False
+rs2235649	OXR1	8	107371704	X-12556	107764922	rs2235649	Unknown		False
+rs2235649	MMP25	16	3096682	X-12556	3110727	rs2235649	Organismal Systems		False
+rs2270968	MCCC1-AS1	3	182734043	hydroxyisovaleroyl carnitine	182735596	rs2270968	Unknown		False
+rs2270968	MCCC1	3	182733006	hydroxyisovaleroyl carnitine	182833863	rs2270968	Metabolism	Amino acid metabolism	True
+rs2270968	DCUN1D1	3	182655862	hydroxyisovaleroyl carnitine	182703741	rs2270968	Unknown		False
+rs2270968	ATP11B	3	182511288	hydroxyisovaleroyl carnitine	182639027	rs2270968	Unknown		False
+rs2270968	BASP1	5	17065707	hydroxyisovaleroyl carnitine	17276943	rs2270968	Unknown		False
+rs2270968	RPL39L	3	186838736	hydroxyisovaleroyl carnitine	186898696	rs2270968	Unknown		False
+rs2271316	RP11-589P10.5	17	6897961	X-12441--12-hydroxyeicosatetraenoate (12-HETE)	6898508	rs2271316	Unknown		False
+rs2271316	ALOX12	17	6899384	X-12441--12-hydroxyeicosatetraenoate (12-HETE)	6914055	rs2271316	Metabolism, Organismal Systems, Human Diseases	Lipid metabolism	True
+rs2271316	AC027763.2	17	6779954	X-12441--12-hydroxyeicosatetraenoate (12-HETE)	6915668	rs2271316	Unknown		False
+rs2404602	SCAPER	15	76640526	isobutyrylcarnitine	77197785	rs2404602	Unknown		False
+rs2404602	RP11-593F23.1	15	76467232	isobutyrylcarnitine	76473827	rs2404602	Unknown		False
+rs2405522	SLC22A5	5	131705444	tryptophan betaine 	131731306	rs2405522	Human Diseases		False
+rs2405522	AC034220.3	5	131646978	tryptophan betaine 	131705340	rs2405522	Unknown		False
+rs2405522	AFF4	5	132211071	tryptophan betaine 	132299326	rs2405522	Unknown		False
+rs2540647	DGCR9	22	19005347	valine/ proline	19007761	rs2540647	Unknown		False
+rs2540647	PRODH	22	18904403	valine/ proline	18924066	rs2540647	Metabolism	Amino acid metabolism	True
+rs2547231	CTD-3098H1.2	19	48366740	X-11440/ 4-androsten-3beta,17beta-diol disulfate 2	48368598	rs2547231	Unknown		False
+rs2547231	SULT2A1	19	48373723	X-11440/ 4-androsten-3beta,17beta-diol disulfate 2	48389654	rs2547231	Metabolism, Organismal Systems, Human Diseases	Xenobiotics biodegradation and metabolism	True
+rs2547231	ZNF430	19	21203426	X-11440/ 4-androsten-3beta,17beta-diol disulfate 2	21242856	rs2547231	Unknown		False
+rs2576452	TMC4	19	54663846	arachidonate (20:4n6)/ 1-arachidonoylglycero-phosphoinositol	54676944	rs2576452	Unknown		False
+rs2576452	MBOAT7	19	54677107	arachidonate (20:4n6)/ 1-arachidonoylglycero-phosphoinositol	54693733	rs2576452	Metabolism	Lipid metabolism	True
+rs2576452	AC012314.8	19	54622891	arachidonate (20:4n6)/ 1-arachidonoylglycero-phosphoinositol	54628722	rs2576452	Unknown		False
+rs2576452	PRPF31	19	54619056	arachidonate (20:4n6)/ 1-arachidonoylglycero-phosphoinositol	54635140	rs2576452	Genetic Information Processing		False
+rs2576452	ANKFY1	17	4067201	arachidonate (20:4n6)/ 1-arachidonoylglycero-phosphoinositol	4167274	rs2576452	Unknown		False
+rs2576452	MYO9B	19	17186591	arachidonate (20:4n6)/ 1-arachidonoylglycero-phosphoinositol	17325346	rs2576452	Unknown		False
+rs2694917	SPRYD4	12	56862301	glutamine/ histidine	56864735	rs2694917	Unknown		False
+rs2694917	RP11-977G19.11	12	56693926	glutamine/ histidine	56708592	rs2694917	Unknown		False
+rs2694917	RBMS2	12	56915713	glutamine/ histidine	56984745	rs2694917	Unknown		False
+rs2694917	CNPY2	12	56703626	glutamine/ histidine	56710006	rs2694917	Unknown		False
+rs2694917	RPAP3	12	48057070	glutamine/ histidine	48099844	rs2694917	Unknown		False
+rs2727271	FADS1	11	61567099	X-12990--docosapentaenoic acid (n6-DPA)	61596790	rs2727271	Metabolism	Lipid metabolism	True
+rs2727271	FADS3	11	61640991	X-12990--docosapentaenoic acid (n6-DPA)	61659523	rs2727271	Unknown		False
+rs2727271	INCENP	11	61891445	X-12990--docosapentaenoic acid (n6-DPA)	61920635	rs2727271	Unknown		False
+rs272889	AC034220.3	5	131646978	valine/ isovalerylcarnitine	131705340	rs272889	Unknown		False
+rs272889	SLC22A5	5	131705444	valine/ isovalerylcarnitine	131731306	rs272889	Human Diseases		False
+rs272889	P4HA2	5	131527531	valine/ isovalerylcarnitine	131631008	rs272889	Metabolism	Amino acid metabolism	True
+rs272889	SLC22A4	5	131630136	valine/ isovalerylcarnitine	131679899	rs272889	Human Diseases		False
+rs272889	RAPGEF6	5	130759614	valine/ isovalerylcarnitine	130970929	rs272889	Environmental Information Processing, Cellular Processes		False
+rs272889	KIF3A	5	132028320	valine/ isovalerylcarnitine	132073330	rs272889	Environmental Information Processing		False
+rs272889	PDLIM4	5	131593364	valine/ isovalerylcarnitine	131609147	rs272889	Unknown		False
+rs272889	ACSL6	5	131142683	valine/ isovalerylcarnitine	131347936	rs272889	Metabolism, Cellular Processes, Organismal Systems	Lipid metabolism	True
+rs272889	IRF1	5	131817301	valine/ isovalerylcarnitine	131826490	rs272889	Environmental Information Processing, Organismal Systems, Human Diseases		False
+rs272889	AC063976.7	5	131535149	valine/ isovalerylcarnitine	131539180	rs272889	Unknown		False
+rs2731672	RAB24	5	176728452	X-12038/ bradykinin, des-arg(9)	176730745	rs2731672	Unknown		False
+rs2731672	LMAN2	5	176758563	X-12038/ bradykinin, des-arg(9)	176778853	rs2731672	Genetic Information Processing		False
+rs2731672	F12	5	176829141	X-12038/ bradykinin, des-arg(9)	176836577	rs2731672	Organismal Systems		False
+rs2731672	GPRIN1	5	176022976	X-12038/ bradykinin, des-arg(9)	176037134	rs2731672	Unknown		False
+rs2731672	MXD3	5	176732501	X-12038/ bradykinin, des-arg(9)	176739758	rs2731672	Unknown		False
+rs2731672	PRELID1	5	176730775	X-12038/ bradykinin, des-arg(9)	176731851	rs2731672	Unknown		False
+rs2734331	HLA-DQB2	6	32723875	X-11470	32731311	rs2734331	Unknown		False
+rs2734331	NEU1	6	31826829	X-11470	31830683	rs2734331	Metabolism, Cellular Processes	Carbohydrate metabolism	True
+rs2734331	LY6G5C	6	31644461	X-11470	31651817	rs2734331	Unknown		False
+rs2734331	HLA-DQB1	6	32627244	X-11470	32636160	rs2734331	Environmental Information Processing, Cellular Processes, Organismal Systems, Human Diseases		False
+rs2734331	HCG27	6	31165915	X-11470	31171745	rs2734331	Unknown		False
+rs2734331	ATF6B	6	32083112	X-11470	32096030	rs2734331	Genetic Information Processing, Environmental Information Processing, Organismal Systems, Human Diseases		False
+rs2734331	PPP1R10	6	30568177	X-11470	30586389	rs2734331	Unknown		False
+rs2740	PDXDC1	16	15068448	linoleate (18:2n6)/ dihomo-linolenate (20:3n3 or n6)	15233196	rs2740	Unknown		False
+rs2740	RP11-72I8.1	16	15188268	linoleate (18:2n6)/ dihomo-linolenate (20:3n3 or n6)	15203054	rs2740	Unknown		False
+rs2740	RP11-680G24.5	16	15111963	linoleate (18:2n6)/ dihomo-linolenate (20:3n3 or n6)	15114345	rs2740	Unknown		False
+rs2740	RRN3	16	15153879	linoleate (18:2n6)/ dihomo-linolenate (20:3n3 or n6)	15188174	rs2740	Unknown		False
+rs2740	PKD1P6	16	15219099	linoleate (18:2n6)/ dihomo-linolenate (20:3n3 or n6)	15248421	rs2740	Unknown		False
+rs2740	NTAN1	16	15131710	linoleate (18:2n6)/ dihomo-linolenate (20:3n3 or n6)	15149921	rs2740	Unknown		False
+rs2740	DLGAP4	20	34894258	linoleate (18:2n6)/ dihomo-linolenate (20:3n3 or n6)	35157040	rs2740	Unknown		False
+rs2851391	PKNOX1	21	44394620	betaine	44453691	rs2851391	Unknown		False
+rs2851391	CBS	21	44473301	betaine	44497053	rs2851391	Metabolism	Amino acid metabolism	True
+rs316020	LPAL2	6	160880088	X-12798/ phenylalanine	160932156	rs316020	Unknown		False
+rs316020	GRM1	6	146348782	X-12798/ phenylalanine	146758734	rs316020	Environmental Information Processing, Cellular Processes, Organismal Systems		False
+rs3184504	ALDH2	12	112204691	kynurenine	112247782	rs3184504	Metabolism	Amino acid metabolism	True
+rs3184504	FAM216A	12	110906181	kynurenine	110928190	rs3184504	Unknown		False
+rs3738934	RPE	2	210867289	X-13431--nonanoylcarnitine*	210886146	rs3738934	Metabolism	Carbohydrate metabolism	True
+rs3738934	KANSL1L	2	210886301	X-13431--nonanoylcarnitine*	211036019	rs3738934	Unknown		False
+rs3738934	CERS6	2	169312372	X-13431--nonanoylcarnitine*	169631644	rs3738934	Metabolism, Environmental Information Processing	Lipid metabolism	True
+rs3800993	RP11-1220K2.2	7	141811549	1,5-anhydroglucitol (1,5-AG)	141922124	rs3800993	Unknown		False
+rs4073054	TOMM40L	1	161195793	X-10395	161200134	rs4073054	Human Diseases		False
+rs4144027	XRCC3	14	104163946	asparagine	104181841	rs4144027	Genetic Information Processing		False
+rs4144027	TDRD9	14	104394799	asparagine	104519004	rs4144027	Unknown		False
+rs4144027	LINC00637	14	104314058	asparagine	104324386	rs4144027	Unknown		False
+rs4144027	PPP1R13B	14	104200089	asparagine	104313927	rs4144027	Unknown		False
+rs4144027	CTD-2134A5.4	14	104320740	asparagine	104346448	rs4144027	Unknown		False
+rs4144027	APOPT1	14	104029299	asparagine	104073860	rs4144027	Unknown		False
+rs4144027	MARK3	14	103851729	asparagine	103970168	rs4144027	Unknown		False
+rs4144027	KLC1	14	104028233	asparagine	104167888	rs4144027	Human Diseases		False
+rs4144027	HSP90AA1	14	102547075	asparagine	102605839	rs4144027	Genetic Information Processing, Environmental Information Processing, Cellular Processes, Organismal Systems, Human Diseases		False
+rs4150581	GTF2H1	11	18343842	3-(4-hydroxyphenyl)lactate/ alpha-hydroxyisovalerate	18388591	rs4150581	Genetic Information Processing, Human Diseases		False
+rs4150581	HPS5	11	18300223	3-(4-hydroxyphenyl)lactate/ alpha-hydroxyisovalerate	18343745	rs4150581	Unknown		False
+rs4150581	LDHA	11	18415935	3-(4-hydroxyphenyl)lactate/ alpha-hydroxyisovalerate	18429972	rs4150581	Metabolism, Environmental Information Processing, Organismal Systems, Human Diseases	Amino acid metabolism	True
+rs4150581	MRGPRX3	11	18142502	3-(4-hydroxyphenyl)lactate/ alpha-hydroxyisovalerate	18160027	rs4150581	Unknown		False
+rs4150581	TSG101	11	18489883	3-(4-hydroxyphenyl)lactate/ alpha-hydroxyisovalerate	18548779	rs4150581	Cellular Processes		False
+rs4150581	DOCK10	2	225629807	3-(4-hydroxyphenyl)lactate/ alpha-hydroxyisovalerate	225907162	rs4150581	Unknown		False
+rs4150581	COPB1	11	14464986	3-(4-hydroxyphenyl)lactate/ alpha-hydroxyisovalerate	14521573	rs4150581	Unknown		False
+rs4253311	F11	4	187187099	bradykinin, des-arg(9)	187210835	rs4253311	Organismal Systems		False
+rs4253311	FAM149A	4	187025573	bradykinin, des-arg(9)	187093821	rs4253311	Unknown		False
+rs4253311	CYP4V2	4	187112674	bradykinin, des-arg(9)	187134610	rs4253311	Unknown		False
+rs4253311	UFSP2	4	186320694	bradykinin, des-arg(9)	186347139	rs4253311	Unknown		False
+rs4343	ACE	17	61554422	aspartylphenylalanine/ X-14450--phenylalanylleucine	61574981	rs4343	Organismal Systems, Human Diseases		False
+rs4343	FTSJ3	17	61896793	aspartylphenylalanine/ X-14450--phenylalanylleucine	61907372	rs4343	Unknown		False
+rs4343	PSMC5	17	61905032	aspartylphenylalanine/ X-14450--phenylalanylleucine	61909379	rs4343	Genetic Information Processing, Human Diseases		False
+rs4343	KCNH6	17	61600695	aspartylphenylalanine/ X-14450--phenylalanylleucine	61626338	rs4343	Unknown		False
+rs4343	DCAF7	17	61627822	aspartylphenylalanine/ X-14450--phenylalanylleucine	61671639	rs4343	Unknown		False
+rs445925	BCAM	19	45312328	X-11820/ cholesterol	45324671	rs445925	Unknown		False
+rs445925	APOE	19	45409011	X-11820/ cholesterol	45412650	rs445925	Organismal Systems		False
+rs445925	RYR1	19	38924339	X-11820/ cholesterol	39078204	rs445925	Environmental Information Processing, Organismal Systems		False
+rs445925	RERE	1	8412457	X-11820/ cholesterol	8877702	rs445925	Unknown		False
+rs4488133	HPS1	10	100175955	X-12092	100206684	rs4488133	Unknown		False
+rs4488133	PYROXD2	10	100143322	X-12092	100174941	rs4488133	Unknown		False
+rs4488133	SFRP5	10	99526508	X-12092	99531709	rs4488133	Environmental Information Processing		False
+rs4488133	FAM53B	10	126307861	X-12092	126432838	rs4488133	Unknown		False
+rs4625783	AC132872.2	17	80214131	3-(4-hydroxyphenyl)lactate	80216080	rs4625783	Unknown		False
+rs4625783	CCDC57	17	80059336	3-(4-hydroxyphenyl)lactate	80170706	rs4625783	Unknown		False
+rs4625783	GCGR	17	79762010	3-(4-hydroxyphenyl)lactate	79771889	rs4625783	Environmental Information Processing, Organismal Systems		False
+rs4625783	LRRC45	17	79981178	3-(4-hydroxyphenyl)lactate	79989027	rs4625783	Unknown		False
+rs4625783	ASPSCR1	17	79934683	3-(4-hydroxyphenyl)lactate	79975282	rs4625783	Human Diseases		False
+rs4625783	DCXR	17	79993012	3-(4-hydroxyphenyl)lactate	79995608	rs4625783	Metabolism	Carbohydrate metabolism	True
+rs4625783	FASN	17	80036214	3-(4-hydroxyphenyl)lactate	80056208	rs4625783	Metabolism, Environmental Information Processing, Organismal Systems	Lipid metabolism	True
+rs4625783	RAC3	17	79989500	3-(4-hydroxyphenyl)lactate	79992078	rs4625783	Environmental Information Processing, Cellular Processes, Organismal Systems, Human Diseases		False
+rs4625783	SLC16A3	17	80186273	3-(4-hydroxyphenyl)lactate	80219005	rs4625783	Human Diseases		False
+rs4625783	RP11-1376P16.1	17	80117932	3-(4-hydroxyphenyl)lactate	80118328	rs4625783	Unknown		False
+rs4625783	GPS1	17	80008641	3-(4-hydroxyphenyl)lactate	80015346	rs4625783	Unknown		False
+rs4625783	DUS1L	17	80015382	3-(4-hydroxyphenyl)lactate	80023763	rs4625783	Unknown		False
+rs4625783	PTDSS2	11	448268	3-(4-hydroxyphenyl)lactate	491387	rs4625783	Metabolism	Lipid metabolism	True
+rs4625783	ZNF346	5	176449697	3-(4-hydroxyphenyl)lactate	176508190	rs4625783	Unknown		False
+rs4675874	C2orf54	2	241825465	X-12556	241836306	rs4675874	Unknown		False
+rs4675874	AGXT	2	241807896	X-12556	241818537	rs4675874	Metabolism, Cellular Processes	Amino acid metabolism	True
+rs4675874	SNED1	2	241938255	X-12556	242034011	rs4675874	Unknown		False
+rs4675874	AC104809.4	2	241894034	X-12556	241906848	rs4675874	Unknown		False
+rs4675874	AC104809.3	2	241858202	X-12556	241932728	rs4675874	Unknown		False
+rs4675874	AC005237.4	2	241955016	X-12556	241973020	rs4675874	Unknown		False
+rs4680	ARVCF	22	19957499	X-11593--O-methylascorbate*	20004331	rs4680	Unknown		False
+rs4680	COMT	22	19929130	X-11593--O-methylascorbate*	19957418	rs4680	Metabolism, Organismal Systems	Amino acid metabolism	True
+rs4680	RP3-400N23.6	22	31688521	X-11593--O-methylascorbate*	31734007	rs4680	Unknown		False
+rs4680	ZFPM1	16	88519725	X-11593--O-methylascorbate*	88603424	rs4680	Unknown		False
+rs4687717	TKT	3	53258723	phosphate/ erythronate	53290047	rs4687717	Metabolism	Carbohydrate metabolism	True
+rs4687717	ITIH4	3	52846991	phosphate/ erythronate	52864755	rs4687717	Unknown		False
+rs4687717	PRKCD	3	53190025	phosphate/ erythronate	53226733	rs4687717	Cellular Processes, Organismal Systems, Human Diseases		False
+rs4690909	PPID	4	159630776	octanoylcarnitine/ X-13435	159644548	rs4690909	Cellular Processes		False
+rs4690909	ETFDH	4	159593408	octanoylcarnitine/ X-13435	159630285	rs4690909	Unknown		False
+rs4784054	SLC38A7	16	58699013	phenyllactate (PLA)	58719008	rs4784054	Unknown		False
+rs4784054	GOT2	16	58741035	phenyllactate (PLA)	58768261	rs4784054	Metabolism, Organismal Systems	Amino acid metabolism	True
+rs4784054	RP11-410D17.2	16	58767816	phenyllactate (PLA)	59142878	rs4784054	Unknown		False
+rs4787294	AC008731.1	16	24931582	scyllo-inositol	24932325	rs4787294	Unknown		False
+rs4787294	SLC5A11	16	24857162	scyllo-inositol	24922949	rs4787294	Unknown		False
+rs4787294	RP11-266L9.4	16	25043202	scyllo-inositol	25069430	rs4787294	Unknown		False
+rs4787294	RP11-266L9.2	16	25151898	scyllo-inositol	25160353	rs4787294	Unknown		False
+rs4787294	RP11-266L9.6	16	25082811	scyllo-inositol	25084048	rs4787294	Unknown		False
+rs4787294	C16orf52	16	22018959	scyllo-inositol	22098855	rs4787294	Unknown		False
+rs4808136	ELL	19	18553473	myo-inositol	18632937	rs4808136	Unknown		False
+rs4808136	SSBP4	19	18529674	myo-inositol	18545197	rs4808136	Unknown		False
+rs4808136	LRRC25	19	18501954	myo-inositol	18508427	rs4808136	Unknown		False
+rs4808136	ISYNA1	19	18545373	myo-inositol	18549111	rs4808136	Metabolism	Carbohydrate metabolism	True
+rs4808136	CRLF1	19	18683418	myo-inositol	18718551	rs4808136	Unknown		False
+rs4808136	PGPEP1	19	18451397	myo-inositol	18480760	rs4808136	Unknown		False
+rs4808136	SLBP	4	1694527	myo-inositol	1714282	rs4808136	Unknown		False
+rs4814176	SPTLC3	20	12989627	X-10510/ palmitoyl sphingomyelin	13147411	rs4814176	Metabolism, Environmental Information Processing	Lipid metabolism	True
+rs493519	WDR66	12	122356204	2-hydroxyisobutyrate	122441833	rs493519	Unknown		False
+rs493519	PSMD9	12	122326637	2-hydroxyisobutyrate	122355767	rs493519	Unknown		False
+rs493519	STX2	12	131274145	2-hydroxyisobutyrate	131323811	rs493519	Genetic Information Processing, Organismal Systems		False
+rs494562	NT5E	6	86159809	inosine	86205500	rs494562	Metabolism	Metabolism of cofactors and vitamins	True
+rs494562	RP11-30P6.6	6	86096937	inosine	86099904	rs494562	Unknown		False
+rs494562	KCNQ5	6	73331520	inosine	73908574	rs494562	Organismal Systems		False
+rs4947534	SUMF2	7	56131695	serine	56148363	rs4947534	Unknown		False
+rs4947534	CCT6A	7	56119323	serine	56131682	rs4947534	Unknown		False
+rs4947534	ZNF713	7	55955205	serine	56009918	rs4947534	Unknown		False
+rs4947534	GBAS	7	56019486	serine	56067874	rs4947534	Unknown		False
+rs4949874	ACADM	1	76190036	Acetylcarnitine/ hexanoylcarnitine	76251878	rs4949874	Metabolism, Organismal Systems	Amino acid metabolism	True
+rs4949874	MSH4	1	76262567	Acetylcarnitine/ hexanoylcarnitine	76378923	rs4949874	Unknown		False
+rs4949874	PGM1	1	64058947	Acetylcarnitine/ hexanoylcarnitine	64125916	rs4949874	Metabolism	Nucleotide metabolism	True
+rs4949874	FAM69A	1	93307724	Acetylcarnitine/ hexanoylcarnitine	93427057	rs4949874	Unknown		False
+rs4986894	MTND4P19	10	96533913	X-14473	96534390	rs4986894	Unknown		False
+rs4986894	CYP2C19	10	96522381	X-14473	96613017	rs4986894	Metabolism, Organismal Systems, Human Diseases	Xenobiotics biodegradation and metabolism	True
+rs4986894	HELLS	10	96305547	X-14473	96373662	rs4986894	Unknown		False
+rs499368	RP11-283I3.2	12	312808	betaine	314189	rs499368	Unknown		False
+rs499368	RP11-598F7.6	12	276022	betaine	291565	rs499368	Unknown		False
+rs499368	SLC6A12	12	299243	betaine	323689	rs499368	Organismal Systems		False
+rs5030062	LPP	3	187925986	bradykinin, des-arg(9)	188608460	rs5030062	Unknown		False
+rs5030062	DNAJC13	3	132136370	bradykinin, des-arg(9)	132257876	rs5030062	Unknown		False
+rs559555	SPAST	2	32288680	X-11444/ X-12844	32382706	rs559555	Unknown		False
+rs559555	SLC30A6	2	32390933	X-11444/ X-12844	32449448	rs559555	Unknown		False
+rs559555	NLRC4	2	32449522	X-11444/ X-12844	32490923	rs559555	Organismal Systems, Human Diseases		False
+rs559555	XDH	2	31557187	X-11444/ X-12844	31637581	rs559555	Metabolism, Cellular Processes	Xenobiotics biodegradation and metabolism	True
+rs559555	MYT1L	2	1792885	X-11444/ X-12844	2335032	rs559555	Unknown		False
+rs56322409	ENTPD1	10	97471536	citrulline	97637023	rs56322409	Metabolism, Human Diseases	Nucleotide metabolism	True
+rs56322409	TCTN3	10	97423158	citrulline	97453900	rs56322409	Unknown		False
+rs56322409	ALDH18A1	10	97365696	citrulline	97416463	rs56322409	Metabolism	Amino acid metabolism	True
+rs601338	SEC1P	19	49141402	ADSGEGDFXAEGGGVR/ ADpSGEGDFXAEGGGVR	49184461	rs601338	Unknown		False
+rs601338	NTN5	19	49164664	ADSGEGDFXAEGGGVR/ ADpSGEGDFXAEGGGVR	49176338	rs601338	Unknown		False
+rs601338	FUT2	19	49199228	ADSGEGDFXAEGGGVR/ ADpSGEGDFXAEGGGVR	49209207	rs601338	Metabolism	Carbohydrate metabolism	True
+rs601338	MAMSTR	19	49215999	ADSGEGDFXAEGGGVR/ ADpSGEGDFXAEGGGVR	49222978	rs601338	Unknown		False
+rs601338	RASIP1	19	49223844	ADSGEGDFXAEGGGVR/ ADpSGEGDFXAEGGGVR	49243978	rs601338	Unknown		False
+rs601338	FAM83E	19	49104067	ADSGEGDFXAEGGGVR/ ADpSGEGDFXAEGGGVR	49118111	rs601338	Unknown		False
+rs603424	BLOC1S2	10	102033713	myristate (14:0)/ myristoleate (14:1n5)	102046469	rs603424	Unknown		False
+rs603424	SCD	10	102106881	myristate (14:0)/ myristoleate (14:1n5)	102124591	rs603424	Metabolism, Environmental Information Processing, Organismal Systems	Lipid metabolism	True
+rs603424	SGPL1	10	72575717	myristate (14:0)/ myristoleate (14:1n5)	72640930	rs603424	Metabolism, Environmental Information Processing	Lipid metabolism	True
+rs603424	PDCD11	10	105156405	myristate (14:0)/ myristoleate (14:1n5)	105206049	rs603424	Unknown		False
+rs603424	HK1	10	71029740	myristate (14:0)/ myristoleate (14:1n5)	71161638	rs603424	Metabolism, Environmental Information Processing, Organismal Systems, Human Diseases	Biosynthesis of other secondary metabolites	True
+rs603424	LIN52	14	74551499	myristate (14:0)/ myristoleate (14:1n5)	74667936	rs603424	Cellular Processes		False
+rs603424	CACUL1	10	120433679	myristate (14:0)/ myristoleate (14:1n5)	120514761	rs603424	Unknown		False
+rs6151429	ARSA	22	51061182	X-11423--O-sulfo-L-tyrosine	51066607	rs6151429	Metabolism, Cellular Processes	Lipid metabolism	True
+rs6151429	CABIN1	22	24407642	X-11423--O-sulfo-L-tyrosine	24574596	rs6151429	Unknown		False
+rs6430553	CCNT2	2	135675805	X-12095--N1-methyl-3-pyridone-4-carboxamide	135716912	rs6430553	Human Diseases		False
+rs6430553	AC016725.4	2	135493034	X-12095--N1-methyl-3-pyridone-4-carboxamide	135635213	rs6430553	Unknown		False
+rs6430553	TMEM163	2	135213330	X-12095--N1-methyl-3-pyridone-4-carboxamide	135476570	rs6430553	Unknown		False
+rs6430553	UBXN4	2	136499189	X-12095--N1-methyl-3-pyridone-4-carboxamide	136542625	rs6430553	Unknown		False
+rs6459467	GMPR	6	16238811	hypoxanthine	16295780	rs6459467	Metabolism	Nucleotide metabolism	True
+rs6459467	SLC16A10	6	111408781	hypoxanthine	111552397	rs6459467	Organismal Systems		False
+rs6459467	RNF182	6	13924677	hypoxanthine	13980533	rs6459467	Unknown		False
+rs6497490	ACSM5	16	20420856	X-11478	20452571	rs6497490	Metabolism	Carbohydrate metabolism	True
+rs6678639	CYP4A11	1	47394849	10-undecenoate (11:1n1)/ X-11438	47407156	rs6678639	Metabolism, Organismal Systems	Metabolism of cofactors and vitamins	True
+rs6678639	CYP4B1	1	47223510	10-undecenoate (11:1n1)/ X-11438	47285085	rs6678639	Unknown		False
+rs6678639	BCL2	18	60790579	10-undecenoate (11:1n1)/ X-11438	60987361	rs6678639	Genetic Information Processing, Environmental Information Processing, Cellular Processes, Organismal Systems, Human Diseases		False
+rs6679002	DOCK7	1	62920399	X-03094	63153969	rs6679002	Unknown		False
+rs6679002	USP1	1	62901968	X-03094	62917475	rs6679002	Genetic Information Processing		False
+rs6679002	ATG4C	1	63249806	X-03094	63331184	rs6679002	Cellular Processes		False
+rs6679002	ANGPTL3	1	63063158	X-03094	63071830	rs6679002	Organismal Systems		False
+rs6679002	FGD4	12	32552463	X-03094	32798984	rs6679002	Unknown		False
+rs6679002	CDC14A	1	100817290	X-03094	100985833	rs6679002	Cellular Processes		False
+rs6679002	CD8A	2	87011729	X-03094	87035519	rs6679002	Environmental Information Processing, Organismal Systems, Human Diseases		False
+rs6693388	THEM4	1	151846060	linoleate (18:2n6)/ X-12442--5,8-tetradecadienoate	151882284	rs6693388	Metabolism, Environmental Information Processing	Lipid metabolism	True
+rs6693388	S100A10	1	151955391	linoleate (18:2n6)/ X-12442--5,8-tetradecadienoate	151966866	rs6693388	Unknown		False
+rs6693388	NBPF18P	1	151967007	linoleate (18:2n6)/ X-12442--5,8-tetradecadienoate	152015250	rs6693388	Unknown		False
+rs6693388	S100A11	1	152004982	linoleate (18:2n6)/ X-12442--5,8-tetradecadienoate	152020383	rs6693388	Unknown		False
+rs6693388	KRT8P28	1	151921999	linoleate (18:2n6)/ X-12442--5,8-tetradecadienoate	151923388	rs6693388	Unknown		False
+rs6804368	GADL1	3	30767692	X-12244--N-acetylcarnosine	30936257	rs6804368	Metabolism	Metabolism of cofactors and vitamins	True
+rs6804368	RP11-1024P17.1	3	30739153	X-12244--N-acetylcarnosine	30741068	rs6804368	Unknown		False
+rs6968554	AC003075.4	7	17319458	caffeine	17338981	rs6968554	Unknown		False
+rs6968554	GRID2IP	7	6537093	caffeine	6591067	rs6968554	Unknown		False
+rs6980334	MAGI2	7	77646393	X-12095--N1-methyl-3-pyridone-4-carboxamide/ X-12844	79082890	rs6980334	Environmental Information Processing		False
+rs6980334	IMMP2L	7	110303110	X-12095--N1-methyl-3-pyridone-4-carboxamide/ X-12844	111202573	rs6980334	Genetic Information Processing		False
+rs6980334	MTPN	7	135611509	X-12095--N1-methyl-3-pyridone-4-carboxamide/ X-12844	135662101	rs6980334	Unknown		False
+rs7061710	FMO3	1	171060018	X-11786--methylcysteine	171086959	rs7061710	Metabolism	Xenobiotics biodegradation and metabolism	True
+rs7061710	FMO6P	1	171106879	X-11786--methylcysteine	171130707	rs7061710	Unknown		False
+rs7061710	FMO2	1	171154347	X-11786--methylcysteine	171181822	rs7061710	Metabolism	Xenobiotics biodegradation and metabolism	True
+rs7061710	DNAH14	1	225083964	X-11786--methylcysteine	225586996	rs7061710	Unknown		False
+rs7061710	ASTN1	1	176826438	X-11786--methylcysteine	177134109	rs7061710	Unknown		False
+rs7157785	NUMB	14	73741815	X-08402/ cholesterol	73930197	rs7157785	Environmental Information Processing		False
+rs7542172	MKNK1	1	47023090	erythritol	47069966	rs7542172	Environmental Information Processing, Organismal Systems		False
+rs7542172	EFCAB14	1	47140831	erythritol	47184824	rs7542172	Unknown		False
+rs7542172	MOB3C	1	47073387	erythritol	47082563	rs7542172	Unknown		False
+rs7542172	FGR	1	27938575	erythritol	27961788	rs7542172	Organismal Systems		False
+rs7570971	CCNT2	2	135675805	1,5-anhydroglucitol (1,5-AG)	135716912	rs7570971	Human Diseases		False
+rs7570971	MCM6	2	136597196	1,5-anhydroglucitol (1,5-AG)	136633996	rs7570971	Genetic Information Processing, Cellular Processes		False
+rs7570971	AC093391.2	2	136742746	1,5-anhydroglucitol (1,5-AG)	136779888	rs7570971	Unknown		False
+rs7570971	TMEM163	2	135213330	1,5-anhydroglucitol (1,5-AG)	135476570	rs7570971	Unknown		False
+rs7570971	DARS	2	136664247	1,5-anhydroglucitol (1,5-AG)	136743447	rs7570971	Genetic Information Processing		False
+rs7570971	UBXN4	2	136499189	1,5-anhydroglucitol (1,5-AG)	136542625	rs7570971	Unknown		False
+rs7570971	MAP3K19	2	135722061	1,5-anhydroglucitol (1,5-AG)	135805028	rs7570971	Unknown		False
+rs7570971	SAP130	2	128698791	1,5-anhydroglucitol (1,5-AG)	128785694	rs7570971	Unknown		False
+rs7642243	SLC51A	3	195938358	X-09789	195970049	rs7642243	Organismal Systems		False
+rs7642243	MUC4	3	195473636	X-09789	195539148	rs7642243	Unknown		False
+rs7642243	ZDHHC19	3	195924320	X-09789	195938308	rs7642243	Unknown		False
+rs7642243	TM4SF19	3	196046213	X-09789	196065374	rs7642243	Unknown		False
+rs7642243	TNK2	3	195590235	X-09789	195638816	rs7642243	Unknown		False
+rs7642243	PCYT1A	3	195941093	X-09789	196014828	rs7642243	Metabolism, Human Diseases	Amino acid metabolism	True
+rs7775554	SRSF12	6	89805678	X-12244--N-acetylcarnosine	89827800	rs7775554	Unknown		False
+rs7775554	PM20D2	6	89855769	X-12244--N-acetylcarnosine	89875284	rs7775554	Unknown		False
+rs7775554	PNRC1	6	89790470	X-12244--N-acetylcarnosine	89794879	rs7775554	Unknown		False
+rs7775554	DOPEY1	6	83777385	X-12244--N-acetylcarnosine	83881069	rs7775554	Unknown		False
+rs7809615	CNPY4	7	99717236	androsterone sulfate/ 4-androsten-3beta,17beta-diol disulfate 2	99723134	rs7809615	Unknown		False
+rs7809615	ZKSCAN5	7	99102274	androsterone sulfate/ 4-androsten-3beta,17beta-diol disulfate 2	99132323	rs7809615	Unknown		False
+rs7809615	GS1-259H13.2	7	99195689	androsterone sulfate/ 4-androsten-3beta,17beta-diol disulfate 2	99208439	rs7809615	Unknown		False
+rs7809615	CYP3A7	7	99302667	androsterone sulfate/ 4-androsten-3beta,17beta-diol disulfate 2	99332719	rs7809615	Metabolism, Human Diseases	Metabolism of cofactors and vitamins	True
+rs7809615	CPSF4	7	99036545	androsterone sulfate/ 4-androsten-3beta,17beta-diol disulfate 2	99054994	rs7809615	Genetic Information Processing, Human Diseases		False
+rs7809615	CYP3A5	7	99245817	androsterone sulfate/ 4-androsten-3beta,17beta-diol disulfate 2	99277621	rs7809615	Metabolism, Human Diseases	Xenobiotics biodegradation and metabolism	True
+rs7809615	TAF6	7	99707571	androsterone sulfate/ 4-androsten-3beta,17beta-diol disulfate 2	99717190	rs7809615	Genetic Information Processing		False
+rs7809615	PTCD1	7	99014362	androsterone sulfate/ 4-androsten-3beta,17beta-diol disulfate 2	99036539	rs7809615	Unknown		False
+rs7809615	ARPC1B	7	98971872	androsterone sulfate/ 4-androsten-3beta,17beta-diol disulfate 2	98992424	rs7809615	Cellular Processes, Organismal Systems, Human Diseases		False
+rs7809615	ARPC1A	7	98923521	androsterone sulfate/ 4-androsten-3beta,17beta-diol disulfate 2	98963880	rs7809615	Cellular Processes, Organismal Systems, Human Diseases		False
+rs7809615	AVL9	7	32535038	androsterone sulfate/ 4-androsten-3beta,17beta-diol disulfate 2	33078516	rs7809615	Unknown		False
+rs7809615	NRG4	15	76228310	androsterone sulfate/ 4-androsten-3beta,17beta-diol disulfate 2	76352136	rs7809615	Environmental Information Processing		False
+rs7849270	PPP2R4	9	131873229		131911225	rs7849270	Unknown		False
+rs7849270	CRAT	9	131857089		131873468	rs7849270	Cellular Processes		False
+rs7849270	RP11-247A12.2	9	131963594		131972827	rs7849270	Unknown		False
+rs7849270	DOLPP1	9	131843379		131852717	rs7849270	Metabolism	Carbohydrate metabolism	True
+rs7849270	TOR1A	9	132575223		132586413	rs7849270	Unknown		False
+rs7849270	SH3GLB2	9	131769376		131790582	rs7849270	Cellular Processes		False
+rs7849270	RP11-247A12.1	9	131860133		131862545	rs7849270	Unknown		False
+rs7849270	FPGS	9	130556876		130576606	rs7849270	Metabolism, Human Diseases	Metabolism of cofactors and vitamins	True
+rs7969761	CCDC77	12	498621	betaine/ pyroglutamine	551811	rs7969761	Unknown		False
+rs7969761	SLC6A13	12	329789	betaine/ pyroglutamine	372039	rs7969761	Organismal Systems		False
+rs7969761	KDM5A	12	389295	betaine/ pyroglutamine	498438	rs7969761	Unknown		False
+rs8002180	ABCC4	13	95672083	X-12244--N-acetylcarnosine	95953687	rs8002180	Environmental Information Processing, Organismal Systems, Human Diseases		False
+rs8002180	FGF14	13	102372134	X-12244--N-acetylcarnosine	103054124	rs8002180	Unknown		False
+rs8012	SYCE2	19	13009600	glutaroyl carnitine	13030090	rs8012	Unknown		False
+rs8012	FARSA	19	13033293	glutaroyl carnitine	13044851	rs8012	Genetic Information Processing		False
+rs8012	GCDH	19	13001840	glutaroyl carnitine	13025021	rs8012	Metabolism	Amino acid metabolism	True
+rs8012	CALR	19	13049421	glutaroyl carnitine	13055303	rs8012	Genetic Information Processing, Cellular Processes, Organismal Systems, Human Diseases		False
+rs8012	PRDX2	19	12907634	glutaroyl carnitine	12912694	rs8012	Unknown		False
+rs8012	AD000092.3	19	13004947	glutaroyl carnitine	13005694	rs8012	Unknown		False
+rs8012	HOOK2	19	12873817	glutaroyl carnitine	12983554	rs8012	Unknown		False
+rs8012	RTBDN	19	12936292	glutaroyl carnitine	12946242	rs8012	Unknown		False
+rs8012	CTD-2265O21.3	19	12937686	glutaroyl carnitine	12943797	rs8012	Unknown		False
+rs8012	DNASE2	19	12986025	glutaroyl carnitine	12992282	rs8012	Cellular Processes		False
+rs8012	CTD-2192J16.21	19	12640582	glutaroyl carnitine	12643787	rs8012	Unknown		False
+rs8012	WDR83OS	19	12778885	glutaroyl carnitine	12782170	rs8012	Unknown		False
+rs8012	ASF1B	19	14230350	glutaroyl carnitine	14247768	rs8012	Unknown		False
+rs8012	RFX1	19	14072350	glutaroyl carnitine	14117851	rs8012	Unknown		False
+rs8012	SMARCB1	22	24129150	glutaroyl carnitine	24176689	rs8012	Organismal Systems, Human Diseases		False
+rs8012	SYMPK	19	46318668	glutaroyl carnitine	46366548	rs8012	Genetic Information Processing, Cellular Processes		False
+rs8018967	ACOT1	14	74003818	X-13215/ X-13671	74010498	rs8018967	Metabolism	Lipid metabolism	True
+rs8018967	HEATR4	14	73945189	X-13215/ X-13671	74025651	rs8018967	Unknown		False
+rs8018967	VSX2	14	74706175	X-13215/ X-13671	74729441	rs8018967	Unknown		False
+rs8018967	ACOT2	14	74034324	X-13215/ X-13671	74042357	rs8018967	Metabolism, Organismal Systems	Lipid metabolism	True
+rs8018967	RP3-414A15.11	14	73983937	X-13215/ X-13671	73987352	rs8018967	Unknown		False
+rs8018967	ACTN1	14	69340860	X-13215/ X-13671	69446157	rs8018967	Cellular Processes, Organismal Systems, Human Diseases		False
+rs8018967	VMP1	17	57784553	X-13215/ X-13671	57918453	rs8018967	Cellular Processes		False
+rs8051149	SLC7A5	16	87863629	kynurenine	87903094	rs8051149	Environmental Information Processing, Human Diseases		False
+rs8051149	RP4-536B24.2	16	87870254	kynurenine	87871269	rs8051149	Unknown		False
+rs8051149	ABCC1	16	16043434	kynurenine	16236931	rs8051149	Environmental Information Processing, Organismal Systems, Human Diseases		False
+rs8051149	STRADA	17	61780192	kynurenine	61819330	rs8051149	Environmental Information Processing		False
+rs8051149	CDH1	16	68771128	kynurenine	68869451	rs8051149	Environmental Information Processing, Cellular Processes, Human Diseases		False
+rs8051149	CLEC16A	16	11038345	kynurenine	11276046	rs8051149	Unknown		False
+rs8056893	PRMT7	16	68344877	lysine/ glutaroyl carnitine	68392230	rs8056893	Unknown		False
+rs8056893	NFATC3	16	68118654	lysine/ glutaroyl carnitine	68255187	rs8056893	Environmental Information Processing, Cellular Processes, Organismal Systems, Human Diseases		False
+rs8056893	PLA2G15	16	68279207	lysine/ glutaroyl carnitine	68294961	rs8056893	Metabolism, Cellular Processes	Lipid metabolism	True
+rs8056893	SMPD3	16	68392457	lysine/ glutaroyl carnitine	68482591	rs8056893	Metabolism	Lipid metabolism	True
+rs8056893	SLC7A6	16	68298433	lysine/ glutaroyl carnitine	68335722	rs8056893	Unknown		False
+rs8056893	NRN1L	16	67918708	lysine/ glutaroyl carnitine	67922758	rs8056893	Unknown		False
+rs8056893	ZFP90	16	68563993	lysine/ glutaroyl carnitine	68609975	rs8056893	Unknown		False
+rs8056893	CES4A	16	67022492	lysine/ glutaroyl carnitine	67043661	rs8056893	Unknown		False
+rs8056893	CMIP	16	81478775	lysine/ glutaroyl carnitine	81745367	rs8056893	Unknown		False
+rs8056893	ZNF317	19	9251056	lysine/ glutaroyl carnitine	9274100	rs8056893	Unknown		False
+rs8101881	CEP89	19	33369902	homocitrulline	33462897	rs8101881	Unknown		False
+rs8101881	SLC7A9	19	33321415	homocitrulline	33360672	rs8101881	Organismal Systems		False
+rs8101881	NUDT19	19	33182867	homocitrulline	33204702	rs8101881	Cellular Processes		False
+rs8101881	C19orf40	19	33463115	homocitrulline	33469128	rs8101881	Unknown		False
+rs8101881	PDCD5	19	33071974	homocitrulline	33078358	rs8101881	Unknown		False
+rs8101881	TDRD12	19	33210659	homocitrulline	33320483	rs8101881	Unknown		False
+rs835154	ANKH	5	14704910	citrate	14871887	rs835154	Unknown		False
+rs835154	CACNA1C	12	2079952	citrate	2802108	rs835154	Environmental Information Processing, Organismal Systems, Human Diseases		False
+rs887829	UGT1A6	2	234601512	biliverdin	234664997	rs887829	Metabolism, Human Diseases	Xenobiotics biodegradation and metabolism	True
+rs887829	UGT1A7	2	234591014	biliverdin	234600993	rs887829	Metabolism, Human Diseases	Xenobiotics biodegradation and metabolism	True
+rs887829	UGT1A1	2	234526291	biliverdin	234681956	rs887829	Metabolism, Human Diseases	Xenobiotics biodegradation and metabolism	True
+rs887829	UGT1A2P	2	234655860	biliverdin	234656725	rs887829	Unknown		False
+rs887829	RPL17P11	2	234630168	biliverdin	234630711	rs887829	Unknown		False
+rs887829	USP40	2	234384166	biliverdin	234475428	rs887829	Unknown		False
+rs887829	AGAP1	2	236402733	biliverdin	237040444	rs887829	Cellular Processes		False
+rs9302065	ABCC4	13	95672083	X-12244--N-acetylcarnosine	95953687	rs9302065	Environmental Information Processing, Organismal Systems, Human Diseases		False
+rs9302065	DNAJC3-AS1	13	96300987	X-12244--N-acetylcarnosine	96329179	rs9302065	Unknown		False
+rs938554	SLC2A9	4	9772777	urate	10056560	rs938554	Unknown		False
+rs938554	MSANTD1	4	3246096	urate	3273465	rs938554	Unknown		False
+rs9392556	ECI2	6	4115923	X-13435 (neutral acc mass: 313.225270 +/- 0.000910; similar to X-11421/4-decenoylcarnitine, but elutes later; prob a 10:1 carnitine)	4135831	rs9392556	Metabolism, Cellular Processes	Lipid metabolism	True
+rs9392556	C6orf201	6	4079456	X-13435 (neutral acc mass: 313.225270 +/- 0.000910; similar to X-11421/4-decenoylcarnitine, but elutes later; prob a 10:1 carnitine)	4131185	rs9392556	Unknown		False
+rs9392556	FAM217A	6	4049668	X-13435 (neutral acc mass: 313.225270 +/- 0.000910; similar to X-11421/4-decenoylcarnitine, but elutes later; prob a 10:1 carnitine)	4087578	rs9392556	Unknown		False
+rs9392556	RP3-400B16.4	6	4145771	X-13435 (neutral acc mass: 313.225270 +/- 0.000910; similar to X-11421/4-decenoylcarnitine, but elutes later; prob a 10:1 carnitine)	4146287	rs9392556	Unknown		False
+rs9392556	PNPT1	2	55861400	X-13435 (neutral acc mass: 313.225270 +/- 0.000910; similar to X-11421/4-decenoylcarnitine, but elutes later; prob a 10:1 carnitine)	55921045	rs9392556	Genetic Information Processing		False
+rs9392556	SUPT3H	6	44777054	X-13435 (neutral acc mass: 313.225270 +/- 0.000910; similar to X-11421/4-decenoylcarnitine, but elutes later; prob a 10:1 carnitine)	45345690	rs9392556	Human Diseases		False
+rs9393915	ELOVL2-AS1	6	11043757	docosapentaenoate (n3 DPA; 22:5n3)/ X-12627	11078459	rs9393915	Unknown		False
+rs9393915	SYCP2L	6	10887064	docosapentaenoate (n3 DPA; 22:5n3)/ X-12627	10979553	rs9393915	Unknown		False
+rs9393915	EEF1E1	6	8073593	docosapentaenoate (n3 DPA; 22:5n3)/ X-12627	8102811	rs9393915	Unknown		False
+rs9400467	REV3L	6	111620234	tyrosine	111804432	rs9400467	Genetic Information Processing, Human Diseases		False
+rs9400467	KIAA1919	6	111580551	tyrosine	111592370	rs9400467	Unknown		False
+rs9635324	DISP2	15	40650436	propionylcarnitine/ isovalerylcarnitine	40663257	rs9635324	Unknown		False
+rs9635324	IVD	15	40697686	propionylcarnitine/ isovalerylcarnitine	40728146	rs9635324	Metabolism	Amino acid metabolism	True
+rs9635324	KNSTRN	15	40674922	propionylcarnitine/ isovalerylcarnitine	40686447	rs9635324	Unknown		False
+rs9635324	BAHD1	15	40731920	propionylcarnitine/ isovalerylcarnitine	40760441	rs9635324	Unknown		False
+rs9635324	RP11-111A22.1	15	40780240	propionylcarnitine/ isovalerylcarnitine	40850183	rs9635324	Unknown		False
+rs9635324	MYO5A	15	52599480	propionylcarnitine/ isovalerylcarnitine	52821247	rs9635324	Unknown		False
+rs9635324	ADAM10	15	58887403	propionylcarnitine/ isovalerylcarnitine	59042177	rs9635324	Human Diseases		False
