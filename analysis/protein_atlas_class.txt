@@ -1,0 +1,20 @@
+Class	Freq
+Blood group antigen proteins	2
+CD markers	11
+Cancer-related genes	51
+Candidate cardiovascular disease genes	8
+Citric acid cycle related proteins	1
+Disease related genes	122
+Enzymes	161
+FDA approved drug targets	22
+G-protein coupled receptors	6
+Plasma proteins	137
+Potential drug targets	59
+Predicted intracellular proteins	385
+Predicted membrane proteins	148
+Predicted secreted proteins	73
+RAS pathway related proteins	4
+Ribosomal proteins	3
+Transcription factors	21
+Transporters	40
+Voltage-gated ion channels	3

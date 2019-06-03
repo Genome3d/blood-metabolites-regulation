@@ -1,0 +1,613 @@
+SNP	eGene	First_Level	PHENOTYPE	Predicted causal gene	Overlap	Protein.class	Subcellular.location
+rs2062541	ABCC1	Environmental Information Processing, Organismal Systems, Human Diseases		unknown	False	Cancer-related genes, FDA approved drug targets, Plasma proteins, Predicted membrane proteins, Transporters	Plasma membrane
+rs8051149	ABCC1	Environmental Information Processing, Organismal Systems, Human Diseases		SLC7A5	False	Cancer-related genes, FDA approved drug targets, Plasma proteins, Predicted membrane proteins, Transporters	Plasma membrane
+rs9302065	ABCC4	Environmental Information Processing, Organismal Systems, Human Diseases		unknown	False	Plasma proteins, Predicted membrane proteins, Transporters	
+rs8002180	ABCC4	Environmental Information Processing, Organismal Systems, Human Diseases		unknown	False	Plasma proteins, Predicted membrane proteins, Transporters	
+rs6968554	AC003075.4	Unknown		AHR	False	NA	NA
+rs11647589	AC004381.6	Unknown		unknown	False	Predicted intracellular proteins	Nuclear membrane, Nucleoli, Endoplasmic reticulum
+rs1394678	AC004381.6	Unknown		unknown	False	Predicted intracellular proteins	Nuclear membrane, Nucleoli, Endoplasmic reticulum
+rs4675874	AC005237.4	Unknown		unknown	False	NA	NA
+rs4787294	AC008731.1	Unknown		SLC5A11	False	NA	NA
+rs2576452	AC012314.8	Unknown		MBOAT7	False	NA	NA
+rs6430553	AC016725.4	Unknown		ACMSD	False	NA	NA
+rs2271316	AC027763.2	Unknown		ALOX12	False	NA	NA
+rs272889	AC034220.3	Unknown		SLC22A5	False	NA	NA
+rs2405522	AC034220.3	Unknown		SLC22A5	False	NA	NA
+rs272889	AC063976.7	Unknown		SLC22A5	False	NA	NA
+rs1395	AC074117.10	Unknown		SLC5A6	False	NA	NA
+rs1260326	AC074117.10	Unknown		GCKR	False	NA	NA
+rs7570971	AC093391.2	Unknown		unknown	False	NA	NA
+rs13538	AC104135.3	Unknown		NAT8	False	NA	NA
+rs4675874	AC104809.3	Unknown		unknown	False	NA	NA
+rs4675874	AC104809.4	Unknown		unknown	False	NA	NA
+rs4625783	AC132872.2	Unknown		unknown	False	NA	NA
+rs4949874	ACADM	Metabolism, Organismal Systems	Amino acid metabolism	ACADM	True	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Mitochondria
+rs2066938	ACADS	Metabolism	Amino acid metabolism	ACADS	True	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Mitochondria
+rs4343	ACE	Organismal Systems, Human Diseases		ACE	True	Candidate cardiovascular disease genes, CD markers, Disease related genes, Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins	Vesicles
+rs8018967	ACOT1	Metabolism	Lipid metabolism	unknown	False	Enzymes, Predicted intracellular proteins	Mitochondria
+rs8018967	ACOT2	Metabolism, Organismal Systems	Lipid metabolism	unknown	False	Enzymes, Plasma proteins, Predicted intracellular proteins	Mitochondria
+rs272889	ACSL6	Metabolism, Cellular Processes, Organismal Systems	Lipid metabolism	SLC22A5	False	Cancer-related genes, Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins, Predicted membrane proteins	
+rs11647589	ACSM1	Metabolism	Carbohydrate metabolism	unknown	False	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	
+rs1394678	ACSM1	Metabolism	Carbohydrate metabolism	unknown	False	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	
+rs1394678	ACSM3	Metabolism	Carbohydrate metabolism	unknown	False	Enzymes, Predicted intracellular proteins	
+rs11647589	ACSM3	Metabolism	Carbohydrate metabolism	unknown	False	Enzymes, Predicted intracellular proteins	
+rs11647589	ACSM5	Metabolism	Carbohydrate metabolism	unknown	False	Enzymes, Predicted intracellular proteins	
+rs6497490	ACSM5	Metabolism	Carbohydrate metabolism	unknown	False	Enzymes, Predicted intracellular proteins	
+rs1394678	ACSM5	Metabolism	Carbohydrate metabolism	unknown	False	Enzymes, Predicted intracellular proteins	
+rs8018967	ACTN1	Cellular Processes, Organismal Systems, Human Diseases		unknown	False	Disease related genes, Plasma proteins, Predicted intracellular proteins	Plasma membrane, Focal adhesion sites
+rs8012	AD000092.3	Unknown		GCDH	False	NA	NA
+rs9635324	ADAM10	Human Diseases		IVD	False	Cancer-related genes, CD markers, Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted membrane proteins, Predicted secreted proteins, Transporters	Vesicles, Plasma membrane
+rs10112574	ADHFE1	Unknown		ADHFE1	True	Enzymes, Predicted intracellular proteins	Vesicles
+rs13278849	ADRA1A	Environmental Information Processing, Organismal Systems		unknown	False	FDA approved drug targets, G-protein coupled receptors, Predicted membrane proteins	
+rs2405522	AFF4	Unknown		SLC22A5	False	Cancer-related genes, Disease related genes, Predicted intracellular proteins	Nucleus, Nucleoli fibrillar center
+rs887829	AGAP1	Cellular Processes		UGT1A1	False	Plasma proteins, Predicted intracellular proteins	
+rs4675874	AGXT	Metabolism, Cellular Processes	Amino acid metabolism	unknown	False	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Vesicles
+rs17134585	AKR1C3	Metabolism, Organismal Systems	Metabolism of cofactors and vitamins	AKR1C4	False	Enzymes, Plasma proteins, Predicted intracellular proteins	Nucleus, Nucleoli fibrillar center, Endoplasmic reticulum, Cytosol
+rs56322409	ALDH18A1	Metabolism	Amino acid metabolism	ALDH18A1	True	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Mitochondria
+rs10468017	ALDH1A2	Metabolism	Metabolism of cofactors and vitamins	LIPC	False	Enzymes, Predicted intracellular proteins	
+rs3184504	ALDH2	Metabolism	Amino acid metabolism	unknown	False	Cancer-related genes, Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins	
+rs13538	ALMS1	Unknown		NAT8	False	Predicted intracellular proteins	Cytosol
+rs13538	ALMS1P	Unknown		NAT8	False	NA	NA
+rs2271316	ALOX12	Metabolism, Organismal Systems, Human Diseases	Lipid metabolism	ALOX12	True	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Nuclear speckles, Cytosol
+rs1697421	ALPL	Metabolism	Metabolism of cofactors and vitamins	ALPL	True	Cancer-related genes, Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins	Cytosol
+rs15676	AMPD3	Metabolism	Nucleotide metabolism	CCBL1	False	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Nuclear membrane
+rs6679002	ANGPTL3	Organismal Systems		ANGPTL3	True	Disease related genes, Plasma proteins, Predicted secreted proteins	
+rs2576452	ANKFY1	Unknown		MBOAT7	False	Plasma proteins, Predicted intracellular proteins	Endosomes
+rs835154	ANKH	Unknown		unknown	False	Disease related genes, Potential drug targets, Predicted membrane proteins, Transporters	Cytosol
+rs13222543	ANKIB1	Unknown		unknown	False	Predicted intracellular proteins	Plasma membrane, Cytosol
+rs2007084	ANPEP	Metabolism, Organismal Systems	Amino acid metabolism	ANPEP	True	CD markers, Enzymes, Plasma proteins, Predicted membrane proteins	Plasma membrane
+rs1395	ANXA4	Unknown		SLC5A6	False	Cancer-related genes, Predicted intracellular proteins	Cytosol
+rs1005390	AOC1	Metabolism	Amino acid metabolism	ABP1 (AOC1)	True	Enzymes, Predicted secreted proteins	
+rs1472631	APH1B	Environmental Information Processing		unknown	False	Predicted membrane proteins	
+rs445925	APOE	Organismal Systems		APOE|APOC1|APOC2	True	Cancer-related genes, Candidate cardiovascular disease genes, Disease related genes, Plasma proteins, Predicted secreted proteins	Vesicles
+rs4144027	APOPT1	Unknown		ASPG	False	Predicted intracellular proteins	
+rs7809615	ARPC1A	Cellular Processes, Organismal Systems, Human Diseases		CYP3A5	False	Plasma proteins, Predicted intracellular proteins	Cell Junctions, Cytosol
+rs7809615	ARPC1B	Cellular Processes, Organismal Systems, Human Diseases		CYP3A5	False	Plasma proteins, Predicted intracellular proteins	Vesicles, Cytosol
+rs10242455	ARPC1B	Cellular Processes, Organismal Systems, Human Diseases		CYP3A5	False	Plasma proteins, Predicted intracellular proteins	Vesicles, Cytosol
+rs6151429	ARSA	Metabolism, Cellular Processes	Lipid metabolism	ARSA	True	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins, Predicted secreted proteins	Golgi apparatus, Cytosol
+rs4680	ARVCF	Unknown		COMT	False	Predicted intracellular proteins	Plasma membrane, Cell Junctions
+rs8012	ASF1B	Unknown		GCDH	False	Predicted intracellular proteins	Nucleoplasm
+rs4625783	ASPSCR1	Human Diseases		unknown	False	Cancer-related genes, Disease related genes, Predicted intracellular proteins	Nucleoplasm, Vesicles, Plasma membrane
+rs7061710	ASTN1	Unknown		FMO3	False	Plasma proteins, Predicted membrane proteins, Transporters	Golgi apparatus, Vesicles
+rs2734331	ATF6B	Genetic Information Processing, Environmental Information Processing, Organismal Systems, Human Diseases		unknown	False	Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins, Transcription factors	Nucleus, Nucleoli
+rs1046080	ATF6B	Genetic Information Processing, Environmental Information Processing, Organismal Systems, Human Diseases		unknown	False	Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins, Transcription factors	Nucleus, Nucleoli
+rs6679002	ATG4C	Cellular Processes		ANGPTL3	False	Enzymes, Predicted intracellular proteins	Nucleoplasm, Cytosol
+rs1005390	ATG9B	Cellular Processes		ABP1 (AOC1)	False	Predicted membrane proteins	
+rs2270968	ATP11B	Unknown		MCCC1	False	Enzymes, Predicted membrane proteins, Transporters	Microtubule organizing center, Cytosol
+rs10242455	ATP5J2	Unknown		CYP3A5	False	Predicted intracellular proteins, Predicted membrane proteins	Mitochondria
+rs1365505	ATP8B4	Unknown		SLC27A2	False	Enzymes, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins	Nucleoplasm, Vesicles
+rs1260326	ATRAID	Unknown		GCKR	False	Predicted intracellular proteins, Predicted membrane proteins	
+rs1395	ATRAID	Unknown		SLC5A6	False	Predicted intracellular proteins, Predicted membrane proteins	
+rs7809615	AVL9	Unknown		CYP3A5	False	Predicted intracellular proteins, Predicted membrane proteins	Endoplasmic reticulum
+rs1046080	BAG6	Unknown		unknown	False	Predicted intracellular proteins	Nucleoplasm, Cytosol
+rs9635324	BAHD1	Unknown		IVD	False	Predicted intracellular proteins	Nucleoplasm
+rs2270968	BASP1	Unknown		MCCC1	False	Plasma proteins, Predicted intracellular proteins, Transporters	Plasma membrane
+rs445925	BCAM	Unknown		APOE|APOC1|APOC2	False	Blood group antigen proteins, CD markers, Plasma proteins, Predicted membrane proteins, Predicted secreted proteins	Nucleoli fibrillar center
+rs6678639	BCL2	Genetic Information Processing, Environmental Information Processing, Cellular Processes, Organismal Systems, Human Diseases		CYP4A11	False	Cancer-related genes, Disease related genes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins	Nucleoplasm, Nuclear membrane
+rs16876394	BHMT	Metabolism	Amino acid metabolism	BHMT	True	Enzymes, Plasma proteins, Predicted intracellular proteins	Cytosol
+rs16876394	BHMT2	Metabolism	Amino acid metabolism	BHMT	True	Cancer-related genes, Enzymes, Predicted intracellular proteins	
+rs603424	BLOC1S2	Unknown		SCD	False	Predicted intracellular proteins	
+rs1853207	C10orf129	Unknown		unknown	False	NA	NA
+rs1934955	C10orf129	Unknown		unknown	False	NA	NA
+rs1934963	C10orf129	Unknown		unknown	False	NA	NA
+rs2066938	C12orf43	Unknown		ACADS	False	Predicted intracellular proteins	Nucleoli, Golgi apparatus
+rs4787294	C16orf52	Unknown		SLC5A11	False	Predicted membrane proteins	
+rs12602901	C17orf107	Unknown		unknown	False	Predicted intracellular proteins	Nucleus
+rs8101881	C19orf40	Unknown		SLC7A9	False	NA	NA
+rs13375749	C1orf123	Unknown		CPT2	False	Predicted intracellular proteins	Cytosol
+rs12602901	C1QBP	Unknown		unknown	False	Cancer-related genes, Plasma proteins, Predicted intracellular proteins, Transporters	Plasma membrane, Mitochondria
+rs4675874	C2orf54	Unknown		unknown	False	Predicted intracellular proteins	Nucleoplasm, Golgi apparatus
+rs9392556	C6orf201	Unknown		ECI2	False	Predicted intracellular proteins	
+rs10504073	C8orf22	Unknown		unknown	False	Predicted intracellular proteins	
+rs10112574	C8orf46	Unknown		ADHFE1	False	Predicted intracellular proteins	Nuclear speckles
+rs15676	C9orf114	Unknown		CCBL1	False	NA	NA
+rs6151429	CABIN1	Unknown		ARSA	False	Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Aggresome, Cytosol
+rs835154	CACNA1C	Environmental Information Processing, Organismal Systems, Human Diseases		unknown	False	Disease related genes, FDA approved drug targets, Predicted intracellular proteins, Predicted membrane proteins, Transporters, Voltage-gated ion channels	
+rs603424	CACUL1	Unknown		SCD	False	Predicted intracellular proteins	Nucleoplasm
+rs1395	CAD	Metabolism	Amino acid metabolism	SLC5A6	False	Cancer-related genes, Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Nucleoplasm
+rs8012	CALR	Genetic Information Processing, Cellular Processes, Organismal Systems, Human Diseases		GCDH	False	Cancer-related genes, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	
+rs12602901	CAMTA2	Unknown		unknown	False	Predicted intracellular proteins	Nucleus, Actin filaments, Mitochondria
+rs174548	CAPN5	Unknown		FADS1	False	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	
+rs2851391	CBS	Metabolism	Amino acid metabolism	CBS	True	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Nucleoli, Vesicles
+rs15676	CCBL1	Unknown		CCBL1	True	NA	NA
+rs1466788	CCBL2	Unknown		unknown	False	NA	NA
+rs1053941	CCDC163P	Unknown		unknown	False	NA	NA
+rs4625783	CCDC57	Unknown		unknown	False	Predicted intracellular proteins	Microtubules, Microtubule organizing center, Cytosol
+rs1171615	CCDC6	Human Diseases		SLC16A9	False	Cancer-related genes, Disease related genes, Predicted intracellular proteins	Cytosol
+rs7969761	CCDC77	Unknown		SLC6A13	False	Predicted intracellular proteins	Nuclear membrane
+rs7570971	CCNT2	Human Diseases		unknown	False	Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Plasma membrane, Cytosol
+rs6430553	CCNT2	Human Diseases		ACMSD	False	Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Plasma membrane, Cytosol
+rs4947534	CCT6A	Unknown		PSPH	False	Plasma proteins, Predicted intracellular proteins	Cytosol
+rs12141041	CD2	Environmental Information Processing, Organismal Systems		HAO2	False	CD markers, FDA approved drug targets, Predicted membrane proteins, Predicted secreted proteins	
+rs6679002	CD8A	Environmental Information Processing, Organismal Systems, Human Diseases		ANGPTL3	False	CD markers, Disease related genes, Predicted membrane proteins, Predicted secreted proteins	
+rs6679002	CDC14A	Cellular Processes		ANGPTL3	False	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Nucleoplasm, Nuclear bodies, Cytosol
+rs8051149	CDH1	Environmental Information Processing, Cellular Processes, Human Diseases		SLC7A5	False	Cancer-related genes, CD markers, Disease related genes, Plasma proteins, Predicted membrane proteins, Predicted secreted proteins	Golgi apparatus, Plasma membrane, Cell Junctions
+rs1800775	CDH3	Environmental Information Processing		CETP	False	Disease related genes, Predicted intracellular proteins, Predicted membrane proteins	Cell Junctions, Cytosol
+rs1472631	CEP152	Unknown		unknown	False	Disease related genes, Plasma proteins, Predicted intracellular proteins	Centrosome
+rs8101881	CEP89	Unknown		SLC7A9	False	Cancer-related genes, Disease related genes, Predicted intracellular proteins, Predicted secreted proteins	Plasma membrane, Cytosol
+rs3738934	CERS6	Metabolism, Environmental Information Processing	Lipid metabolism	ACADL	False	Predicted membrane proteins	Nucleus
+rs8056893	CES4A	Unknown		SLC7A6	False	Predicted intracellular proteins, Predicted secreted proteins	Cytosol
+rs1800775	CETP	Organismal Systems		CETP	True	Candidate cardiovascular disease genes, Disease related genes, Plasma proteins, Potential drug targets, Predicted intracellular proteins, Predicted secreted proteins, Transporters	
+rs131794	CHKB	Metabolism, Human Diseases	Lipid metabolism	TYMP	False	Enzymes, Plasma proteins, Predicted intracellular proteins	Cytosol
+rs2235649	CHTF18	Unknown		unknown	False	Predicted intracellular proteins	Nucleoplasm, Cytosol
+rs8051149	CLEC16A	Unknown		SLC7A5	False	Disease related genes, Predicted intracellular proteins, Predicted secreted proteins	Nucleus, Vesicles
+rs8056893	CMIP	Unknown		SLC7A6	False	Predicted intracellular proteins	Nucleoplasm, Cytosol
+rs2694917	CNPY2	Unknown		GLS2	False	Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	Cytosol
+rs7809615	CNPY4	Unknown		CYP3A5	False	Predicted intracellular proteins, Predicted secreted proteins	Vesicles
+rs4680	COMT	Metabolism, Organismal Systems	Amino acid metabolism	COMT	True	Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins	Endoplasmic reticulum, Vesicles
+rs4150581	COPB1	Unknown		unknown	False	Plasma proteins, Predicted intracellular proteins	Golgi apparatus, Vesicles, Cytosol
+rs13278849	COX6B1P4	Unknown		unknown	False	NA	NA
+rs2070895	CPQ	Unknown		LIPC	False	Enzymes, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	Golgi apparatus, Vesicles
+rs7809615	CPSF4	Genetic Information Processing, Human Diseases		CYP3A5	False	Plasma proteins, Predicted intracellular proteins	Nucleoplasm
+rs131794	CPT1B	Metabolism, Environmental Information Processing, Organismal Systems, Human Diseases	Lipid metabolism	TYMP	False	Enzymes, Predicted membrane proteins	
+rs13375749	CPT2	Metabolism, Organismal Systems	Lipid metabolism	CPT2	True	Disease related genes, Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Nucleoli, Mitochondria
+rs7849270	CRAT	Cellular Processes		CRAT	True	Enzymes, Predicted intracellular proteins, Transporters	Nucleoplasm, Nuclear membrane
+rs4808136	CRLF1	Unknown		ISYNA1	False	Disease related genes, Predicted intracellular proteins, Predicted secreted proteins	
+rs131794	CTA-384D8.36	Unknown		TYMP	False	NA	NA
+rs4144027	CTD-2134A5.4	Unknown		ASPG	False	NA	NA
+rs8012	CTD-2192J16.21	Unknown		GCDH	False	NA	NA
+rs8012	CTD-2265O21.3	Unknown		GCDH	False	NA	NA
+rs12550729	CTD-3065J16.9	Unknown		OPLAH	False	NA	NA
+rs2547231	CTD-3098H1.2	Unknown		SULT2A1	False	NA	NA
+rs1853207	CYP2C18	Metabolism, Organismal Systems, Human Diseases	Metabolism of cofactors and vitamins	unknown	False	Enzymes, Plasma proteins, Predicted secreted proteins	
+rs4986894	CYP2C19	Metabolism, Organismal Systems, Human Diseases	Xenobiotics biodegradation and metabolism	CYP2C9	False	Cancer-related genes, Enzymes, Plasma proteins, Predicted secreted proteins	
+rs1934963	CYP2C8	Metabolism, Organismal Systems, Human Diseases	Xenobiotics biodegradation and metabolism	unknown	False	Enzymes, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	
+rs1853207	CYP2C9	Metabolism, Organismal Systems, Human Diseases	Xenobiotics biodegradation and metabolism	unknown	False	Enzymes, Predicted secreted proteins	
+rs10242455	CYP3A43	Human Diseases		CYP3A5	False	Enzymes, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins	Cytosol
+rs7809615	CYP3A5	Metabolism, Human Diseases	Xenobiotics biodegradation and metabolism	CYP3A5	True	Cancer-related genes, Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Cytosol
+rs10242455	CYP3A5	Metabolism, Human Diseases	Xenobiotics biodegradation and metabolism	CYP3A5	True	Cancer-related genes, Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Cytosol
+rs7809615	CYP3A7	Metabolism, Human Diseases	Metabolism of cofactors and vitamins	CYP3A5	False	Enzymes, Predicted membrane proteins	Cytosol
+rs6678639	CYP4A11	Metabolism, Organismal Systems	Metabolism of cofactors and vitamins	CYP4A11	True	Enzymes, Predicted membrane proteins	
+rs6678639	CYP4B1	Unknown		CYP4A11	False	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Vesicles
+rs4253311	CYP4V2	Unknown		KLKB1	False	Disease related genes, Enzymes, Potential drug targets, Predicted membrane proteins	Nuclear speckles
+rs10491431	DAB2	Cellular Processes		UGT3A1	False	Plasma proteins, Predicted intracellular proteins	Nucleoli fibrillar center, Vesicles, Plasma membrane
+rs7570971	DARS	Genetic Information Processing		unknown	False	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Cytosol
+rs4343	DCAF7	Unknown		ACE	False	Predicted intracellular proteins	Nucleoplasm, Cytosol
+rs2270968	DCUN1D1	Unknown		MCCC1	False	Predicted intracellular proteins	Nucleus, Cytosol
+rs4625783	DCXR	Metabolism	Carbohydrate metabolism	unknown	False	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Nucleoli, Microtubules
+rs1046080	DDAH2	Unknown		unknown	False	Enzymes, Plasma proteins, Predicted intracellular proteins	Microtubule organizing center, Cytosol
+rs174548	DDB1	Genetic Information Processing, Human Diseases		FADS1	False	Plasma proteins, Predicted intracellular proteins	Nucleoplasm
+rs2540647	DGCR9	Unknown		PRODH	False	NA	NA
+rs13222543	DIP2B	Unknown		unknown	False	Predicted intracellular proteins	Endoplasmic reticulum
+rs9635324	DISP2	Unknown		IVD	False	Predicted membrane proteins	Nucleoplasm, Vesicles
+rs2740	DLGAP4	Unknown		unknown	False	Predicted intracellular proteins	Nucleoplasm, Focal adhesion sites, Cytosol
+rs7061710	DNAH14	Unknown		FMO3	False	Predicted intracellular proteins, Predicted secreted proteins	Centrosome
+rs5030062	DNAJC13	Unknown		KNG1	False	Predicted membrane proteins	Vesicles, Cytosol
+rs9302065	DNAJC3-AS1	Unknown		unknown	False	NA	NA
+rs8012	DNASE2	Cellular Processes		GCDH	False	Enzymes, Predicted secreted proteins	
+rs4150581	DOCK10	Unknown		unknown	False	Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Cytosol
+rs12141041	DOCK3	Unknown		HAO2	False	Disease related genes, Predicted intracellular proteins	Cytosol
+rs6679002	DOCK7	Unknown		ANGPTL3	False	Disease related genes, Predicted intracellular proteins	
+rs7849270	DOLPP1	Metabolism	Carbohydrate metabolism	CRAT	False	Enzymes, Predicted membrane proteins	Vesicles, Intermediate filaments
+rs7775554	DOPEY1	Unknown		unknown	False	Predicted intracellular proteins, Predicted membrane proteins	Nucleus, Vesicles
+rs4625783	DUS1L	Unknown		unknown	False	Predicted intracellular proteins	Plasma membrane
+rs1046080	DXO	Unknown		unknown	False	Predicted intracellular proteins	Nucleoplasm, Plasma membrane, Cytosol
+rs11101730	ECHS1	Metabolism	Amino acid metabolism	unknown	False	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Mitochondria
+rs9392556	ECI2	Metabolism, Cellular Processes	Lipid metabolism	ECI2	True	Enzymes, Predicted intracellular proteins	Peroxisomes
+rs9393915	EEF1E1	Unknown		ELOVL2	False	Predicted intracellular proteins, Predicted membrane proteins	Nucleus, Cytosol
+rs11647589	EEF2K	Environmental Information Processing, Organismal Systems		unknown	False	Enzymes, Predicted intracellular proteins	Nucleoplasm
+rs1394678	EEF2K	Environmental Information Processing, Organismal Systems		unknown	False	Enzymes, Predicted intracellular proteins	Nucleoplasm
+rs10504073	EFCAB1	Unknown		unknown	False	Predicted intracellular proteins	Nucleoplasm, Plasma membrane
+rs7542172	EFCAB14	Unknown		unknown	False	Predicted membrane proteins	Nucleoli, Golgi apparatus, Cytosol
+rs4808136	ELL	Unknown		ISYNA1	False	Cancer-related genes, Disease related genes, Predicted intracellular proteins	
+rs9393915	ELOVL2-AS1	Unknown		ELOVL2	True	NA	NA
+rs2235649	EME2	Genetic Information Processing		unknown	False	Predicted intracellular proteins	
+rs15676	ENDOG	Cellular Processes		CCBL1	False	Plasma proteins, Predicted secreted proteins	
+rs12602901	ENO3	Metabolism, Genetic Information Processing, Environmental Information Processing	Carbohydrate metabolism	unknown	False	Candidate cardiovascular disease genes, Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Plasma membrane, Cytosol
+rs56322409	ENTPD1	Metabolism, Human Diseases	Nucleotide metabolism	ALDH18A1	False	CD markers, Disease related genes, Enzymes, Potential drug targets, Predicted membrane proteins	Microtubules
+rs12550729	EPPK1	Unknown		OPLAH	False	Predicted intracellular proteins	Intermediate filaments
+rs1053941	ERI3	Unknown		unknown	False	Predicted intracellular proteins	Nucleoplasm, Cytosol
+rs4690909	ETFDH	Unknown		ETFDH	True	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins, Predicted membrane proteins	
+rs12550729	EXOSC4	Genetic Information Processing		OPLAH	False	Plasma proteins, Predicted intracellular proteins	Intermediate filaments, Cytosol
+rs17279437	EXOSC7	Genetic Information Processing		SLC6A20	False	Predicted intracellular proteins	Nuclear speckles
+rs4253311	F11	Organismal Systems		KLKB1	False	Candidate cardiovascular disease genes, Disease related genes, Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	Vesicles
+rs2731672	F12	Organismal Systems		F12	True	Candidate cardiovascular disease genes, Disease related genes, Enzymes, FDA approved drug targets, Plasma proteins, Predicted secreted proteins	
+rs2727271	FADS1	Metabolism	Lipid metabolism	FADS1	True	FDA approved drug targets, Predicted intracellular proteins, Predicted membrane proteins	
+rs174548	FADS1	Metabolism	Lipid metabolism	FADS1	True	FDA approved drug targets, Predicted intracellular proteins, Predicted membrane proteins	
+rs174548	FADS2	Metabolism, Organismal Systems	Lipid metabolism	FADS1	False	Enzymes, FDA approved drug targets, Predicted intracellular proteins, Predicted membrane proteins	
+rs2727271	FADS3	Unknown		FADS1	False	Predicted intracellular proteins, Predicted membrane proteins	Nucleoli fibrillar center
+rs174548	FADS3	Unknown		FADS1	False	Predicted intracellular proteins, Predicted membrane proteins	Nucleoli fibrillar center
+rs2235649	FAHD1	Metabolism	Amino acid metabolism	unknown	False	Enzymes, Predicted intracellular proteins	Nucleus, Mitochondria
+rs4253311	FAM149A	Unknown		KLKB1	False	Predicted intracellular proteins	Golgi apparatus
+rs3184504	FAM216A	Unknown		unknown	False	Predicted intracellular proteins	Actin filaments
+rs9392556	FAM217A	Unknown		ECI2	False	Predicted intracellular proteins	
+rs4488133	FAM53B	Unknown		PYROXD2	False	Predicted intracellular proteins	Cytosol
+rs4949874	FAM69A	Unknown		ACADM	False	Predicted intracellular proteins, Predicted membrane proteins	Nucleus, Cytosol
+rs601338	FAM83E	Unknown		FUT2	False	Predicted intracellular proteins	
+rs8012	FARSA	Genetic Information Processing		GCDH	False	Enzymes, Predicted intracellular proteins	Cytosol
+rs4625783	FASN	Metabolism, Environmental Information Processing, Organismal Systems	Lipid metabolism	unknown	False	Cancer-related genes, Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins	Plasma membrane, Cytosol
+rs2066938	FBXO21	Unknown		ACADS	False	Predicted intracellular proteins	Mitochondria
+rs1509123	FBXO39	Unknown		SLC13A5	False	Predicted intracellular proteins	
+rs6679002	FGD4	Unknown		ANGPTL3	False	Disease related genes, Predicted intracellular proteins	Actin filaments
+rs8002180	FGF14	Unknown		unknown	False	Disease related genes, Predicted intracellular proteins, RAS pathway related proteins	Nucleoli fibrillar center
+rs7542172	FGR	Organismal Systems		unknown	False	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Plasma membrane, Aggresome
+rs7061710	FMO2	Metabolism	Xenobiotics biodegradation and metabolism	FMO3	False	Enzymes, Predicted membrane proteins, Predicted secreted proteins	
+rs7061710	FMO3	Metabolism	Xenobiotics biodegradation and metabolism	FMO3	True	Disease related genes, Enzymes, Potential drug targets, Predicted membrane proteins, Predicted secreted proteins	
+rs7061710	FMO6P	Unknown		FMO3	False	NA	NA
+rs1260326	FNDC4	Unknown		GCKR	False	Predicted membrane proteins	Nucleoplasm, Aggresome, Cytosol
+rs10112574	FOXN3	Unknown		ADHFE1	False	Predicted intracellular proteins, Transcription factors	Nucleus, Plasma membrane
+rs7849270	FPGS	Metabolism, Human Diseases	Metabolism of cofactors and vitamins	CRAT	False	Enzymes, Predicted intracellular proteins, Predicted secreted proteins	
+rs4343	FTSJ3	Unknown		ACE	False	Predicted intracellular proteins	Nucleoli
+rs11101730	FUOM	Unknown		unknown	False	Enzymes, Predicted intracellular proteins	
+rs601338	FUT2	Metabolism	Carbohydrate metabolism	FUT2	True	Blood group antigen proteins, Enzymes, Predicted membrane proteins	Plasma membrane, Cytosol
+rs1365505	GABPB1-AS1	Unknown		SLC27A2	False	NA	NA
+rs6804368	GADL1	Metabolism	Metabolism of cofactors and vitamins	unknown	False	Enzymes, Predicted intracellular proteins	Plasma membrane, Cytosol
+rs174548	GANAB	Metabolism, Genetic Information Processing	Carbohydrate metabolism	FADS1	False	Disease related genes, Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	Nuclear membrane, Endoplasmic reticulum, Cytosol
+rs4947534	GBAS	Unknown		PSPH	False	Predicted intracellular proteins	Mitochondria
+rs8012	GCDH	Metabolism	Amino acid metabolism	GCDH	True	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Mitochondria
+rs4625783	GCGR	Environmental Information Processing, Organismal Systems		unknown	False	FDA approved drug targets, G-protein coupled receptors, Plasma proteins, Predicted membrane proteins, Predicted secreted proteins	Golgi apparatus
+rs1260326	GCKR	Unknown		GCKR	True	Predicted intracellular proteins	Intermediate filaments
+rs12709013	GEMIN8P2	Unknown		GOT2	False	NA	NA
+rs6459467	GMPR	Metabolism	Nucleotide metabolism	GMPR	True	Enzymes, Plasma proteins, Predicted intracellular proteins	
+rs12709013	GOT2	Metabolism, Organismal Systems	Amino acid metabolism	GOT2	True	Cancer-related genes, Candidate cardiovascular disease genes, Enzymes, Plasma proteins, Predicted secreted proteins, Transporters	
+rs4784054	GOT2	Metabolism, Organismal Systems	Amino acid metabolism	GOT2	True	Cancer-related genes, Candidate cardiovascular disease genes, Enzymes, Plasma proteins, Predicted secreted proteins, Transporters	
+rs12602901	GP1BA	Environmental Information Processing, Organismal Systems		unknown	False	CD markers, Disease related genes, Plasma proteins, Predicted membrane proteins	
+rs12550729	GPAA1	Metabolism	Carbohydrate metabolism	OPLAH	False	Predicted intracellular proteins, Predicted membrane proteins	
+rs1934955	GPR158	Unknown		unknown	False	G-protein coupled receptors, Predicted membrane proteins	Cytosol
+rs2731672	GPRIN1	Unknown		F12	False	Predicted intracellular proteins	Vesicles, Plasma membrane
+rs4625783	GPS1	Unknown		unknown	False	Plasma proteins, Predicted intracellular proteins	
+rs6968554	GRID2IP	Unknown		AHR	False	Predicted intracellular proteins	
+rs316020	GRM1	Environmental Information Processing, Cellular Processes, Organismal Systems		SLC22A1	False	Disease related genes, G-protein coupled receptors, Plasma proteins, Potential drug targets, Predicted membrane proteins, Transporters	Vesicles
+rs7809615	GS1-259H13.2	Unknown		CYP3A5	False	Predicted membrane proteins	
+rs4150581	GTF2H1	Genetic Information Processing, Human Diseases		unknown	False	Cancer-related genes, Predicted intracellular proteins	Nucleoplasm
+rs2235649	HAGH	Metabolism	Carbohydrate metabolism	unknown	False	Enzymes, Plasma proteins, Predicted intracellular proteins	
+rs1046080	HCG20	Unknown		unknown	False	NA	NA
+rs1046080	HCG27	Unknown		unknown	False	NA	NA
+rs2734331	HCG27	Unknown		unknown	False	NA	NA
+rs8018967	HEATR4	Unknown		unknown	False	Predicted intracellular proteins	
+rs4986894	HELLS	Unknown		CYP2C9	False	Disease related genes, Predicted intracellular proteins	Nucleus, Golgi apparatus, Vesicles
+rs1853207	HELLS	Unknown		unknown	False	Disease related genes, Predicted intracellular proteins	Nucleus, Golgi apparatus, Vesicles
+rs10022462	HERC6	Unknown		PPM1K	False	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Nucleus, Cytosol
+rs603424	HK1	Metabolism, Environmental Information Processing, Organismal Systems, Human Diseases	Biosynthesis of other secondary metabolites	SCD	False	Cancer-related genes, Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Mitochondria
+rs1046080	HLA-DQB1	Environmental Information Processing, Cellular Processes, Organismal Systems, Human Diseases		unknown	False	Predicted membrane proteins, Predicted secreted proteins	Golgi apparatus, Rods & Rings
+rs2734331	HLA-DQB1	Environmental Information Processing, Cellular Processes, Organismal Systems, Human Diseases		unknown	False	Predicted membrane proteins, Predicted secreted proteins	Golgi apparatus, Rods & Rings
+rs2734331	HLA-DQB2	Unknown		unknown	False	Predicted membrane proteins, Predicted secreted proteins	
+rs1046080	HLA-DRB6	Unknown		unknown	False	NA	NA
+rs8012	HOOK2	Unknown		GCDH	False	Predicted intracellular proteins	Vesicles, Cytosol
+rs4488133	HPS1	Unknown		PYROXD2	False	Disease related genes, Predicted intracellular proteins	
+rs4150581	HPS5	Unknown		unknown	False	Disease related genes, Plasma proteins, Predicted intracellular proteins	
+rs4144027	HSP90AA1	Genetic Information Processing, Environmental Information Processing, Cellular Processes, Organismal Systems, Human Diseases		ASPG	False	Cancer-related genes, Plasma proteins, Predicted intracellular proteins	Cytosol
+rs1934963	IDE	Unknown		unknown	False	Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	
+rs2160860	IDO1	Metabolism, Human Diseases	Amino acid metabolism	IDO1	True	Cancer-related genes, Enzymes, Predicted intracellular proteins	
+rs2160860	IDO2	Metabolism, Human Diseases	Amino acid metabolism	IDO1	False	Predicted intracellular proteins	
+rs2235649	IGFALS	Unknown		unknown	False	Disease related genes, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins	Nucleoplasm
+rs6980334	IMMP2L	Genetic Information Processing		AKR1D1	False	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins, Predicted membrane proteins	Mitochondria
+rs12602901	INCA1	Unknown		unknown	False	Predicted intracellular proteins	Nucleoplasm, Nuclear bodies
+rs2727271	INCENP	Unknown		FADS1	False	Predicted intracellular proteins	Nucleus, Nuclear bodies, Midbody
+rs272889	IRF1	Environmental Information Processing, Organismal Systems, Human Diseases		SLC22A5	False	Cancer-related genes, Disease related genes, Predicted intracellular proteins, Transcription factors	Nucleoplasm, Cytosol
+rs4808136	ISYNA1	Metabolism	Carbohydrate metabolism	ISYNA1	True	Enzymes, Predicted intracellular proteins	Nucleus, Cytosol
+rs4687717	ITIH4	Unknown		TKT	False	Cancer-related genes, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	Vesicles
+rs9635324	IVD	Metabolism	Amino acid metabolism	IVD	True	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Nucleoplasm, Mitochondria
+rs3738934	KANSL1L	Unknown		ACADL	False	Predicted intracellular proteins, Predicted membrane proteins	Cytosol
+rs4343	KCNH6	Unknown		ACE	False	Predicted membrane proteins, Voltage-gated ion channels	
+rs494562	KCNQ5	Organismal Systems		NT5E	False	Predicted intracellular proteins, Predicted membrane proteins, Voltage-gated ion channels	Vesicles
+rs7969761	KDM5A	Unknown		SLC6A13	False	Cancer-related genes, Predicted intracellular proteins, Transcription factors	Nuclear bodies, Cytosol
+rs1472631	KIAA0101	Unknown		unknown	False	NA	NA
+rs10468017	KIAA1467	Unknown		LIPC	False	NA	NA
+rs12550729	KIAA1875	Unknown		OPLAH	False	NA	NA
+rs9400467	KIAA1919	Unknown		SLC16A10	False	NA	NA
+rs12602901	KIF1C	Unknown		unknown	False	Disease related genes, Plasma proteins, Predicted intracellular proteins	
+rs272889	KIF3A	Environmental Information Processing		SLC22A5	False	Predicted intracellular proteins	Nucleoplasm, Intermediate filaments, Cytosol
+rs4144027	KLC1	Human Diseases		ASPG	False	Predicted intracellular proteins	Nucleoplasm, Plasma membrane, Cytosol
+rs9635324	KNSTRN	Unknown		IVD	False	Disease related genes, Predicted intracellular proteins	Microtubules, Mitotic spindle, Cytosol
+rs6693388	KRT8P28	Unknown		THEM4	False	NA	NA
+rs1260326	KRTCAP3	Unknown		GCKR	False	Predicted intracellular proteins, Predicted membrane proteins	Nucleus, Cytosol
+rs1395	KRTCAP3	Unknown		SLC5A6	False	Predicted intracellular proteins, Predicted membrane proteins	Nucleus, Cytosol
+rs1472631	LACTB	Unknown		unknown	False	Enzymes, Predicted intracellular proteins, Predicted secreted proteins	Mitochondria
+rs4150581	LDHA	Metabolism, Environmental Information Processing, Organismal Systems, Human Diseases	Amino acid metabolism	unknown	False	Cancer-related genes, Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Vesicles, Cytosol
+rs17279437	LIMD1	Environmental Information Processing		SLC6A20	False	Plasma proteins, Predicted intracellular proteins	Nucleus, Focal adhesion sites
+rs603424	LIN52	Cellular Processes		SCD	False	Predicted intracellular proteins	Nuclear speckles
+rs1046080	LINC00243	Unknown		unknown	False	NA	NA
+rs4144027	LINC00637	Unknown		ASPG	False	NA	NA
+rs1365505	LIPC	Metabolism, Organismal Systems	Lipid metabolism	SLC27A2	False	Disease related genes, Enzymes, Potential drug targets, Predicted secreted proteins	
+rs2070895	LIPC	Metabolism, Organismal Systems	Lipid metabolism	LIPC	True	Disease related genes, Enzymes, Potential drug targets, Predicted secreted proteins	
+rs2187375	LIPG	Metabolism, Organismal Systems	Lipid metabolism	LIPG	True	Enzymes, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	
+rs2731672	LMAN2	Genetic Information Processing		F12	False	Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins	
+rs316020	LPAL2	Unknown		SLC22A1	False	NA	NA
+rs5030062	LPP	Unknown		KNG1	False	Cancer-related genes, Disease related genes, Plasma proteins, Predicted intracellular proteins	Focal adhesion sites, Cytosol
+rs4808136	LRRC25	Unknown		ISYNA1	False	Predicted membrane proteins	
+rs4625783	LRRC45	Unknown		unknown	False	Predicted intracellular proteins	Nucleoplasm, Plasma membrane, Centrosome, Cytosol
+rs15676	LRRC8A	Unknown		CCBL1	False	Disease related genes, Plasma proteins, Potential drug targets, Predicted membrane proteins, Transporters	
+rs1046080	LY6G5B	Unknown		unknown	False	Predicted intracellular proteins, Predicted secreted proteins	
+rs1046080	LY6G5C	Unknown		unknown	False	Predicted intracellular proteins, Predicted membrane proteins	Nucleoplasm, Cytosol
+rs2734331	LY6G5C	Unknown		unknown	False	Predicted intracellular proteins, Predicted membrane proteins	Nucleoplasm, Cytosol
+rs1046080	LY6G6E	Unknown		unknown	False	Predicted intracellular proteins, Predicted secreted proteins	Nucleus
+rs1163251	MACF1	Unknown		PHGDH	False	Predicted intracellular proteins, Predicted membrane proteins	Plasma membrane, Cell Junctions, Actin filaments
+rs12550729	MAF1	Unknown		OPLAH	False	Predicted intracellular proteins	Nucleus, Nucleoli, Vesicles
+rs6980334	MAGI2	Environmental Information Processing		AKR1D1	False	Predicted intracellular proteins	
+rs601338	MAMSTR	Unknown		FUT2	False	Predicted intracellular proteins	Nuclear speckles
+rs12141041	MAN1A2	Metabolism, Genetic Information Processing	Carbohydrate metabolism	HAO2	False	Enzymes, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins	Golgi apparatus
+rs7570971	MAP3K19	Unknown		unknown	False	Enzymes, Predicted intracellular proteins	Cytosol
+rs4144027	MARK3	Unknown		ASPG	False	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Nuclear membrane
+rs1053941	MAST2	Unknown		unknown	False	Cancer-related genes, Enzymes, Predicted membrane proteins	Cytosol
+rs2576452	MBOAT7	Metabolism	Lipid metabolism	MBOAT7	True	Disease related genes, Enzymes, Potential drug targets, Predicted membrane proteins	Cytosol
+rs2270968	MCCC1	Metabolism	Amino acid metabolism	MCCC1	True	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins, Predicted secreted proteins	Mitochondria
+rs2270968	MCCC1-AS1	Unknown		MCCC1	True	NA	NA
+rs7570971	MCM6	Genetic Information Processing, Cellular Processes		unknown	False	Enzymes, Plasma proteins, Predicted intracellular proteins	Nucleoplasm
+rs2235649	MEIOB	Unknown		unknown	False	Predicted intracellular proteins	Nucleus, Nucleoli
+rs1005390	MGAM	Metabolism, Organismal Systems	Carbohydrate metabolism	ABP1 (AOC1)	False	Enzymes, FDA approved drug targets, Plasma proteins, Predicted membrane proteins	
+rs1046080	MICB	Organismal Systems		unknown	False	Disease related genes, Predicted membrane proteins	Golgi apparatus, Vesicles
+rs7542172	MKNK1	Environmental Information Processing, Organismal Systems		unknown	False	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Nucleoplasm
+rs2066938	MLEC	Unknown		ACADS	False	Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins	
+rs1053941	MMACHC	Organismal Systems		unknown	False	Disease related genes, Predicted intracellular proteins	Nucleoplasm, Plasma membrane, Cytosol
+rs2235649	MMP25	Organismal Systems		unknown	False	Enzymes, FDA approved drug targets, Predicted intracellular proteins, Predicted secreted proteins	
+rs7542172	MOB3C	Unknown		unknown	False	Predicted intracellular proteins	Intermediate filaments, Cytosol
+rs4150581	MRGPRX3	Unknown		unknown	False	G-protein coupled receptors, Predicted membrane proteins	
+rs2235649	MRPS34	Unknown		unknown	False	Plasma proteins, Predicted intracellular proteins, Ribosomal proteins	Mitochondria
+rs938554	MSANTD1	Unknown		SLC2A9	False	Predicted intracellular proteins	
+rs4949874	MSH4	Unknown		ACADM	False	Predicted intracellular proteins	
+rs13278849	MSR1	Cellular Processes		unknown	False	Cancer-related genes, CD markers, Disease related genes, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins	
+rs4986894	MTND4P19	Unknown		CYP2C9	False	NA	NA
+rs6980334	MTPN	Unknown		AKR1D1	False	Plasma proteins, Predicted intracellular proteins	Plasma membrane, Cytosol
+rs7642243	MUC4	Unknown		unknown	False	Predicted membrane proteins	
+rs2731672	MXD3	Unknown		F12	False	Predicted intracellular proteins, Transcription factors	Nucleus, Nucleoli
+rs10112574	MYBL1	Unknown		ADHFE1	False	Plasma proteins, Predicted intracellular proteins, Transcription factors	
+rs9635324	MYO5A	Unknown		IVD	False	Cancer-related genes, Disease related genes, Plasma proteins, Predicted intracellular proteins	Focal adhesion sites, Microtubule organizing center
+rs2576452	MYO9B	Unknown		MBOAT7	False	Disease related genes, Predicted intracellular proteins	Cytosol
+rs559555	MYT1L	Unknown		SRD5A2	False	Disease related genes, Predicted intracellular proteins, Transcription factors	Vesicles
+rs13538	NAT8	Unknown		NAT8	True	Enzymes, Predicted membrane proteins	Endoplasmic reticulum
+rs1697421	NAV1	Unknown		ALPL	False	Predicted intracellular proteins	Microtubules
+rs6693388	NBPF18P	Unknown		THEM4	False	NA	NA
+rs1697421	NBPF3	Unknown		ALPL	False	Predicted intracellular proteins	
+rs1046080	NELFE	Unknown		unknown	False	Predicted intracellular proteins	Nucleoplasm, Nuclear bodies
+rs2734331	NEU1	Metabolism, Cellular Processes	Carbohydrate metabolism	unknown	False	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Vesicles, Cell Junctions
+rs8056893	NFATC3	Environmental Information Processing, Cellular Processes, Organismal Systems, Human Diseases		SLC7A6	False	Predicted intracellular proteins, Transcription factors	Nucleoplasm, Cytosol
+rs170149	NFIX	Unknown		SLC13A5	False	Disease related genes, Predicted intracellular proteins, Transcription factors	Nucleoplasm
+rs1800775	NKD1	Environmental Information Processing		CETP	False	Predicted intracellular proteins	Nucleoli fibrillar center
+rs559555	NLRC4	Organismal Systems, Human Diseases		SRD5A2	False	Disease related genes, Plasma proteins, Predicted intracellular proteins	
+rs1800775	NLRC5	Unknown		CETP	False	Predicted intracellular proteins	Centrosome
+rs2235649	NME3	Metabolism	Xenobiotics biodegradation and metabolism	unknown	False	Enzymes, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	Nucleoplasm, Cytosol
+rs1934955	NOC3L	Unknown		unknown	False	Predicted intracellular proteins	Nucleus, Nucleoli
+rs1046080	NOTCH4	Environmental Information Processing, Organismal Systems, Human Diseases		unknown	False	Predicted membrane proteins	
+rs1260326	NRBP1	Unknown		GCKR	False	Enzymes, Predicted intracellular proteins	Cytosol
+rs1395	NRBP1	Unknown		SLC5A6	False	Enzymes, Predicted intracellular proteins	Cytosol
+rs7809615	NRG4	Environmental Information Processing		CYP3A5	False	Predicted membrane proteins	
+rs8056893	NRN1L	Unknown		SLC7A6	False	Predicted intracellular proteins, Predicted secreted proteins	
+rs1053941	NSUN4	Unknown		unknown	False	Predicted intracellular proteins	
+rs494562	NT5E	Metabolism	Metabolism of cofactors and vitamins	NT5E	True	CD markers, Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins	Nucleoplasm, Plasma membrane, Cytosol
+rs2740	NTAN1	Unknown		unknown	False	Predicted intracellular proteins	Nucleoplasm, Golgi apparatus
+rs601338	NTN5	Unknown		FUT2	False	Predicted intracellular proteins, Predicted secreted proteins	
+rs2235649	NUBP2	Unknown		unknown	False	Predicted intracellular proteins	Nucleus, Cytosol
+rs8101881	NUDT19	Cellular Processes		SLC7A9	False	Predicted secreted proteins	Nucleus, Nucleoli, Cytosol
+rs1046080	NUDT3	Unknown		unknown	False	Enzymes, Predicted intracellular proteins	Cytosol
+rs7157785	NUMB	Environmental Information Processing		SGPP1	False	Cancer-related genes, Predicted intracellular proteins	Cell Junctions, Cytosol
+rs131794	ODF3B	Unknown		TYMP	False	Predicted intracellular proteins	
+rs12550729	OPLAH	Metabolism	Amino acid metabolism	OPLAH	True	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Nucleoli fibrillar center
+rs2235649	OXR1	Unknown		unknown	False	Predicted intracellular proteins	Vesicles
+rs272889	P4HA2	Metabolism	Amino acid metabolism	SLC22A5	False	Disease related genes, Enzymes, Potential drug targets, Predicted secreted proteins	Endoplasmic reticulum, Vesicles
+rs1498694	PAH	Metabolism	Metabolism of cofactors and vitamins	PAH	True	Disease related genes, Enzymes, FDA approved drug targets, Predicted intracellular proteins	Endoplasmic reticulum, Vesicles
+rs1395	PAK2	Environmental Information Processing, Cellular Processes, Organismal Systems, Human Diseases		SLC5A6	False	Enzymes, Plasma proteins, Predicted intracellular proteins, RAS pathway related proteins	Nucleus, Vesicles
+rs1394678	PALB2	Genetic Information Processing		unknown	False	Cancer-related genes, Disease related genes, Predicted intracellular proteins	Nucleoplasm
+rs11101730	PAOX	Cellular Processes		unknown	False	Enzymes, Predicted intracellular proteins	Nucleoplasm, Centrosome
+rs12550729	PARP10	Unknown		OPLAH	False	Enzymes, Predicted intracellular proteins	Nucleoli, Cytosol
+rs15676	PARVB	Cellular Processes		CCBL1	False	Cancer-related genes, Plasma proteins, Predicted membrane proteins, Predicted secreted proteins	Cytosol
+rs7642243	PCYT1A	Metabolism, Human Diseases	Amino acid metabolism	unknown	False	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Nucleus
+rs603424	PDCD11	Unknown		SCD	False	Plasma proteins, Predicted intracellular proteins	Nucleoli, Vesicles
+rs8101881	PDCD5	Unknown		SLC7A9	False	Plasma proteins, Predicted intracellular proteins	Nucleus, Cytosol
+rs11647589	PDILT	Unknown		unknown	False	Predicted secreted proteins	
+rs1394678	PDILT	Unknown		unknown	False	Predicted secreted proteins	
+rs1853207	PDLIM1	Unknown		unknown	False	Plasma proteins, Predicted intracellular proteins	Plasma membrane, Cell Junctions, Actin filaments
+rs272889	PDLIM4	Unknown		SLC22A5	False	Predicted intracellular proteins	Actin filaments, Cytosol
+rs2740	PDXDC1	Unknown		unknown	False	Predicted intracellular proteins	Golgi apparatus, Vesicles
+rs2007084	PEX11A	Cellular Processes		ANPEP	False	Predicted intracellular proteins, Predicted membrane proteins, Transporters	
+rs4949874	PGM1	Metabolism	Nucleotide metabolism	ACADM	False	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Actin filaments
+rs4808136	PGPEP1	Unknown		ISYNA1	False	Enzymes, Predicted intracellular proteins	Golgi apparatus
+rs1163251	PHGDH	Metabolism	Amino acid metabolism	PHGDH	True	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Nucleoplasm, Plasma membrane, Cytosol
+rs15676	PHYHD1	Unknown		CCBL1	False	Predicted intracellular proteins	Nuclear speckles
+rs1053941	PIK3R3	Environmental Information Processing, Cellular Processes, Organismal Systems, Human Diseases		unknown	False	Cancer-related genes, Predicted intracellular proteins, RAS pathway related proteins	Nucleoplasm, Vesicles
+rs2740	PKD1P6	Unknown		unknown	False	NA	NA
+rs15676	PKN3	Environmental Information Processing, Human Diseases		CCBL1	False	Enzymes, Predicted intracellular proteins	Vesicles
+rs2851391	PKNOX1	Unknown		CBS	False	Predicted intracellular proteins, Transcription factors	Nucleoplasm
+rs8056893	PLA2G15	Metabolism, Cellular Processes	Lipid metabolism	SLC7A6	False	Predicted membrane proteins, Predicted secreted proteins	Nucleoplasm, Vesicles
+rs12550729	PLEC	Unknown		OPLAH	False	Cancer-related genes, Disease related genes, Plasma proteins, Predicted intracellular proteins	Intermediate filaments, Focal adhesion sites, Cytosol
+rs7775554	PM20D2	Unknown		unknown	False	Enzymes, Predicted intracellular proteins	Nucleoplasm
+rs9392556	PNPT1	Genetic Information Processing		ECI2	False	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Mitochondria
+rs7775554	PNRC1	Unknown		unknown	False	Predicted intracellular proteins	Nucleus, Nucleoli
+rs4690909	PPID	Cellular Processes		ETFDH	False	Enzymes, Plasma proteins, Predicted intracellular proteins	Nucleus, Nucleoli, Cytosol
+rs1260326	PPM1G	Unknown		GCKR	False	Enzymes, Predicted intracellular proteins	Nucleoplasm
+rs10022462	PPM1K	Unknown		PPM1K	True	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Mitochondria
+rs174548	PPME1	Unknown		FADS1	False	Enzymes, Predicted intracellular proteins	Nucleus, Nuclear bodies
+rs2734331	PPP1R10	Unknown		unknown	False	Predicted intracellular proteins	Nucleoplasm, Nuclear bodies
+rs4144027	PPP1R13B	Unknown		ASPG	False	Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Cytosol
+rs7849270	PPP2R4	Unknown		CRAT	False	NA	NA
+rs1053941	PRDX1	Cellular Processes		unknown	False	Enzymes, Plasma proteins, Predicted intracellular proteins	Mitochondria
+rs8012	PRDX2	Unknown		GCDH	False	Cancer-related genes, Enzymes, Plasma proteins, Predicted intracellular proteins	
+rs2731672	PRELID1	Unknown		F12	False	Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Mitochondria
+rs4687717	PRKCD	Cellular Processes, Organismal Systems, Human Diseases		TKT	False	Cancer-related genes, Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Endoplasmic reticulum, Golgi apparatus, Cytosol
+rs8056893	PRMT7	Unknown		SLC7A6	False	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Nucleoplasm, Nucleoli fibrillar center
+rs2540647	PRODH	Metabolism	Amino acid metabolism	PRODH	True	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	
+rs2576452	PRPF31	Genetic Information Processing		MBOAT7	False	Disease related genes, Predicted intracellular proteins	Nucleus
+rs1046080	PRRC2A	Unknown		unknown	False	Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Plasma membrane, Cytosol
+rs1046080	PRRT1	Unknown		unknown	False	Predicted intracellular proteins, Predicted membrane proteins	
+rs4343	PSMC5	Genetic Information Processing, Human Diseases		ACE	False	Plasma proteins, Predicted intracellular proteins	Plasma membrane, Cytosol
+rs493519	PSMD9	Unknown		unknown	False	Plasma proteins, Predicted intracellular proteins	Plasma membrane, Cytosol
+rs1046080	PSORS1C3	Unknown		unknown	False	NA	NA
+rs7809615	PTCD1	Unknown		CYP3A5	False	Predicted intracellular proteins	Mitochondria
+rs4625783	PTDSS2	Metabolism	Lipid metabolism	unknown	False	Enzymes, Predicted membrane proteins	
+rs4488133	PYROXD2	Unknown		PYROXD2	True	Predicted intracellular proteins	Mitochondria
+rs2731672	RAB24	Unknown		F12	False	Predicted intracellular proteins	Focal adhesion sites
+rs1472631	RAB8B	Cellular Processes		unknown	False	Predicted intracellular proteins	Nucleoplasm, Vesicles
+rs4625783	RAC3	Environmental Information Processing, Cellular Processes, Organismal Systems, Human Diseases		unknown	False	Predicted intracellular proteins, RAS pathway related proteins	
+rs10491431	RANBP3L	Unknown		UGT3A1	False	Predicted intracellular proteins	Nucleoplasm
+rs272889	RAPGEF6	Environmental Information Processing, Cellular Processes		SLC22A5	False	Predicted intracellular proteins	Centrosome, Cytosol
+rs601338	RASIP1	Unknown		FUT2	False	Predicted intracellular proteins	
+rs2694917	RBMS2	Unknown		GLS2	False	Plasma proteins, Predicted intracellular proteins	Nucleus, Nucleoli fibrillar center, Cytosol
+rs445925	RERE	Unknown		APOE|APOC1|APOC2	False	Disease related genes, Predicted intracellular proteins, Transcription factors	
+rs9400467	REV3L	Genetic Information Processing, Human Diseases		SLC16A10	False	Enzymes, Plasma proteins, Predicted intracellular proteins	Nucleoplasm
+rs8012	RFX1	Unknown		GCDH	False	Predicted intracellular proteins, Transcription factors	Nucleoplasm
+rs12602901	RNF167	Unknown		unknown	False	Enzymes, Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins	Cytosol
+rs6459467	RNF182	Unknown		GMPR	False	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Nucleus, Golgi apparatus, Vesicles
+rs6804368	RP11-1024P17.1	Unknown		unknown	False	NA	NA
+rs10504073	RP11-10H3.1	Unknown		unknown	False	NA	NA
+rs10022462	RP11-10L7.1	Unknown		PPM1K	False	NA	NA
+rs9635324	RP11-111A22.1	Unknown		IVD	False	NA	NA
+rs3800993	RP11-1220K2.2	Unknown		unknown	False	NA	NA
+rs4625783	RP11-1376P16.1	Unknown		unknown	False	NA	NA
+rs1394678	RP11-143N13.1	Unknown		unknown	False	NA	NA
+rs11647589	RP11-143N13.1	Unknown		unknown	False	NA	NA
+rs13278849	RP11-150O12.1	Unknown		unknown	False	NA	NA
+rs2066938	RP11-173P15.7	Unknown		ACADS	False	NA	NA
+rs7849270	RP11-247A12.1	Unknown		CRAT	False	NA	NA
+rs7849270	RP11-247A12.2	Unknown		CRAT	False	NA	NA
+rs4787294	RP11-266L9.2	Unknown		SLC5A11	False	NA	NA
+rs4787294	RP11-266L9.4	Unknown		SLC5A11	False	NA	NA
+rs4787294	RP11-266L9.6	Unknown		SLC5A11	False	NA	NA
+rs499368	RP11-283I3.2	Unknown		SLC6A12	False	NA	NA
+rs494562	RP11-30P6.6	Unknown		NT5E	False	NA	NA
+rs1472631	RP11-321G12.1	Unknown		unknown	False	NA	NA
+rs4784054	RP11-410D17.2	Unknown		GOT2	False	NA	NA
+rs12709013	RP11-410D17.2	Unknown		GOT2	False	NA	NA
+rs17134585	RP11-445P17.8	Unknown		AKR1C4	False	NA	NA
+rs2271316	RP11-589P10.5	Unknown		ALOX12	False	NA	NA
+rs2404602	RP11-593F23.1	Unknown		unknown	False	NA	NA
+rs499368	RP11-598F7.6	Unknown		SLC6A12	False	NA	NA
+rs1498694	RP11-611E13.2	Unknown		PAH	False	NA	NA
+rs2740	RP11-680G24.5	Unknown		unknown	False	NA	NA
+rs2740	RP11-72I8.1	Unknown		unknown	False	NA	NA
+rs12602901	RP11-81A22.5	Unknown		unknown	False	Predicted intracellular proteins	
+rs2694917	RP11-977G19.11	Unknown		GLS2	False	NA	NA
+rs9392556	RP3-400B16.4	Unknown		ECI2	False	NA	NA
+rs4680	RP3-400N23.6	Unknown		COMT	False	NA	NA
+rs8018967	RP3-414A15.11	Unknown		unknown	False	NA	NA
+rs8051149	RP4-536B24.2	Unknown		SLC7A5	False	NA	NA
+rs2694917	RPAP3	Unknown		GLS2	False	Predicted intracellular proteins	Cytosol
+rs3738934	RPE	Metabolism	Carbohydrate metabolism	ACADL	False	Enzymes, Predicted intracellular proteins	
+rs887829	RPL17P11	Unknown		UGT1A1	False	NA	NA
+rs2270968	RPL39L	Unknown		MCCC1	False	Predicted intracellular proteins, Ribosomal proteins	
+rs1472631	RPS27L	Genetic Information Processing		unknown	False	Predicted intracellular proteins, Predicted secreted proteins, Ribosomal proteins	Nucleoli, Endoplasmic reticulum, Cytosol
+rs2740	RRN3	Unknown		unknown	False	Plasma proteins, Predicted intracellular proteins	Nucleoli
+rs174548	RSF1	Unknown		FADS1	False	Predicted intracellular proteins, Predicted secreted proteins	Nucleoplasm
+rs17134585	RSU1	Unknown		AKR1C4	False	Plasma proteins, Predicted intracellular proteins	Vesicles
+rs8012	RTBDN	Unknown		GCDH	False	Predicted membrane proteins, Predicted secreted proteins	Endoplasmic reticulum
+rs445925	RYR1	Environmental Information Processing, Organismal Systems		APOE|APOC1|APOC2	False	Disease related genes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins, Transporters	Golgi apparatus, Vesicles, Cytosol
+rs6693388	S100A10	Unknown		THEM4	False	Predicted membrane proteins, Transporters	Mitochondria
+rs6693388	S100A11	Unknown		THEM4	False	Plasma proteins, Predicted intracellular proteins	
+rs7570971	SAP130	Unknown		unknown	False	Predicted intracellular proteins	Nuclear speckles
+rs2404602	SCAPER	Unknown		unknown	False	Predicted intracellular proteins	Nucleus, Cytosol
+rs603424	SCD	Metabolism, Environmental Information Processing, Organismal Systems	Lipid metabolism	SCD	True	Enzymes, Predicted membrane proteins	Endoplasmic reticulum
+rs131794	SCO2	Human Diseases		TYMP	False	Disease related genes, Predicted membrane proteins	Mitochondria
+rs15676	SEC16A	Unknown		CCBL1	False	Predicted intracellular proteins, Predicted secreted proteins	Endoplasmic reticulum, Golgi apparatus
+rs601338	SEC1P	Unknown		FUT2	False	NA	NA
+rs4488133	SFRP5	Environmental Information Processing		PYROXD2	False	Predicted secreted proteins	
+rs603424	SGPL1	Metabolism, Environmental Information Processing	Lipid metabolism	SCD	False	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Endoplasmic reticulum
+rs7849270	SH3GLB2	Cellular Processes		CRAT	False	Predicted intracellular proteins	Nucleoplasm, Cytosol
+rs12550729	SHARPIN	Cellular Processes, Organismal Systems		OPLAH	False	Predicted intracellular proteins	Nucleus, Cytosol
+rs1046080	SIPA1L1	Environmental Information Processing		unknown	False	Predicted intracellular proteins	Plasma membrane, Actin filaments
+rs1046080	SKIV2L	Genetic Information Processing		unknown	False	Disease related genes, Plasma proteins, Predicted intracellular proteins	Nucleoplasm
+rs4808136	SLBP	Unknown		ISYNA1	False	Predicted intracellular proteins	Nucleus, Nucleoli, Cytosol
+rs6459467	SLC16A10	Organismal Systems		GMPR	False	Predicted membrane proteins, Transporters	Vesicles, Cell Junctions
+rs4625783	SLC16A3	Human Diseases		unknown	False	Predicted membrane proteins, Transporters	Nuclear membrane, Plasma membrane
+rs1171615	SLC16A9	Unknown		SLC16A9	True	Predicted membrane proteins, Transporters	Nucleus, Cell Junctions
+rs1185567	SLC17A1	Unknown		unknown	False	Predicted membrane proteins, Transporters	Golgi apparatus
+rs1185567	SLC17A3	Unknown		unknown	False	Predicted membrane proteins, Transporters	
+rs10211524	SLC1A4	Unknown		SLC1A4	True	Disease related genes, Plasma proteins, Potential drug targets, Predicted membrane proteins, Transporters	Centrosome
+rs272889	SLC22A4	Human Diseases		SLC22A5	False	Disease related genes, Predicted membrane proteins	Mitochondria
+rs2405522	SLC22A5	Human Diseases		SLC22A5	True	Disease related genes, Potential drug targets, Predicted membrane proteins, Transporters	Mitochondria
+rs272889	SLC22A5	Human Diseases		SLC22A5	True	Disease related genes, Potential drug targets, Predicted membrane proteins, Transporters	Mitochondria
+rs12602901	SLC25A11	Unknown		unknown	False	Plasma proteins, Predicted membrane proteins, Transporters	
+rs1365505	SLC27A2	Cellular Processes, Organismal Systems, Human Diseases		SLC27A2	True	Enzymes, Predicted membrane proteins, Transporters	
+rs938554	SLC2A9	Unknown		SLC2A9	True	Disease related genes, Potential drug targets, Predicted membrane proteins, Transporters	
+rs559555	SLC30A6	Unknown		SRD5A2	False	Predicted membrane proteins, Transporters	Golgi apparatus
+rs4784054	SLC38A7	Unknown		GOT2	False	Predicted membrane proteins, Transporters	Nucleoplasm, Plasma membrane, Cytosol
+rs12709013	SLC38A7	Unknown		GOT2	False	Predicted membrane proteins, Transporters	Nucleoplasm, Plasma membrane, Cytosol
+rs1005390	SLC4A2	Organismal Systems		ABP1 (AOC1)	False	Predicted intracellular proteins, Predicted membrane proteins, Transporters	Nuclear speckles, Plasma membrane, Cytosol
+rs7642243	SLC51A	Organismal Systems		unknown	False	Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins, Transporters	
+rs12602901	SLC52A1	Unknown		unknown	False	Disease related genes, Predicted membrane proteins	
+rs4787294	SLC5A11	Unknown		SLC5A11	True	Predicted membrane proteins	Nucleus, Cytosol
+rs1395	SLC5A6	Organismal Systems		SLC5A6	True	Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins, Transporters	Cell Junctions
+rs499368	SLC6A12	Organismal Systems		SLC6A12	True	Predicted intracellular proteins, Predicted membrane proteins, Transporters	Vesicles
+rs7969761	SLC6A13	Organismal Systems		SLC6A13	True	Predicted membrane proteins, Transporters	Nucleus, Nucleoli, Mitochondria, Cytosol
+rs8051149	SLC7A5	Environmental Information Processing, Human Diseases		SLC7A5	True	Predicted membrane proteins, Transporters	Vesicles, Plasma membrane, Cytosol
+rs8056893	SLC7A6	Unknown		SLC7A6	True	Predicted intracellular proteins, Predicted membrane proteins, Transporters	Vesicles, Plasma membrane
+rs8101881	SLC7A9	Organismal Systems		SLC7A9	True	Disease related genes, Potential drug targets, Predicted membrane proteins, Transporters	
+rs8012	SMARCB1	Organismal Systems, Human Diseases		GCDH	False	Cancer-related genes, Disease related genes, Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Nucleoli fibrillar center
+rs8056893	SMPD3	Metabolism	Lipid metabolism	SLC7A6	False	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Endoplasmic reticulum
+rs10022462	SNCA	Unknown		PPM1K	False	Disease related genes, Plasma proteins, Potential drug targets, Predicted intracellular proteins, Transporters	
+rs4675874	SNED1	Unknown		unknown	False	Predicted intracellular proteins, Predicted secreted proteins	
+rs1260326	SNX17	Unknown		GCKR	False	Predicted intracellular proteins	Vesicles
+rs1395	SNX17	Unknown		SLC5A6	False	Predicted intracellular proteins	Vesicles
+rs12602901	SPAG7	Unknown		unknown	False	Predicted intracellular proteins	Nucleus
+rs559555	SPAST	Unknown		SRD5A2	False	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins, Predicted membrane proteins	Nucleoplasm, Cytosol
+rs2066938	SPPL3	Unknown		ACADS	False	Enzymes, Predicted membrane proteins	Vesicles, Plasma membrane
+rs2694917	SPRYD4	Unknown		GLS2	False	Predicted intracellular proteins	Nucleoplasm
+rs4814176	SPTLC3	Metabolism, Environmental Information Processing	Lipid metabolism	SPTLC3	True	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Microtubules
+rs7775554	SRSF12	Unknown		unknown	False	Predicted intracellular proteins	
+rs4808136	SSBP4	Unknown		ISYNA1	False	Predicted intracellular proteins	
+rs1046080	STK19	Unknown		unknown	False	Cancer-related genes, Enzymes, Predicted intracellular proteins	Nuclear speckles
+rs8051149	STRADA	Environmental Information Processing		SLC7A5	False	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Nucleoplasm, Cytosol
+rs1466788	STRIP1	Unknown		unknown	False	Predicted intracellular proteins	Cytosol
+rs493519	STX2	Genetic Information Processing, Organismal Systems		unknown	False	Cancer-related genes, Predicted membrane proteins	Nucleus, Cytosol
+rs17806888	SUCLG2	Metabolism	Carbohydrate metabolism	SUCLG2	True	Citric acid cycle related proteins, Enzymes, Plasma proteins, Predicted intracellular proteins	Plasma membrane, Mitochondria
+rs2547231	SULT2A1	Metabolism, Organismal Systems, Human Diseases	Xenobiotics biodegradation and metabolism	SULT2A1	True	Enzymes, Predicted intracellular proteins	Cytosol
+rs4947534	SUMF2	Unknown		PSPH	False	Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	Vesicles, Plasma membrane
+rs9392556	SUPT3H	Human Diseases		ECI2	False	Predicted intracellular proteins	Nucleoplasm
+rs8012	SYCE2	Unknown		GCDH	False	Predicted intracellular proteins	Nucleus
+rs9393915	SYCP2L	Unknown		ELOVL2	False	Predicted intracellular proteins	Nucleoplasm
+rs8012	SYMPK	Genetic Information Processing, Cellular Processes		GCDH	False	Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Plasma membrane, Cytosol
+rs1053941	SZRD1	Unknown		unknown	False	Predicted intracellular proteins	Nucleoplasm, Cytosol
+rs7809615	TAF6	Genetic Information Processing		CYP3A5	False	Disease related genes, Predicted intracellular proteins	Nucleoplasm, Cytosol
+rs1853207	TBC1D12	Unknown		unknown	False	Cancer-related genes, Predicted intracellular proteins	Nucleoplasm, Nuclear speckles
+rs15676	TBC1D13	Unknown		CCBL1	False	Predicted intracellular proteins	Nucleoli
+rs56322409	TCTN3	Unknown		ALDH18A1	False	Disease related genes, Predicted membrane proteins, Predicted secreted proteins	Microtubules
+rs1498694	TDG	Genetic Information Processing		PAH	False	Enzymes, Predicted intracellular proteins	Nucleoplasm
+rs13122250	TDO2	Metabolism	Amino acid metabolism	TDO2	True	Enzymes, Predicted intracellular proteins	Plasma membrane, Cytosol
+rs8101881	TDRD12	Unknown		SLC7A9	False	Enzymes, Predicted intracellular proteins	
+rs4144027	TDRD9	Unknown		ASPG	False	Enzymes, Predicted intracellular proteins	
+rs1509123	TEKT1	Unknown		SLC13A5	False	Predicted intracellular proteins	
+rs2235649	TELO2	Genetic Information Processing, Environmental Information Processing		unknown	False	Disease related genes, Predicted intracellular proteins, Predicted membrane proteins	Nuclear bodies, Cytosol
+rs6693388	THEM4	Metabolism, Environmental Information Processing	Lipid metabolism	THEM4	True	Enzymes, Predicted intracellular proteins	
+rs1394678	THUMPD1	Unknown		unknown	False	Predicted intracellular proteins	Cytosol
+rs4687717	TKT	Metabolism	Carbohydrate metabolism	TKT	True	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Nucleoplasm
+rs1934955	TLL2	Unknown		unknown	False	Enzymes, Predicted secreted proteins	
+rs7642243	TM4SF19	Unknown		unknown	False	Predicted intracellular proteins, Predicted membrane proteins, Transporters	
+rs2576452	TMC4	Unknown		MBOAT7	False	Predicted membrane proteins	
+rs1394678	TMEM159	Unknown		unknown	False	Predicted intracellular proteins, Predicted membrane proteins	Vesicles
+rs7570971	TMEM163	Unknown		unknown	False	Predicted membrane proteins, Transporters	
+rs6430553	TMEM163	Unknown		ACMSD	False	Predicted membrane proteins, Transporters	
+rs1005390	TMEM176A	Unknown		ABP1 (AOC1)	False	Predicted membrane proteins	Mitochondria
+rs1005390	TMEM176B	Unknown		ABP1 (AOC1)	False	Predicted membrane proteins	Nucleoplasm, Golgi apparatus, Plasma membrane
+rs174548	TMEM258	Unknown		FADS1	False	Predicted membrane proteins	Plasma membrane, Cytosol
+rs1053941	TMEM69	Unknown		unknown	False	Predicted membrane proteins	Nucleoplasm
+rs2007084	TNIK	Unknown		ANPEP	False	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Nucleoplasm, Cytosol
+rs7642243	TNK2	Unknown		unknown	False	Cancer-related genes, Enzymes, Plasma proteins, Predicted intracellular proteins	Cytosol
+rs4073054	TOMM40L	Human Diseases		unknown	False	Predicted intracellular proteins	
+rs7849270	TOR1A	Unknown		CRAT	False	Disease related genes, Predicted secreted proteins	Nuclear membrane, Vesicles
+rs1472631	TPM1	Organismal Systems, Human Diseases		unknown	False	Cancer-related genes, Candidate cardiovascular disease genes, Disease related genes, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins	Actin filaments, Cytosol
+rs13538	TPRKB	Unknown		NAT8	False	Predicted intracellular proteins	Cytosol
+rs11647589	TPT1-AS1	Unknown		unknown	False	NA	NA
+rs1185567	TRIM38	Unknown		unknown	False	Enzymes, Predicted intracellular proteins	Plasma membrane, Cell Junctions, Centrosome
+rs10242455	TRIM4	Unknown		CYP3A5	False	Enzymes, Predicted intracellular proteins	Plasma membrane, Cytosol
+rs1395	TRIM54	Unknown		SLC5A6	False	Predicted intracellular proteins	
+rs4150581	TSG101	Cellular Processes		unknown	False	Cancer-related genes, Plasma proteins, Predicted intracellular proteins	Nucleoli, Plasma membrane, Cytosol
+rs13375749	TSPAN1	Unknown		CPT2	False	Predicted membrane proteins	Nucleoplasm, Vesicles
+rs131794	TYMP	Metabolism, Human Diseases	Xenobiotics biodegradation and metabolism	TYMP	True	Cancer-related genes, Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Nuclear bodies, Golgi apparatus
+rs1185567	U91328.19	Unknown		unknown	False	NA	NA
+rs7570971	UBXN4	Unknown		unknown	False	Predicted intracellular proteins, Predicted membrane proteins	Endoplasmic reticulum
+rs6430553	UBXN4	Unknown		ACMSD	False	Predicted intracellular proteins, Predicted membrane proteins	Endoplasmic reticulum
+rs4253311	UFSP2	Unknown		KLKB1	False	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Nucleus, Cytosol
+rs887829	UGT1A1	Metabolism, Human Diseases	Xenobiotics biodegradation and metabolism	UGT1A1	True	Cancer-related genes, Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted membrane proteins	
+rs887829	UGT1A2P	Unknown		UGT1A1	False	NA	NA
+rs887829	UGT1A6	Metabolism, Human Diseases	Xenobiotics biodegradation and metabolism	UGT1A1	False	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	
+rs887829	UGT1A7	Metabolism, Human Diseases	Xenobiotics biodegradation and metabolism	UGT1A1	False	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	
+rs2066938	UNC119B	Unknown		ACADS	False	Predicted intracellular proteins	
+rs6679002	USP1	Genetic Information Processing		ANGPTL3	False	Enzymes, Plasma proteins, Predicted intracellular proteins	Nucleoplasm
+rs887829	USP40	Unknown		UGT1A1	False	Enzymes, Predicted intracellular proteins	Vesicles
+rs1005390	VIPR2	Environmental Information Processing		ABP1 (AOC1)	False	G-protein coupled receptors, Predicted membrane proteins, Predicted secreted proteins	
+rs8018967	VMP1	Cellular Processes		unknown	False	Predicted intracellular proteins, Predicted membrane proteins	Nucleoli, Endoplasmic reticulum
+rs1395	VPS54	Unknown		SLC5A6	False	Predicted intracellular proteins	Nucleoplasm, Golgi apparatus
+rs8018967	VSX2	Unknown		unknown	False	Disease related genes, Predicted intracellular proteins, Transcription factors	
+rs1046080	VWA7	Unknown		unknown	False	Predicted secreted proteins	Plasma membrane, Cytosol
+rs493519	WDR66	Unknown		unknown	False	Predicted intracellular proteins	Plasma membrane, Cytosol
+rs8012	WDR83OS	Unknown		GCDH	False	Predicted membrane proteins	Endoplasmic reticulum
+rs559555	XDH	Metabolism, Cellular Processes	Xenobiotics biodegradation and metabolism	SRD5A2	False	Disease related genes, Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins	Nucleus
+rs4144027	XRCC3	Genetic Information Processing		ASPG	False	Cancer-related genes, Disease related genes, Predicted intracellular proteins	Nucleus
+rs7642243	ZDHHC19	Unknown		unknown	False	Enzymes, Predicted membrane proteins	
+rs8056893	ZFP90	Unknown		SLC7A6	False	Predicted intracellular proteins, Transcription factors	Vesicles, Plasma membrane, Centrosome
+rs4680	ZFPM1	Unknown		COMT	False	Plasma proteins, Predicted intracellular proteins, Transcription factors	Nucleoplasm, Cytosol
+rs7809615	ZKSCAN5	Unknown		CYP3A5	False	Predicted intracellular proteins, Transcription factors	Intermediate filaments
+rs8056893	ZNF317	Unknown		SLC7A6	False	Predicted intracellular proteins, Transcription factors	Nucleoplasm
+rs4625783	ZNF346	Unknown		unknown	False	Predicted intracellular proteins	Nucleus
+rs2547231	ZNF430	Unknown		SULT2A1	False	Predicted intracellular proteins, Transcription factors	
+rs1260326	ZNF513	Unknown		GCKR	False	Disease related genes, Predicted intracellular proteins, Transcription factors	
+rs1163251	ZNF697	Unknown		PHGDH	False	Predicted intracellular proteins, Transcription factors	Nucleoplasm
+rs4947534	ZNF713	Unknown		PSPH	False	Disease related genes, Predicted intracellular proteins, Transcription factors	Nucleoli

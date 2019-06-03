@@ -1,0 +1,492 @@
+Gene	Protein class	Subcellular location	RNA tissue category	RNA TS	RNA TS TPM	RNA cell line category	RNA CS	RNA CS TPM
+FGR	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Plasma membrane, Aggresome	Tissue enhanced		appendix: 85.6;bone marrow: 137.0;spleen: 90.6	Cell line enhanced		Daudi: 61.4;HMC-1: 25.8;U-266/70: 116.7
+ANKIB1	Predicted intracellular proteins	Plasma membrane, Cytosol	Expressed in all			Expressed in all		
+AOC1	Enzymes, Predicted secreted proteins		Tissue enhanced		placenta: 716.9;small intestine: 247.6	Cell line enhanced		CAPAN-2: 17.4;HaCaT: 5.4;THP-1: 17.8
+TMEM176A	Predicted membrane proteins	Mitochondria	Expressed in all			Cell line enriched	30	HSkMC: 493.9
+RPAP3	Predicted intracellular proteins	Cytosol	Expressed in all			Expressed in all		
+ACSM3	Enzymes, Predicted intracellular proteins		Tissue enhanced		liver: 93.2	Group enriched	12	HEL: 85.7;HMC-1: 339.4;K-562: 258.6
+AC004381.6	Predicted intracellular proteins	Nuclear membrane, Nucleoli, Endoplasmic reticulum	Tissue enriched	33	testis: 618.5	Mixed		
+CRLF1	Disease related genes, Predicted intracellular proteins, Predicted secreted proteins		Tissue enhanced		cerebral cortex: 17.2;placenta: 16.8	Group enriched	8	ASC diff: 706.3;Hep G2: 309.6
+FMO3	Disease related genes, Enzymes, Potential drug targets, Predicted membrane proteins, Predicted secreted proteins		Tissue enriched	24	liver: 556.7	Group enriched	13	ASC diff: 23.4;ASC TERT1: 17.9;HSkMC: 5.1
+NFIX	Disease related genes, Predicted intracellular proteins, Transcription factors	Nucleoplasm	Expressed in all			Cell line enhanced		U-138 MG: 192.9;U-2197: 175.5
+MMP25	Enzymes, FDA approved drug targets, Predicted intracellular proteins, Predicted secreted proteins		Tissue enhanced		appendix: 23.3;bone marrow: 24.7;spleen: 20.7	Cell line enriched	11	HMC-1: 95.7
+REV3L	Enzymes, Plasma proteins, Predicted intracellular proteins	Nucleoplasm	Expressed in all			Expressed in all		
+SLC6A13	Predicted membrane proteins, Transporters	Nucleus, Nucleoli, Mitochondria, Cytosol	Tissue enriched	14	kidney: 154.0	Cell line enriched	7	RPTEC TERT1: 3.5
+TMEM159	Predicted intracellular proteins, Predicted membrane proteins	Vesicles	Mixed			Mixed		
+CYP3A43	Enzymes, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins	Cytosol	Tissue enriched	15	liver: 22.7	Not detected		
+SLC7A9	Disease related genes, Potential drug targets, Predicted membrane proteins, Transporters		Group enriched	10	duodenum: 79.0;kidney: 70.1;small intestine: 123.5	Group enriched	20	BEWO: 3.3;CACO-2: 6.7;Hep G2: 5.4
+SPAST	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins, Predicted membrane proteins	Nucleoplasm, Cytosol	Mixed			Expressed in all		
+TYMP	Cancer-related genes, Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Nuclear bodies, Golgi apparatus	Tissue enhanced		appendix: 100.6	Cell line enhanced		CAPAN-2: 37.3;HHSteC: 84.7;Karpas-707: 72.1;U-266/70: 36.4
+EFCAB1	Predicted intracellular proteins	Nucleoplasm, Plasma membrane	Tissue enhanced		fallopian tube: 149.8;testis: 47.1	Cell line enhanced		A-431: 5.8;ASC TERT1: 4.4;CAPAN-2: 2.8;SCLC-21H: 5.8
+CLEC16A	Disease related genes, Predicted intracellular proteins, Predicted secreted proteins	Nucleus, Vesicles	Expressed in all			Expressed in all		
+MSR1	Cancer-related genes, CD markers, Disease related genes, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins		Tissue enhanced		lung: 187.7	Group enriched	6	BJ hTERT+: 86.3;REH: 37.8
+CDH1	Cancer-related genes, CD markers, Disease related genes, Plasma proteins, Predicted membrane proteins, Predicted secreted proteins	Golgi apparatus, Plasma membrane, Cell Junctions	Tissue enhanced		parathyroid gland: 475.1	Cell line enhanced		BEWO: 645.6;CAPAN-2: 281.0;HaCaT: 273.9
+DCUN1D1	Predicted intracellular proteins	Nucleus, Cytosol	Tissue enriched	13	testis: 391.8	Expressed in all		
+RSF1	Predicted intracellular proteins, Predicted secreted proteins	Nucleoplasm	Expressed in all			Expressed in all		
+FOXN3	Predicted intracellular proteins, Transcription factors	Nucleus, Plasma membrane	Expressed in all			Mixed		
+SZRD1	Predicted intracellular proteins	Nucleoplasm, Cytosol	Expressed in all			Expressed in all		
+ITIH4	Cancer-related genes, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	Vesicles	Tissue enriched	71	liver: 984.5	Cell line enhanced		HDLM-2: 2.2;U-266/70: 2.1
+MSH4	Predicted intracellular proteins		Group enriched	7	epididymis: 2.3;testis: 7.7	Cell line enhanced		AN3-CA: 1.6
+ATP11B	Enzymes, Predicted membrane proteins, Transporters	Microtubule organizing center, Cytosol	Expressed in all			Expressed in all		
+ALDH18A1	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Mitochondria	Expressed in all			Expressed in all		
+TNK2	Cancer-related genes, Enzymes, Plasma proteins, Predicted intracellular proteins	Cytosol	Expressed in all			Expressed in all		
+CDH3	Disease related genes, Predicted intracellular proteins, Predicted membrane proteins	Cell Junctions, Cytosol	Tissue enhanced		skin: 31.9	Cell line enhanced		A-431: 89.4;HaCaT: 243.8;HBEC3-KT: 95.6;hTCEpi: 75.4;RPTEC TERT1: 88.7
+VMP1	Predicted intracellular proteins, Predicted membrane proteins	Nucleoli, Endoplasmic reticulum	Expressed in all			Expressed in all		
+HAGH	Enzymes, Plasma proteins, Predicted intracellular proteins		Expressed in all			Expressed in all		
+DIP2B	Predicted intracellular proteins	Endoplasmic reticulum	Expressed in all			Expressed in all		
+THUMPD1	Predicted intracellular proteins	Cytosol	Expressed in all			Expressed in all		
+ACTN1	Disease related genes, Plasma proteins, Predicted intracellular proteins	Plasma membrane, Focal adhesion sites	Expressed in all			Mixed		
+AFF4	Cancer-related genes, Disease related genes, Predicted intracellular proteins	Nucleus, Nucleoli fibrillar center	Expressed in all			Expressed in all		
+P4HA2	Disease related genes, Enzymes, Potential drug targets, Predicted secreted proteins	Endoplasmic reticulum, Vesicles	Expressed in all			Mixed		
+NFATC3	Predicted intracellular proteins, Transcription factors	Nucleoplasm, Cytosol	Expressed in all			Expressed in all		
+KDM5A	Cancer-related genes, Predicted intracellular proteins, Transcription factors	Nuclear bodies, Cytosol	Expressed in all			Expressed in all		
+MRPS34	Plasma proteins, Predicted intracellular proteins, Ribosomal proteins	Mitochondria	Expressed in all			Expressed in all		
+TSG101	Cancer-related genes, Plasma proteins, Predicted intracellular proteins	Nucleoli, Plasma membrane, Cytosol	Expressed in all			Expressed in all		
+MARK3	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Nuclear membrane	Expressed in all			Expressed in all		
+EXOSC7	Predicted intracellular proteins	Nuclear speckles	Expressed in all			Expressed in all		
+MCM6	Enzymes, Plasma proteins, Predicted intracellular proteins	Nucleoplasm	Mixed			Expressed in all		
+RBMS2	Plasma proteins, Predicted intracellular proteins	Nucleus, Nucleoli fibrillar center, Cytosol	Expressed in all			Mixed		
+MCCC1	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins, Predicted secreted proteins	Mitochondria	Expressed in all			Expressed in all		
+MKNK1	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Nucleoplasm	Expressed in all			Expressed in all		
+CDC14A	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Nucleoplasm, Nuclear bodies, Cytosol	Tissue enhanced		testis: 56.3	Cell line enhanced		K-562: 25.8
+PGM1	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Actin filaments	Expressed in all			Mixed		
+HSP90AA1	Cancer-related genes, Plasma proteins, Predicted intracellular proteins	Cytosol	Expressed in all			Expressed in all		
+DLGAP4	Predicted intracellular proteins	Nucleoplasm, Focal adhesion sites, Cytosol	Expressed in all			Expressed in all		
+CCNT2	Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Plasma membrane, Cytosol	Expressed in all			Expressed in all		
+PALB2	Cancer-related genes, Disease related genes, Predicted intracellular proteins	Nucleoplasm	Mixed			Expressed in all		
+DOPEY1	Predicted intracellular proteins, Predicted membrane proteins	Nucleus, Vesicles	Mixed			Mixed		
+GCKR	Predicted intracellular proteins	Intermediate filaments	Tissue enriched	7	liver: 44.3	Group enriched	7	HEL: 12.0;Hep G2: 14.0;HUVEC TERT2: 5.3;TIME: 3.2
+CAD	Cancer-related genes, Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Nucleoplasm	Expressed in all			Expressed in all		
+RRN3	Plasma proteins, Predicted intracellular proteins	Nucleoli	Expressed in all			Expressed in all		
+USP40	Enzymes, Predicted intracellular proteins	Vesicles	Expressed in all			Mixed		
+MAST2	Cancer-related genes, Enzymes, Predicted membrane proteins	Cytosol	Expressed in all			Expressed in all		
+PSMC5	Plasma proteins, Predicted intracellular proteins	Plasma membrane, Cytosol	Expressed in all			Expressed in all		
+CETP	Candidate cardiovascular disease genes, Disease related genes, Plasma proteins, Potential drug targets, Predicted intracellular proteins, Predicted secreted proteins, Transporters		Group enriched	6	adipose tissue: 36.9;liver: 21.7;lymph node: 46.3;placenta: 50.4;spleen: 77.7	Cell line enhanced		HEL: 2.4;HUVEC TERT2: 3.6;TIME: 2.1
+DOCK3	Disease related genes, Predicted intracellular proteins	Cytosol	Group enriched	6	cerebral cortex: 33.7;parathyroid gland: 12.6;testis: 8.5;thyroid gland: 15.1	Cell line enhanced		AN3-CA: 5.9;U-87 MG: 8.0
+PPP1R13B	Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Cytosol	Mixed			Mixed		
+F11	Candidate cardiovascular disease genes, Disease related genes, Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	Vesicles	Tissue enhanced		liver: 180.1	Cell line enriched	8	Hep G2: 6.0
+GANAB	Disease related genes, Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	Nuclear membrane, Endoplasmic reticulum, Cytosol	Expressed in all			Expressed in all		
+NLRC4	Disease related genes, Plasma proteins, Predicted intracellular proteins		Tissue enhanced		appendix: 12.4	Cell line enhanced		HL-60: 2.4
+SPAG7	Predicted intracellular proteins	Nucleus	Expressed in all			Expressed in all		
+PHGDH	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Nucleoplasm, Plasma membrane, Cytosol	Tissue enhanced		parathyroid gland: 216.7	Mixed		
+COMT	Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins	Endoplasmic reticulum, Vesicles	Expressed in all			Expressed in all		
+FMO2	Enzymes, Predicted membrane proteins, Predicted secreted proteins		Tissue enhanced		adipose tissue: 98.3;esophagus: 102.9;lung: 158.2	Group enriched	48	ASC diff: 27.9;ASC TERT1: 12.9;HSkMC: 35.2
+HOOK2	Predicted intracellular proteins	Vesicles, Cytosol	Expressed in all			Expressed in all		
+CRAT	Enzymes, Predicted intracellular proteins, Transporters	Nucleoplasm, Nuclear membrane	Expressed in all			Mixed		
+TLL2	Enzymes, Predicted secreted proteins		Tissue enhanced		cerebral cortex: 1.9	Cell line enriched	8	RPTEC TERT1: 15.3
+NUBP2	Predicted intracellular proteins	Nucleus, Cytosol	Expressed in all			Expressed in all		
+SCD	Enzymes, Predicted membrane proteins	Endoplasmic reticulum	Expressed in all			Expressed in all		
+MYO9B	Disease related genes, Predicted intracellular proteins	Cytosol	Expressed in all			Expressed in all		
+IGFALS	Disease related genes, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins	Nucleoplasm	Group enriched	6	liver: 25.0;stomach: 6.6	Cell line enhanced		Hep G2: 1.2;U-266/70: 1.3
+ARVCF	Predicted intracellular proteins	Plasma membrane, Cell Junctions	Mixed			Cell line enhanced		K-562: 18.0;SCLC-21H: 21.2;SH-SY5Y: 14.7;U-2 OS: 16.4
+SMARCB1	Cancer-related genes, Disease related genes, Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Nucleoli fibrillar center	Expressed in all			Expressed in all		
+CABIN1	Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Aggresome, Cytosol	Expressed in all			Expressed in all		
+PRODH	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins		Tissue enhanced		small intestine: 25.2	Cell line enriched	6	RPTEC TERT1: 28.5
+CHKB	Enzymes, Plasma proteins, Predicted intracellular proteins	Cytosol	Mixed			Mixed		
+ARSA	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins, Predicted secreted proteins	Golgi apparatus, Cytosol	Expressed in all			Cell line enhanced		Karpas-707: 58.2
+TELO2	Disease related genes, Predicted intracellular proteins, Predicted membrane proteins	Nuclear bodies, Cytosol	Expressed in all			Expressed in all		
+LIPG	Enzymes, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins		Group enriched	11	placenta: 214.4;thyroid gland: 403.2	Cell line enhanced		AN3-CA: 113.7;HaCaT: 167.5;RPTEC TERT1: 93.8;TIME: 201.4
+FGF14	Disease related genes, Predicted intracellular proteins, RAS pathway related proteins	Nucleoli fibrillar center	Tissue enhanced		cerebral cortex: 14.8;cervix, uterine: 22.9;fallopian tube: 17.2	Group enriched	7	SCLC-21H: 5.4;SH-SY5Y: 20.7;U-87 MG: 4.1
+NME3	Enzymes, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	Nucleoplasm, Cytosol	Expressed in all			Cell line enhanced		HEK 293: 64.8
+SLC38A7	Predicted membrane proteins, Transporters	Nucleoplasm, Plasma membrane, Cytosol	Mixed			Expressed in all		
+SMPD3	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Endoplasmic reticulum	Tissue enhanced		duodenum: 61.0;small intestine: 62.9	Cell line enhanced		HMC-1: 8.5;MOLT-4: 11.7;RPMI-8226: 8.3;SCLC-21H: 15.6
+SLC7A6	Predicted intracellular proteins, Predicted membrane proteins, Transporters	Vesicles, Plasma membrane	Mixed			Expressed in all		
+PLA2G15	Predicted membrane proteins, Predicted secreted proteins	Nucleoplasm, Vesicles	Expressed in all			Expressed in all		
+ABCC1	Cancer-related genes, FDA approved drug targets, Plasma proteins, Predicted membrane proteins, Transporters	Plasma membrane	Mixed			Cell line enhanced		EFO-21: 84.1
+SLC7A5	Predicted membrane proteins, Transporters	Vesicles, Plasma membrane, Cytosol	Tissue enhanced		cerebral cortex: 90.3;testis: 84.3	Expressed in all		
+EEF2K	Enzymes, Predicted intracellular proteins	Nucleoplasm	Expressed in all			Expressed in all		
+LACTB	Enzymes, Predicted intracellular proteins, Predicted secreted proteins	Mitochondria	Expressed in all			Expressed in all		
+CEP152	Disease related genes, Plasma proteins, Predicted intracellular proteins	Centrosome	Tissue enhanced		testis: 18.1	Expressed in all		
+ATP8B4	Enzymes, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins	Nucleoplasm, Vesicles	Tissue enhanced		bone marrow: 23.0	Cell line enhanced		HMC-1: 32.2;THP-1: 16.5;U-937: 60.0
+CPQ	Enzymes, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	Golgi apparatus, Vesicles	Expressed in all			Cell line enhanced		ASC TERT1: 92.2
+ASF1B	Predicted intracellular proteins	Nucleoplasm	Tissue enhanced		testis: 37.2	Mixed		
+PDCD5	Plasma proteins, Predicted intracellular proteins	Nucleus, Cytosol	Expressed in all			Expressed in all		
+SULT2A1	Enzymes, Predicted intracellular proteins	Cytosol	Tissue enhanced		adrenal gland: 189.9;liver: 514.2	Group enriched	30	Hep G2: 25.8;RT4: 20.3
+FAM83E	Predicted intracellular proteins		Tissue enhanced		duodenum: 30.8;small intestine: 35.3;stomach: 40.7	Cell line enhanced		CAPAN-2: 2.9
+RASIP1	Predicted intracellular proteins		Mixed			Cell line enhanced		HEK 293: 12.7;HUVEC TERT2: 30.5;SiHa: 20.8;TIME: 40.9
+WDR83OS	Predicted membrane proteins	Endoplasmic reticulum	Expressed in all			Expressed in all		
+GCDH	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Mitochondria	Expressed in all			Expressed in all		
+DNASE2	Enzymes, Predicted secreted proteins		Expressed in all			Expressed in all		
+PRPF31	Disease related genes, Predicted intracellular proteins	Nucleus	Expressed in all			Expressed in all		
+ISYNA1	Enzymes, Predicted intracellular proteins	Nucleus, Cytosol	Tissue enhanced		testis: 117.3	Cell line enhanced		BEWO: 475.1
+ELL	Cancer-related genes, Disease related genes, Predicted intracellular proteins		Expressed in all			Expressed in all		
+AVL9	Predicted intracellular proteins, Predicted membrane proteins	Endoplasmic reticulum	Expressed in all			Mixed		
+MTPN	Plasma proteins, Predicted intracellular proteins	Plasma membrane, Cytosol	Expressed in all			Expressed in all		
+VIPR2	G-protein coupled receptors, Predicted membrane proteins, Predicted secreted proteins		Tissue enhanced		seminal vesicle: 28.3	Cell line enhanced		HMC-1: 7.8;MOLT-4: 10.2;U-266/70: 30.8
+PTCD1	Predicted intracellular proteins	Mitochondria	Mixed			Expressed in all		
+CYP3A5	Cancer-related genes, Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Cytosol	Tissue enhanced		duodenum: 114.8;liver: 93.2;small intestine: 187.6	Cell line enhanced		A549: 2.5;CACO-2: 7.9;CAPAN-2: 5.7;Hep G2: 5.0
+TAF6	Disease related genes, Predicted intracellular proteins	Nucleoplasm, Cytosol	Expressed in all			Expressed in all		
+TMEM176B	Predicted membrane proteins	Nucleoplasm, Golgi apparatus, Plasma membrane	Expressed in all			Group enriched	13	HSkMC: 462.2;THP-1: 144.5
+TBC1D13	Predicted intracellular proteins	Nucleoli	Expressed in all			Expressed in all		
+PDLIM1	Plasma proteins, Predicted intracellular proteins	Plasma membrane, Cell Junctions, Actin filaments	Expressed in all			Cell line enhanced		HaCaT: 680.7
+HPS1	Disease related genes, Predicted intracellular proteins		Expressed in all			Mixed		
+CCDC6	Cancer-related genes, Disease related genes, Predicted intracellular proteins	Cytosol	Expressed in all			Expressed in all		
+TBC1D12	Cancer-related genes, Predicted intracellular proteins	Nucleoplasm, Nuclear speckles	Mixed			Mixed		
+CYP2C18	Enzymes, Plasma proteins, Predicted secreted proteins		Group enriched	11	duodenum: 103.1;esophagus: 24.6;gallbladder: 24.5;liver: 97.8;small intestine: 88.1;stomach: 62.2	Cell line enhanced		BEWO: 3.0
+CAMTA2	Predicted intracellular proteins	Nucleus, Actin filaments, Mitochondria	Expressed in all			Mixed		
+ENO3	Candidate cardiovascular disease genes, Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Plasma membrane, Cytosol	Tissue enriched	17	skeletal muscle: 5974.6	Expressed in all		
+RNF167	Enzymes, Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins	Cytosol	Expressed in all			Expressed in all		
+SLC25A11	Plasma proteins, Predicted membrane proteins, Transporters		Expressed in all			Expressed in all		
+C1QBP	Cancer-related genes, Plasma proteins, Predicted intracellular proteins, Transporters	Plasma membrane, Mitochondria	Expressed in all			Expressed in all		
+FTSJ3	Predicted intracellular proteins	Nucleoli	Expressed in all			Expressed in all		
+ALOX12	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Nuclear speckles, Cytosol	Group enriched	8	esophagus: 50.3;skin: 25.9	Group enriched	5	A-431: 22.4;HEL: 36.7
+SLC2A9	Disease related genes, Potential drug targets, Predicted membrane proteins, Transporters		Tissue enhanced		kidney: 30.8;seminal vesicle: 27.2	Cell line enhanced		HBEC3-KT: 34.8;Hep G2: 16.1;hTCEpi: 14.4;THP-1: 13.9;U-937: 10.7
+UFSP2	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Nucleus, Cytosol	Expressed in all			Expressed in all		
+FAM149A	Predicted intracellular proteins	Golgi apparatus	Mixed			Cell line enhanced		ASC diff: 7.6;RT4: 7.7;SCLC-21H: 16.7
+HPS5	Disease related genes, Plasma proteins, Predicted intracellular proteins		Expressed in all			Expressed in all		
+GTF2H1	Cancer-related genes, Predicted intracellular proteins	Nucleoplasm	Expressed in all			Expressed in all		
+PSMD9	Plasma proteins, Predicted intracellular proteins	Plasma membrane, Cytosol	Expressed in all			Expressed in all		
+MLEC	Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins		Expressed in all			Expressed in all		
+SLC6A12	Predicted intracellular proteins, Predicted membrane proteins, Transporters	Vesicles	Tissue enhanced		kidney: 29.5;liver: 43.6	Group enriched	10	Hep G2: 4.9;RPTEC TERT1: 10.5
+ALDH2	Cancer-related genes, Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins		Expressed in all			Cell line enhanced		HHSteC: 81.5;SK-BR-3: 150.4
+STX2	Cancer-related genes, Predicted membrane proteins	Nucleus, Cytosol	Expressed in all			Expressed in all		
+TRIM38	Enzymes, Predicted intracellular proteins	Plasma membrane, Cell Junctions, Centrosome	Mixed			Mixed		
+SLC16A10	Predicted membrane proteins, Transporters	Vesicles, Cell Junctions	Tissue enhanced		placenta: 38.6	Cell line enhanced		HAP1: 53.9;HEK 293: 20.6;RPMI-8226: 30.8
+ZNF346	Predicted intracellular proteins	Nucleus	Expressed in all			Expressed in all		
+NRBP1	Enzymes, Predicted intracellular proteins	Cytosol	Expressed in all			Expressed in all		
+FNDC4	Predicted membrane proteins	Nucleoplasm, Aggresome, Cytosol	Tissue enhanced		adrenal gland: 72.5	Cell line enhanced		AN3-CA: 31.3;HUVEC TERT2: 34.8;SH-SY5Y: 33.9;TIME: 31.2
+SNX17	Predicted intracellular proteins	Vesicles	Expressed in all			Expressed in all		
+PPM1G	Enzymes, Predicted intracellular proteins	Nucleoplasm	Tissue enriched	5	testis: 337.3	Expressed in all		
+DARS	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Cytosol	Expressed in all			Expressed in all		
+SLC1A4	Disease related genes, Plasma proteins, Potential drug targets, Predicted membrane proteins, Transporters	Centrosome	Expressed in all			Expressed in all		
+ALMS1	Predicted intracellular proteins	Cytosol	Tissue enhanced		testis: 32.5	Cell line enhanced		RH-30: 26.7
+DOCK7	Disease related genes, Predicted intracellular proteins		Expressed in all			Mixed		
+CD2	CD markers, FDA approved drug targets, Predicted membrane proteins, Predicted secreted proteins		Tissue enhanced		lymph node: 131.1	Group enriched	27	HDLM-2: 201.2;MOLT-4: 129.2
+ACADM	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Mitochondria	Expressed in all			Expressed in all		
+ERI3	Predicted intracellular proteins	Nucleoplasm, Cytosol	Expressed in all			Expressed in all		
+PRDX1	Enzymes, Plasma proteins, Predicted intracellular proteins	Mitochondria	Expressed in all			Expressed in all		
+PIK3R3	Cancer-related genes, Predicted intracellular proteins, RAS pathway related proteins	Nucleoplasm, Vesicles	Mixed			Expressed in all		
+TSPAN1	Predicted membrane proteins	Nucleoplasm, Vesicles	Tissue enhanced		colon: 525.0;rectum: 651.6	Cell line enhanced		CAPAN-2: 191.2;HaCaT: 134.4;hTCEpi: 125.3;RPTEC TERT1: 474.4;RT4: 246.2
+NSUN4	Predicted intracellular proteins		Tissue enriched	14	testis: 98.9	Expressed in all		
+ZNF430	Predicted intracellular proteins, Transcription factors		Mixed			Mixed		
+VSX2	Disease related genes, Predicted intracellular proteins, Transcription factors		Not detected			Not detected		
+ACOT2	Enzymes, Plasma proteins, Predicted intracellular proteins	Mitochondria	Expressed in all			Mixed		
+IDE	Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins		Expressed in all			Expressed in all		
+PYROXD2	Predicted intracellular proteins	Mitochondria	Mixed			Cell line enhanced		U-937: 24.6
+HELLS	Disease related genes, Predicted intracellular proteins	Nucleus, Golgi apparatus, Vesicles	Tissue enhanced		testis: 23.9	Expressed in all		
+TCTN3	Disease related genes, Predicted membrane proteins, Predicted secreted proteins	Microtubules	Expressed in all			Expressed in all		
+SFRP5	Predicted secreted proteins		Tissue enhanced		duodenum: 30.9;pancreas: 31.2;small intestine: 29.4	Cell line enhanced		A549: 2.3;CACO-2: 10.5;RPMI-8226: 3.2;SCLC-21H: 2.4
+CCDC77	Predicted intracellular proteins	Nuclear membrane	Mixed			Expressed in all		
+ADRA1A	FDA approved drug targets, G-protein coupled receptors, Predicted membrane proteins		Tissue enhanced		adipose tissue: 22.6;liver: 31.6;prostate: 20.8	Not detected		
+CEP89	Cancer-related genes, Disease related genes, Predicted intracellular proteins, Predicted secreted proteins	Plasma membrane, Cytosol	Mixed			Expressed in all		
+ACADS	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Mitochondria	Expressed in all			Cell line enhanced		HMC-1: 30.0
+SLC17A3	Predicted membrane proteins, Transporters		Tissue enriched	9	kidney: 168.7	Cell line enriched	177	RPTEC TERT1: 87.1
+SLC17A1	Predicted membrane proteins, Transporters	Golgi apparatus	Tissue enriched	7	kidney: 174.5	Cell line enriched	490	RPTEC TERT1: 48.9
+EEF1E1	Predicted intracellular proteins, Predicted membrane proteins	Nucleus, Cytosol	Expressed in all			Expressed in all		
+GOT2	Cancer-related genes, Candidate cardiovascular disease genes, Enzymes, Plasma proteins, Predicted secreted proteins, Transporters		Expressed in all			Expressed in all		
+ABCC4	Plasma proteins, Predicted membrane proteins, Transporters		Tissue enhanced		prostate: 70.4	Group enriched	5	HEL: 277.0;HMC-1: 278.6
+IRF1	Cancer-related genes, Disease related genes, Predicted intracellular proteins, Transcription factors	Nucleoplasm, Cytosol	Expressed in all			Expressed in all		
+MBOAT7	Disease related genes, Enzymes, Potential drug targets, Predicted membrane proteins	Cytosol	Expressed in all			Cell line enhanced		HMC-1: 150.7
+ATG4C	Enzymes, Predicted intracellular proteins	Nucleoplasm, Cytosol	Expressed in all			Expressed in all		
+SYMPK	Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Plasma membrane, Cytosol	Expressed in all			Expressed in all		
+KLC1	Predicted intracellular proteins	Nucleoplasm, Plasma membrane, Cytosol	Expressed in all			Expressed in all		
+XRCC3	Cancer-related genes, Disease related genes, Predicted intracellular proteins	Nucleus	Expressed in all			Expressed in all		
+CHTF18	Predicted intracellular proteins	Nucleoplasm, Cytosol	Mixed			Cell line enhanced		BEWO: 46.5
+MACF1	Predicted intracellular proteins, Predicted membrane proteins	Plasma membrane, Cell Junctions, Actin filaments	Expressed in all			Expressed in all		
+ECHS1	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Mitochondria	Expressed in all			Expressed in all		
+ALDH1A2	Enzymes, Predicted intracellular proteins		Tissue enhanced		endometrium: 118.1;fallopian tube: 108.9	Group enriched	6	AN3-CA: 352.0;HEK 293: 116.8;K-562: 305.3;MOLT-4: 330.5
+IVD	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Nucleoplasm, Mitochondria	Expressed in all			Mixed		
+KNSTRN	Disease related genes, Predicted intracellular proteins	Microtubules, Mitotic spindle, Cytosol	Tissue enhanced		testis: 113.9	Expressed in all		
+COPB1	Plasma proteins, Predicted intracellular proteins	Golgi apparatus, Vesicles, Cytosol	Expressed in all			Expressed in all		
+SUMF2	Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	Vesicles, Plasma membrane	Expressed in all			Expressed in all		
+KIF1C	Disease related genes, Plasma proteins, Predicted intracellular proteins		Expressed in all			Expressed in all		
+APOE	Cancer-related genes, Candidate cardiovascular disease genes, Disease related genes, Plasma proteins, Predicted secreted proteins	Vesicles	Expressed in all			Cell line enhanced		ASC diff: 1276.1;Hep G2: 626.6;HSkMC: 991.4;SK-MEL-30: 1417.0
+ARPC1B	Plasma proteins, Predicted intracellular proteins	Vesicles, Cytosol	Expressed in all			Expressed in all		
+SCO2	Disease related genes, Predicted membrane proteins	Mitochondria	Expressed in all			Expressed in all		
+SSBP4	Predicted intracellular proteins		Expressed in all			Expressed in all		
+PGPEP1	Enzymes, Predicted intracellular proteins	Golgi apparatus	Expressed in all			Cell line enhanced		HMC-1: 51.6
+ZNF317	Predicted intracellular proteins, Transcription factors	Nucleoplasm	Expressed in all			Expressed in all		
+F12	Candidate cardiovascular disease genes, Disease related genes, Enzymes, FDA approved drug targets, Plasma proteins, Predicted secreted proteins		Tissue enriched	78	liver: 141.6	Cell line enhanced		HDLM-2: 6.4;MCF7: 6.7;PC-3: 5.8;SH-SY5Y: 4.5
+IDO1	Cancer-related genes, Enzymes, Predicted intracellular proteins		Tissue enhanced		placenta: 149.4	Cell line enriched	7	EFO-21: 54.8
+PDLIM4	Predicted intracellular proteins	Actin filaments, Cytosol	Mixed			Cell line enhanced		hTEC/SVTERT24-B: 117.7
+KIF3A	Predicted intracellular proteins	Nucleoplasm, Intermediate filaments, Cytosol	Tissue enhanced		cerebral cortex: 82.8	Expressed in all		
+RFX1	Predicted intracellular proteins, Transcription factors	Nucleoplasm	Expressed in all			Expressed in all		
+RTBDN	Predicted membrane proteins, Predicted secreted proteins	Endoplasmic reticulum	Group enriched	6	adrenal gland: 4.6;cerebral cortex: 14.6;testis: 3.5	Cell line enhanced		SCLC-21H: 9.8;SH-SY5Y: 5.8;U-266/84: 16.0
+SLC52A1	Disease related genes, Predicted membrane proteins		Group enriched	10	duodenum: 36.1;placenta: 26.1;skin: 13.2;small intestine: 26.3	Cell line enhanced		A549: 2.1;BEWO: 1.9;HMC-1: 4.1;SK-BR-3: 2.0
+PRMT7	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Nucleoplasm, Nucleoli fibrillar center	Expressed in all			Expressed in all		
+MMACHC	Disease related genes, Predicted intracellular proteins	Nucleoplasm, Plasma membrane, Cytosol	Mixed			Expressed in all		
+BHMT2	Cancer-related genes, Enzymes, Predicted intracellular proteins		Group enriched	6	kidney: 362.7;liver: 238.5	Cell line enhanced		Hep G2: 53.5;hTEC/SVTERT24-B: 46.4;U-87 MG: 18.9
+ANGPTL3	Disease related genes, Plasma proteins, Predicted secreted proteins		Tissue enriched	6	liver: 356.4	Not detected		
+AMPD3	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Nuclear membrane	Tissue enhanced		parathyroid gland: 54.4	Cell line enhanced		BJ hTERT+: 35.8
+NUMB	Cancer-related genes, Predicted intracellular proteins	Cell Junctions, Cytosol	Expressed in all			Expressed in all		
+LDHA	Cancer-related genes, Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Vesicles, Cytosol	Expressed in all			Expressed in all		
+NAV1	Predicted intracellular proteins	Microtubules	Mixed			Cell line enhanced		TIME: 153.0
+FADS2	Enzymes, FDA approved drug targets, Predicted intracellular proteins, Predicted membrane proteins		Expressed in all			Expressed in all		
+TMEM258	Predicted membrane proteins	Plasma membrane, Cytosol	Expressed in all			Expressed in all		
+FBXO21	Predicted intracellular proteins	Mitochondria	Expressed in all			Expressed in all		
+NT5E	CD markers, Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins	Nucleoplasm, Plasma membrane, Cytosol	Tissue enhanced		cervix, uterine: 172.7	Cell line enhanced		LHCN-M2: 772.3;U-87 MG: 800.0
+DOCK10	Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Cytosol	Mixed			Cell line enhanced		HDLM-2: 50.8
+DCAF7	Predicted intracellular proteins	Nucleoplasm, Cytosol	Expressed in all			Expressed in all		
+SAP130	Predicted intracellular proteins	Nuclear speckles	Expressed in all			Expressed in all		
+LRRC8A	Disease related genes, Plasma proteins, Potential drug targets, Predicted membrane proteins, Transporters		Expressed in all			Expressed in all		
+TOR1A	Disease related genes, Predicted secreted proteins	Nuclear membrane, Vesicles	Expressed in all			Expressed in all		
+FPGS	Enzymes, Predicted intracellular proteins, Predicted secreted proteins		Expressed in all			Expressed in all		
+GMPR	Enzymes, Plasma proteins, Predicted intracellular proteins		Expressed in all			Cell line enhanced		HEL: 171.8;HMC-1: 275.3
+ADAM10	Cancer-related genes, CD markers, Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted membrane proteins, Predicted secreted proteins, Transporters	Vesicles, Plasma membrane	Expressed in all			Expressed in all		
+PNPT1	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Mitochondria	Expressed in all			Expressed in all		
+SLC5A6	Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins, Transporters	Cell Junctions	Expressed in all			Expressed in all		
+ATRAID	Predicted intracellular proteins, Predicted membrane proteins		Expressed in all			Expressed in all		
+TRIM54	Predicted intracellular proteins		Tissue enhanced		heart muscle: 63.9;skeletal muscle: 181.1	Group enriched	13	HAP1: 7.4;NTERA-2: 15.3
+CYP2C9	Enzymes, Predicted secreted proteins		Tissue enriched	7	liver: 963.1	Not detected		
+CYP2C8	Enzymes, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins		Tissue enriched	154	liver: 1124.1	Not detected		
+ENTPD1	CD markers, Disease related genes, Enzymes, Potential drug targets, Predicted membrane proteins	Microtubules	Mixed			Group enriched	7	HDLM-2: 179.7;Karpas-707: 112.9
+DNAJC13	Predicted membrane proteins	Vesicles, Cytosol	Expressed in all			Expressed in all		
+APH1B	Predicted membrane proteins		Tissue enhanced		testis: 153.4	Mixed		
+HERC6	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Nucleus, Cytosol	Expressed in all			Group enriched	5	BJ hTERT+ SV40 Large T+: 108.0;BJ hTERT+ SV40 Large T+ RasG12V: 83.5
+FGD4	Disease related genes, Predicted intracellular proteins	Actin filaments	Expressed in all			Mixed		
+TDG	Enzymes, Predicted intracellular proteins	Nucleoplasm	Expressed in all			Expressed in all		
+SLC27A2	Enzymes, Predicted membrane proteins, Transporters		Group enriched	5	epididymis: 80.1;kidney: 162.3;liver: 145.5	Cell line enhanced		HaCaT: 78.4;HL-60: 52.3;SCLC-21H: 47.4
+BAHD1	Predicted intracellular proteins	Nucleoplasm	Expressed in all			Expressed in all		
+DISP2	Predicted membrane proteins	Nucleoplasm, Vesicles	Tissue enhanced		cerebral cortex: 7.4	Group enriched	5	HaCaT: 5.9;SCLC-21H: 15.8
+SCAPER	Predicted intracellular proteins	Nucleus, Cytosol	Expressed in all			Expressed in all		
+TPM1	Cancer-related genes, Candidate cardiovascular disease genes, Disease related genes, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins	Actin filaments, Cytosol	Expressed in all			Expressed in all		
+NKD1	Predicted intracellular proteins	Nucleoli fibrillar center	Mixed			Group enriched	6	AF22: 6.2;CACO-2: 11.1;Hep G2: 24.6
+NLRC5	Predicted intracellular proteins	Centrosome	Mixed			Cell line enhanced		HEL: 84.3
+SLC16A3	Predicted membrane proteins, Transporters	Nuclear membrane, Plasma membrane	Expressed in all			Mixed		
+NTN5	Predicted intracellular proteins, Predicted secreted proteins		Mixed			Not detected		
+RERE	Disease related genes, Predicted intracellular proteins, Transcription factors		Expressed in all			Expressed in all		
+NBPF3	Predicted intracellular proteins		Tissue enriched	6	testis: 20.4	Cell line enhanced		BJ hTERT+: 12.6
+MOB3C	Predicted intracellular proteins	Intermediate filaments, Cytosol	Expressed in all			Mixed		
+CYP4B1	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Vesicles	Tissue enhanced		lung: 382.2	Cell line enriched	9	RT4: 234.9
+ZNF697	Predicted intracellular proteins, Transcription factors	Nucleoplasm	Mixed			Cell line enhanced		SK-MEL-30: 35.9;WM-115: 45.9
+STRIP1	Predicted intracellular proteins	Cytosol	Expressed in all			Expressed in all		
+VPS54	Predicted intracellular proteins	Nucleoplasm, Golgi apparatus	Expressed in all			Expressed in all		
+TPRKB	Predicted intracellular proteins	Cytosol	Expressed in all			Expressed in all		
+NAT8	Enzymes, Predicted membrane proteins	Endoplasmic reticulum	Tissue enriched	18	kidney: 891.8	Cell line enriched	12	Hep G2: 8.7
+UBXN4	Predicted intracellular proteins, Predicted membrane proteins	Endoplasmic reticulum	Expressed in all			Expressed in all		
+KANSL1L	Predicted intracellular proteins, Predicted membrane proteins	Cytosol	Tissue enriched	13	parathyroid gland: 585.1	Expressed in all		
+GADL1	Enzymes, Predicted intracellular proteins	Plasma membrane, Cytosol	Tissue enhanced		skeletal muscle: 9.0	Cell line enhanced		HAP1: 5.0
+LIMD1	Plasma proteins, Predicted intracellular proteins	Nucleus, Focal adhesion sites	Expressed in all			Expressed in all		
+LPP	Cancer-related genes, Disease related genes, Plasma proteins, Predicted intracellular proteins	Focal adhesion sites, Cytosol	Expressed in all			Cell line enhanced		EFO-21: 109.0;U-698: 138.0
+TM4SF19	Predicted intracellular proteins, Predicted membrane proteins, Transporters		Tissue enhanced		testis: 9.0	Cell line enhanced		hTEC/SVTERT24-B: 18.9;hTERT-HME1: 24.3;PC-3: 34.0;U-138 MG: 18.7;U-87 MG: 19.9
+MUC4	Predicted membrane proteins		Tissue enhanced		colon: 1.0	Not detected		
+SNCA	Disease related genes, Plasma proteins, Potential drug targets, Predicted intracellular proteins, Transporters		Group enriched	5	bone marrow: 160.8;cerebral cortex: 459.2	Cell line enhanced		HEL: 198.4;HUVEC TERT2: 218.9;SK-MEL-30: 203.3;TIME: 246.6
+CYP4V2	Disease related genes, Enzymes, Potential drug targets, Predicted membrane proteins	Nuclear speckles	Tissue enhanced		parathyroid gland: 65.1	Cell line enhanced		SK-MEL-30: 19.3
+BHMT	Enzymes, Plasma proteins, Predicted intracellular proteins	Cytosol	Group enriched	225	kidney: 788.8;liver: 563.6	Cell line enhanced		Hep G2: 2.4;NTERA-2: 1.4;SCLC-21H: 1.1
+FAM217A	Predicted intracellular proteins		Tissue enriched	33	testis: 22.8	Not detected		
+PNRC1	Predicted intracellular proteins	Nucleus, Nucleoli	Expressed in all			Expressed in all		
+PM20D2	Enzymes, Predicted intracellular proteins	Nucleoplasm	Expressed in all			Mixed		
+GBAS	Predicted intracellular proteins	Mitochondria	Expressed in all			Expressed in all		
+CCT6A	Plasma proteins, Predicted intracellular proteins	Cytosol	Expressed in all			Expressed in all		
+TRIM4	Enzymes, Predicted intracellular proteins	Plasma membrane, Cytosol	Expressed in all			Mixed		
+ADHFE1	Enzymes, Predicted intracellular proteins	Vesicles	Mixed			Cell line enhanced		ASC diff: 1.1;RPTEC TERT1: 1.2
+SH3GLB2	Predicted intracellular proteins	Nucleoplasm, Cytosol	Expressed in all			Expressed in all		
+SEC16A	Predicted intracellular proteins, Predicted secreted proteins	Endoplasmic reticulum, Golgi apparatus	Expressed in all			Expressed in all		
+RSU1	Plasma proteins, Predicted intracellular proteins	Vesicles	Expressed in all			Expressed in all		
+FUOM	Enzymes, Predicted intracellular proteins		Tissue enhanced		liver: 74.9	Mixed		
+PAOX	Enzymes, Predicted intracellular proteins	Nucleoplasm, Centrosome	Tissue enhanced		testis: 7.6	Cell line enhanced		A-431: 5.2;U-266/70: 12.5
+PDCD11	Plasma proteins, Predicted intracellular proteins	Nucleoli, Vesicles	Expressed in all			Expressed in all		
+CAPN5	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins		Mixed			Mixed		
+FADS1	FDA approved drug targets, Predicted intracellular proteins, Predicted membrane proteins		Expressed in all			Expressed in all		
+INCENP	Predicted intracellular proteins	Nucleus, Nuclear bodies, Midbody	Mixed			Expressed in all		
+GPR158	G-protein coupled receptors, Predicted membrane proteins	Cytosol	Tissue enriched	17	cerebral cortex: 17.9	Cell line enhanced		HEL: 18.7;T-47d: 5.2
+CACNA1C	Disease related genes, FDA approved drug targets, Predicted intracellular proteins, Predicted membrane proteins, Transporters, Voltage-gated ion channels		Tissue enhanced		smooth muscle: 30.9	Cell line enriched	17	HDLM-2: 188.9
+TDO2	Enzymes, Predicted intracellular proteins	Plasma membrane, Cytosol	Tissue enriched	18	liver: 278.3	Group enriched	5	EFO-21: 7.3;HDLM-2: 14.7;U-87 MG: 8.6
+CACUL1	Predicted intracellular proteins	Nucleoplasm	Expressed in all			Expressed in all		
+ASTN1	Plasma proteins, Predicted membrane proteins, Transporters	Golgi apparatus, Vesicles	Group enriched	6	adrenal gland: 19.6;cerebral cortex: 66.8	Cell line enhanced		Karpas-707: 4.1;NTERA-2: 4.4;SCLC-21H: 3.2;U-2 OS: 3.6;U-266/84: 14.7
+TMEM163	Predicted membrane proteins, Transporters		Mixed			Cell line enhanced		HEL: 18.1;RPTEC TERT1: 50.5;SCLC-21H: 35.5
+SLC30A6	Predicted membrane proteins, Transporters	Golgi apparatus	Expressed in all			Expressed in all		
+GRM1	Disease related genes, G-protein coupled receptors, Plasma proteins, Potential drug targets, Predicted membrane proteins, Transporters	Vesicles	Group enriched	5	cerebral cortex: 7.0;heart muscle: 1.7	Not detected		
+DAB2	Plasma proteins, Predicted intracellular proteins	Nucleoli fibrillar center, Vesicles, Plasma membrane	Expressed in all			Cell line enhanced		fHDF/TERT166: 273.0;U-138 MG: 234.0
+SYCP2L	Predicted intracellular proteins	Nucleoplasm	Tissue enriched	20	parathyroid gland: 122.5	Cell line enhanced		HL-60: 10.7;HMC-1: 35.1;K-562: 9.5;NB-4: 9.1
+CD8A	CD markers, Disease related genes, Predicted membrane proteins, Predicted secreted proteins		Tissue enhanced		spleen: 161.9	Cell line enriched	5	MOLT-4: 11.7
+CMIP	Predicted intracellular proteins	Nucleoplasm, Cytosol	Expressed in all			Expressed in all		
+ANKH	Disease related genes, Potential drug targets, Predicted membrane proteins, Transporters	Cytosol	Expressed in all			Mixed		
+TNIK	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Nucleoplasm, Cytosol	Mixed			Cell line enhanced		HEL: 58.9;HMC-1: 63.1;WM-115: 53.8
+FAM69A	Predicted intracellular proteins, Predicted membrane proteins	Nucleus, Cytosol	Mixed			Mixed		
+SRSF12	Predicted intracellular proteins		Group enriched	6	cerebral cortex: 6.9;testis: 20.9	Cell line enhanced		AF22: 9.1;AN3-CA: 8.8;HAP1: 7.7;HEK 293: 7.0;REH: 6.9;SCLC-21H: 9.5;SH-SY5Y: 8.4
+TDRD9	Enzymes, Predicted intracellular proteins		Group enriched	6	parathyroid gland: 39.7;testis: 75.0	Cell line enhanced		HDLM-2: 22.6;HeLa: 13.9;HMC-1: 82.8;RPTEC TERT1: 19.5
+HK1	Cancer-related genes, Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Mitochondria	Expressed in all			Cell line enhanced		K-562: 491.8
+NTAN1	Predicted intracellular proteins	Nucleoplasm, Golgi apparatus	Expressed in all			Expressed in all		
+CPT2	Disease related genes, Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Nucleoli, Mitochondria	Expressed in all			Expressed in all		
+SPPL3	Enzymes, Predicted membrane proteins	Vesicles, Plasma membrane	Expressed in all			Mixed		
+C12orf43	Predicted intracellular proteins	Nucleoli, Golgi apparatus	Expressed in all			Expressed in all		
+AGAP1	Plasma proteins, Predicted intracellular proteins		Expressed in all			Cell line enhanced		SCLC-21H: 93.8
+KRTCAP3	Predicted intracellular proteins, Predicted membrane proteins	Nucleus, Cytosol	Mixed			Cell line enhanced		A-431: 53.9;CAPAN-2: 60.3;SCLC-21H: 37.2
+WDR66	Predicted intracellular proteins	Plasma membrane, Cytosol	Tissue enhanced		fallopian tube: 32.6;testis: 30.7	Cell line enhanced		HBEC3-KT: 22.5;hTCEpi: 21.0;hTERT-HME1: 15.0
+XDH	Disease related genes, Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins	Nucleus	Tissue enhanced		breast: 48.3;duodenum: 45.6;liver: 35.9;small intestine: 54.6	Cell line enhanced		HBEC3-KT: 14.4;hTERT-HME1: 23.9
+SLC5A11	Predicted membrane proteins	Nucleus, Cytosol	Group enriched	5	cerebral cortex: 10.5;duodenum: 6.6;kidney: 6.1;small intestine: 15.2	Cell line enhanced		BEWO: 1.7;Hep G2: 11.2;Karpas-707: 3.2
+TOMM40L	Predicted intracellular proteins		Mixed			Expressed in all		
+RAPGEF6	Predicted intracellular proteins	Centrosome, Cytosol	Mixed			Expressed in all		
+THEM4	Enzymes, Predicted intracellular proteins		Expressed in all			Mixed		
+TMEM69	Predicted membrane proteins	Nucleoplasm	Expressed in all			Expressed in all		
+ACE	Candidate cardiovascular disease genes, CD markers, Disease related genes, Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins	Vesicles	Tissue enhanced		duodenum: 178.9;small intestine: 291.6	Cell line enhanced		ASC TERT1: 44.4;HUVEC TERT2: 28.2
+EFCAB14	Predicted membrane proteins	Nucleoli, Golgi apparatus, Cytosol	Expressed in all			Expressed in all		
+PKNOX1	Predicted intracellular proteins, Transcription factors	Nucleoplasm	Mixed			Expressed in all		
+CBS	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Nucleoli, Vesicles	Tissue enhanced		liver: 56.6;ovary: 31.1	Cell line enhanced		HAP1: 171.2;HHSteC: 181.6
+PKN3	Enzymes, Predicted intracellular proteins	Vesicles	Mixed			Cell line enhanced		HeLa: 45.8
+CYP3A7	Enzymes, Predicted membrane proteins	Cytosol	Tissue enriched	15	liver: 143.3	Cell line enhanced		Hep G2: 1.6;HHSteC: 1.0
+CPSF4	Plasma proteins, Predicted intracellular proteins	Nucleoplasm	Expressed in all			Expressed in all		
+PCYT1A	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Nucleus	Expressed in all			Expressed in all		
+SYCE2	Predicted intracellular proteins	Nucleus	Tissue enriched	15	testis: 38.9	Cell line enhanced		EFO-21: 11.1;SiHa: 12.6
+MEIOB	Predicted intracellular proteins	Nucleus, Nucleoli	Tissue enriched	61	testis: 71.4	Group enriched	5	HMC-1: 24.7;K-562: 85.3;THP-1: 55.0
+C1orf123	Predicted intracellular proteins	Cytosol	Expressed in all			Expressed in all		
+ALPL	Cancer-related genes, Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins	Cytosol	Tissue enhanced		lung: 78.8	Group enriched	8	HAP1: 31.9;HSkMC: 126.3;hTEC/SVTERT24-B: 139.0;LHCN-M2: 85.3;NTERA-2: 40.7;SCLC-21H: 103.8
+USP1	Enzymes, Plasma proteins, Predicted intracellular proteins	Nucleoplasm	Expressed in all			Expressed in all		
+SNED1	Predicted intracellular proteins, Predicted secreted proteins		Mixed			Cell line enhanced		ASC TERT1: 290.9;HSkMC: 154.1
+S100A11	Plasma proteins, Predicted intracellular proteins		Expressed in all			Expressed in all		
+PPM1K	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Mitochondria	Expressed in all			Mixed		
+ZNF513	Disease related genes, Predicted intracellular proteins, Transcription factors		Expressed in all			Expressed in all		
+RPL39L	Predicted intracellular proteins, Ribosomal proteins		Tissue enriched	15	testis: 220.3	Mixed		
+TKT	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Nucleoplasm	Expressed in all			Expressed in all		
+PRKCD	Cancer-related genes, Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Endoplasmic reticulum, Golgi apparatus, Cytosol	Mixed			Expressed in all		
+SLBP	Predicted intracellular proteins	Nucleus, Nucleoli, Cytosol	Expressed in all			Expressed in all		
+ZDHHC19	Enzymes, Predicted membrane proteins		Tissue enriched	44	testis: 29.2	Not detected		
+SLC51A	Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins, Transporters		Tissue enhanced		duodenum: 29.3;liver: 35.1;small intestine: 71.3	Cell line enhanced		REH: 3.4
+RANBP3L	Predicted intracellular proteins	Nucleoplasm	Tissue enhanced		cerebral cortex: 31.0;kidney: 28.7;prostate: 23.0	Cell line enhanced		ASC diff: 8.5;HSkMC: 1.8;T-47d: 2.0
+ACSL6	Cancer-related genes, Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins, Predicted membrane proteins		Group enriched	6	bone marrow: 18.0;cerebral cortex: 61.9;parathyroid gland: 22.5;seminal vesicle: 29.0;testis: 51.4	Group enriched	6	SCLC-21H: 13.0;U-937: 5.2
+OXR1	Predicted intracellular proteins	Vesicles	Expressed in all			Expressed in all		
+SLC4A2	Predicted intracellular proteins, Predicted membrane proteins, Transporters	Nuclear speckles, Plasma membrane, Cytosol	Expressed in all			Expressed in all		
+SLC16A9	Predicted membrane proteins, Transporters	Nucleus, Cell Junctions	Tissue enhanced		adrenal gland: 198.5;kidney: 201.0	Cell line enhanced		HAP1: 11.1;NTERA-2: 20.0;U-937: 14.6
+CYP2C19	Cancer-related genes, Enzymes, Plasma proteins, Predicted secreted proteins		Tissue enhanced		duodenum: 48.3;liver: 125.6	Not detected		
+LIPC	Disease related genes, Enzymes, Potential drug targets, Predicted secreted proteins		Tissue enriched	14	liver: 86.4	Cell line enhanced		CACO-2: 6.9;EFO-21: 5.7;Hep G2: 16.4;HMC-1: 6.0;U-2197: 17.2
+RAB8B	Predicted intracellular proteins	Nucleoplasm, Vesicles	Expressed in all			Expressed in all		
+SGPL1	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Endoplasmic reticulum	Expressed in all			Expressed in all		
+ACSM1	Enzymes, Predicted intracellular proteins, Predicted membrane proteins		Tissue enriched	49	breast: 298.7	Group enriched	11	K-562: 3.2;NTERA-2: 15.6
+PEX11A	Predicted intracellular proteins, Predicted membrane proteins, Transporters		Mixed			Cell line enhanced		SK-BR-3: 40.6
+ANPEP	CD markers, Enzymes, Plasma proteins, Predicted membrane proteins	Plasma membrane	Group enriched	9	duodenum: 2386.4;small intestine: 2133.7	Cell line enhanced		BJ hTERT+: 958.3;HUVEC TERT2: 770.8;TIME: 760.6;U-2197: 926.0
+CNPY4	Predicted intracellular proteins, Predicted secreted proteins	Vesicles	Mixed			Expressed in all		
+DOLPP1	Enzymes, Predicted membrane proteins	Vesicles, Intermediate filaments	Expressed in all			Expressed in all		
+ENDOG	Plasma proteins, Predicted secreted proteins		Expressed in all			Expressed in all		
+UGT1A6	Enzymes, Predicted intracellular proteins, Predicted membrane proteins		Group enriched	6	kidney: 75.4;liver: 72.4;urinary bladder: 107.9	Cell line enhanced		CACO-2: 44.4;EFO-21: 75.2;HaCaT: 258.5;RT4: 119.0
+TMC4	Predicted membrane proteins		Tissue enhanced		duodenum: 30.8	Cell line enriched	7	T-47d: 27.9
+PRDX2	Cancer-related genes, Enzymes, Plasma proteins, Predicted intracellular proteins		Expressed in all			Mixed		
+TEKT1	Predicted intracellular proteins		Group enriched	7	fallopian tube: 79.5;testis: 16.7	Not detected		
+DDB1	Plasma proteins, Predicted intracellular proteins	Nucleoplasm	Expressed in all			Expressed in all		
+C8orf22	Predicted intracellular proteins		Tissue enriched	79	skeletal muscle: 362.1	Cell line enriched	13	HEL: 1.3
+C8orf46	Predicted intracellular proteins	Nuclear speckles	Tissue enriched	14	cerebral cortex: 65.1	Cell line enhanced		LHCN-M2: 1.8;SK-MEL-30: 1.9;T-47d: 2.8;WM-115: 2.9
+LMAN2	Predicted intracellular proteins, Predicted membrane proteins, Predicted secreted proteins		Expressed in all			Expressed in all		
+RAB24	Predicted intracellular proteins	Focal adhesion sites	Expressed in all			Expressed in all		
+PRELID1	Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Mitochondria	Expressed in all			Expressed in all		
+GPRIN1	Predicted intracellular proteins	Vesicles, Plasma membrane	Tissue enriched	7	cerebral cortex: 27.8	Cell line enhanced		HDLM-2: 52.6;SCLC-21H: 70.4
+PDILT	Predicted secreted proteins		Tissue enriched	5	testis: 31.2	Group enriched	6	HBEC3-KT: 9.1;hTCEpi: 7.4;hTERT-HME1: 2.4
+LRRC45	Predicted intracellular proteins	Nucleoplasm, Plasma membrane, Centrosome, Cytosol	Mixed			Mixed		
+ASPSCR1	Cancer-related genes, Disease related genes, Predicted intracellular proteins	Nucleoplasm, Vesicles, Plasma membrane	Expressed in all			Expressed in all		
+FASN	Cancer-related genes, Enzymes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins	Plasma membrane, Cytosol	Expressed in all			Expressed in all		
+DUS1L	Predicted intracellular proteins	Plasma membrane	Expressed in all			Expressed in all		
+GPS1	Plasma proteins, Predicted intracellular proteins		Expressed in all			Expressed in all		
+DCXR	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Nucleoli, Microtubules	Group enriched	6	epididymis: 297.5;kidney: 217.3;liver: 640.9;prostate: 137.5	Expressed in all		
+RAC3	Predicted intracellular proteins, RAS pathway related proteins		Mixed			Expressed in all		
+NRG4	Predicted membrane proteins		Tissue enhanced		fallopian tube: 1.0;testis: 1.3	Cell line enhanced		HeLa: 2.9;HL-60: 1.3;SiHa: 1.2;U-937: 2.1
+PPID	Enzymes, Plasma proteins, Predicted intracellular proteins	Nucleus, Nucleoli, Cytosol	Expressed in all			Expressed in all		
+ETFDH	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins, Predicted membrane proteins		Expressed in all			Expressed in all		
+PAH	Disease related genes, Enzymes, FDA approved drug targets, Predicted intracellular proteins	Endoplasmic reticulum, Vesicles	Tissue enhanced		kidney: 504.6;liver: 722.4	Cell line enriched	26	Hep G2: 161.3
+BCL2	Cancer-related genes, Disease related genes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins	Nucleoplasm, Nuclear membrane	Tissue enhanced		thyroid gland: 69.3	Cell line enhanced		Karpas-707: 59.5;U-266/70: 217.8
+CERS6	Predicted membrane proteins	Nucleus	Expressed in all			Mixed		
+SPTLC3	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Microtubules	Mixed			Cell line enhanced		RPTEC TERT1: 33.2;U-87 MG: 56.0
+SUCLG2	Citric acid cycle related proteins, Enzymes, Plasma proteins, Predicted intracellular proteins	Plasma membrane, Mitochondria	Expressed in all			Expressed in all		
+C2orf54	Predicted intracellular proteins	Nucleoplasm, Golgi apparatus	Tissue enhanced		esophagus: 112.1;skin: 51.5	Group enriched	7	CACO-2: 49.6;HaCaT: 39.3;SK-BR-3: 116.4
+AGXT	Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted intracellular proteins	Vesicles	Tissue enriched	58	liver: 611.6	Cell line enhanced		Hep G2: 5.6;SK-BR-3: 1.1
+CES4A	Predicted intracellular proteins, Predicted secreted proteins	Cytosol	Group enriched	7	fallopian tube: 28.9;skin: 9.2	Cell line enhanced		HDLM-2: 17.6;SiHa: 4.2
+NOC3L	Predicted intracellular proteins	Nucleus, Nucleoli	Expressed in all			Expressed in all		
+TDRD12	Enzymes, Predicted intracellular proteins		Group enriched	8	epididymis: 10.9;testis: 33.5	Group enriched	34	HDLM-2: 23.6;NTERA-2: 93.5
+KCNH6	Predicted membrane proteins, Voltage-gated ion channels		Tissue enhanced		kidney: 6.1;prostate: 5.4;small intestine: 5.5	Group enriched	6	SCLC-21H: 4.0;SH-SY5Y: 1.4
+PTDSS2	Enzymes, Predicted membrane proteins		Expressed in all			Expressed in all		
+PHYHD1	Predicted intracellular proteins	Nuclear speckles	Expressed in all			Cell line enhanced		ASC diff: 31.7;BEWO: 49.9;RPTEC TERT1: 59.0
+LRRC25	Predicted membrane proteins		Tissue enhanced		appendix: 30.4;spleen: 40.6	Cell line enhanced		HMC-1: 1.6;THP-1: 1.2;U-937: 1.1
+UNC119B	Predicted intracellular proteins		Expressed in all			Expressed in all		
+CCDC57	Predicted intracellular proteins	Microtubules, Microtubule organizing center, Cytosol	Expressed in all			Mixed		
+SPRYD4	Predicted intracellular proteins	Nucleoplasm	Mixed			Mixed		
+MAP3K19	Enzymes, Predicted intracellular proteins	Cytosol	Group enriched	8	fallopian tube: 28.5;testis: 7.8	Not detected		
+BASP1	Plasma proteins, Predicted intracellular proteins, Transporters	Plasma membrane	Tissue enhanced		cerebral cortex: 419.0;epididymis: 369.1	Cell line enhanced		HeLa: 555.7;SiHa: 845.8
+MAMSTR	Predicted intracellular proteins	Nuclear speckles	Tissue enhanced		adrenal gland: 21.4;skeletal muscle: 31.4	Cell line enhanced		RH-30: 16.1
+FUT2	Blood group antigen proteins, Enzymes, Predicted membrane proteins	Plasma membrane, Cytosol	Tissue enhanced		duodenum: 51.4	Cell line enriched	6	CAPAN-2: 68.6
+FBXO39	Predicted intracellular proteins		Tissue enriched	62	testis: 53.5	Not detected		
+ODF3B	Predicted intracellular proteins		Tissue enhanced		fallopian tube: 75.0	Cell line enhanced		Karpas-707: 29.6;U-266/70: 44.1
+PLEC	Cancer-related genes, Disease related genes, Plasma proteins, Predicted intracellular proteins	Intermediate filaments, Focal adhesion sites, Cytosol	Expressed in all			Expressed in all		
+ZNF713	Disease related genes, Predicted intracellular proteins, Transcription factors	Nucleoli	Mixed			Cell line enhanced		SH-SY5Y: 7.3
+PARP10	Enzymes, Predicted intracellular proteins	Nucleoli, Cytosol	Expressed in all			Mixed		
+OPLAH	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Nucleoli fibrillar center	Tissue enhanced		testis: 58.2	Cell line enhanced		AN3-CA: 31.2;BEWO: 20.2;PC-3: 24.2
+EXOSC4	Plasma proteins, Predicted intracellular proteins	Intermediate filaments, Cytosol	Expressed in all			Expressed in all		
+FARSA	Enzymes, Predicted intracellular proteins	Cytosol	Expressed in all			Expressed in all		
+CALR	Cancer-related genes, Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins		Expressed in all			Expressed in all		
+HLA-DQB1	Predicted membrane proteins, Predicted secreted proteins	Golgi apparatus, Rods & Rings	Tissue enhanced		lymph node: 287.3	Cell line enriched	8	HDLM-2: 555.8
+SHARPIN	Predicted intracellular proteins	Nucleus, Cytosol	Expressed in all			Expressed in all		
+ZFPM1	Plasma proteins, Predicted intracellular proteins, Transcription factors	Nucleoplasm, Cytosol	Mixed			Cell line enhanced		K-562: 26.0
+MAF1	Predicted intracellular proteins	Nucleus, Nucleoli, Vesicles	Expressed in all			Expressed in all		
+MRGPRX3	G-protein coupled receptors, Predicted membrane proteins		Tissue enhanced		salivary gland: 1.3	Cell line enriched	7	HBEC3-KT: 10.4
+PDXDC1	Predicted intracellular proteins	Golgi apparatus, Vesicles	Expressed in all			Expressed in all		
+FAHD1	Enzymes, Predicted intracellular proteins	Nucleus, Mitochondria	Expressed in all			Expressed in all		
+PAK2	Enzymes, Plasma proteins, Predicted intracellular proteins, RAS pathway related proteins	Nucleus, Vesicles	Expressed in all			Expressed in all		
+RNF182	Enzymes, Predicted intracellular proteins, Predicted membrane proteins	Nucleus, Golgi apparatus, Vesicles	Tissue enhanced		cerebral cortex: 14.6	Cell line enhanced		HeLa: 57.3;RPTEC TERT1: 51.0
+ATG9B	Predicted membrane proteins		Tissue enhanced		esophagus: 9.2;placenta: 5.8;skin: 13.5	Cell line enhanced		BEWO: 12.5;CAPAN-2: 3.7
+ACSM5	Enzymes, Predicted intracellular proteins		Tissue enriched	5	liver: 142.6	Group enriched	5	ASC diff: 3.6;ASC TERT1: 8.0;HSkMC: 10.0;U-87 MG: 8.4
+ACOT1	Enzymes, Predicted intracellular proteins	Mitochondria	Mixed			Cell line enhanced		T-47d: 35.8
+IMMP2L	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins, Predicted membrane proteins	Mitochondria	Expressed in all			Expressed in all		
+ZFP90	Predicted intracellular proteins, Transcription factors	Vesicles, Plasma membrane, Centrosome	Mixed			Mixed		
+RPS27L	Predicted intracellular proteins, Predicted secreted proteins, Ribosomal proteins	Nucleoli, Endoplasmic reticulum, Cytosol	Expressed in all			Expressed in all		
+GP1BA	CD markers, Disease related genes, Plasma proteins, Predicted membrane proteins		Tissue enhanced		lymph node: 17.3	Cell line enriched	23	HEL: 64.4
+C6orf201	Predicted intracellular proteins		Tissue enriched	23	testis: 30.1	Not detected		
+MYBL1	Plasma proteins, Predicted intracellular proteins, Transcription factors		Tissue enhanced		lymph node: 24.2;testis: 21.4	Cell line enhanced		BJ hTERT+ SV40 Large T+: 76.9;HBF TERT88: 109.4
+C16orf52	Predicted membrane proteins		Mixed			Expressed in all		
+ANKFY1	Plasma proteins, Predicted intracellular proteins	Endosomes	Expressed in all			Expressed in all		
+KCNQ5	Predicted intracellular proteins, Predicted membrane proteins, Voltage-gated ion channels	Vesicles	Tissue enhanced		cerebral cortex: 22.3	Cell line enhanced		BJ: 29.6
+DNAH14	Predicted intracellular proteins, Predicted secreted proteins	Centrosome	Tissue enhanced		testis: 21.9	Mixed		
+MYT1L	Disease related genes, Predicted intracellular proteins, Transcription factors	Vesicles	Tissue enriched	11	cerebral cortex: 60.0	Group enriched	12	SCLC-21H: 7.8;SH-SY5Y: 5.2
+CYP4A11	Enzymes, Predicted membrane proteins		Group enriched	183	kidney: 232.3;liver: 448.3	Not detected		
+HEATR4	Predicted intracellular proteins		Group enriched	7	skin: 4.4;testis: 21.6	Cell line enhanced		SCLC-21H: 2.9
+BCAM	Blood group antigen proteins, CD markers, Plasma proteins, Predicted membrane proteins, Predicted secreted proteins	Nucleoli fibrillar center	Expressed in all			Cell line enhanced		HaCaT: 278.4;SK-BR-3: 217.2;T-47d: 152.4
+MAGI2	Predicted intracellular proteins		Tissue enhanced		cerebral cortex: 46.2;parathyroid gland: 38.6	Group enriched	5	AF22: 19.3;Karpas-707: 58.7
+NRN1L	Predicted intracellular proteins, Predicted secreted proteins		Mixed			Cell line enriched	5	BEWO: 31.0
+IDO2	Predicted intracellular proteins		Group enriched	8	liver: 2.7;placenta: 5.9	Not detected		
+PARVB	Cancer-related genes, Plasma proteins, Predicted membrane proteins, Predicted secreted proteins	Cytosol	Expressed in all			Mixed		
+MSANTD1	Predicted intracellular proteins		Group enriched	7	cerebral cortex: 1.9;testis: 2.4	Not detected		
+FAM53B	Predicted intracellular proteins	Cytosol	Mixed			Expressed in all		
+BLOC1S2	Predicted intracellular proteins		Expressed in all			Expressed in all		
+AKR1C3	Enzymes, Plasma proteins, Predicted intracellular proteins	Nucleus, Nucleoli fibrillar center, Endoplasmic reticulum, Cytosol	Expressed in all			Cell line enhanced		A549: 1217.9;AN3-CA: 359.6;ASC diff: 507.5;Hep G2: 391.2;RT4: 424.5
+RYR1	Disease related genes, FDA approved drug targets, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins, Transporters	Golgi apparatus, Vesicles, Cytosol	Tissue enriched	31	skeletal muscle: 572.4	Cell line enhanced		HaCaT: 16.8;RH-30: 14.8;SiHa: 32.7;U-2 OS: 13.2
+SUPT3H	Predicted intracellular proteins	Nucleoplasm	Mixed			Mixed		
+INCA1	Predicted intracellular proteins	Nucleoplasm, Nuclear bodies	Tissue enhanced		testis: 54.0	Mixed		
+ZKSCAN5	Predicted intracellular proteins, Transcription factors	Intermediate filaments	Mixed			Expressed in all		
+ANXA4	Cancer-related genes, Predicted intracellular proteins	Cytosol	Expressed in all			Cell line enhanced		EFO-21: 386.6;RPTEC TERT1: 457.3
+SLC22A4	Disease related genes, Predicted membrane proteins	Mitochondria	Tissue enhanced		fallopian tube: 18.4	Cell line enhanced		BJ hTERT+: 48.5;U-138 MG: 24.5
+SLC22A5	Disease related genes, Potential drug targets, Predicted membrane proteins, Transporters	Mitochondria	Mixed			Cell line enhanced		SiHa: 40.6
+MYO5A	Cancer-related genes, Disease related genes, Plasma proteins, Predicted intracellular proteins	Focal adhesion sites, Microtubule organizing center	Expressed in all			Cell line enhanced		Karpas-707: 145.4
+SIPA1L1	Predicted intracellular proteins	Plasma membrane, Actin filaments	Expressed in all			Mixed		
+RPE	Enzymes, Predicted intracellular proteins		Expressed in all			Expressed in all		
+S100A10	Predicted membrane proteins, Transporters	Mitochondria	Expressed in all			Mixed		
+EME2	Predicted intracellular proteins		Mixed			Cell line enhanced		HEK 293: 8.1;SCLC-21H: 4.3
+GPAA1	Predicted intracellular proteins, Predicted membrane proteins		Expressed in all			Expressed in all		
+MAN1A2	Enzymes, Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins	Golgi apparatus	Expressed in all			Expressed in all		
+ECI2	Enzymes, Predicted intracellular proteins	Peroxisomes	Expressed in all			Expressed in all		
+NOTCH4	Predicted membrane proteins		Tissue enhanced		lung: 12.1	Not detected		
+PRRT1	Predicted intracellular proteins, Predicted membrane proteins		Tissue enriched	8	cerebral cortex: 4.5	Cell line enhanced		SK-MEL-30: 1.1
+STK19	Cancer-related genes, Enzymes, Predicted intracellular proteins	Nuclear speckles	Mixed			Cell line enhanced		HDLM-2: 1.9;REH: 1.7
+DXO	Predicted intracellular proteins	Nucleoplasm, Plasma membrane, Cytosol	Mixed			Cell line enhanced		AN3-CA: 10.2
+SKIV2L	Disease related genes, Plasma proteins, Predicted intracellular proteins	Nucleoplasm	Mixed			Mixed		
+NELFE	Predicted intracellular proteins	Nucleoplasm, Nuclear bodies	Expressed in all			Expressed in all		
+NEU1	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Vesicles, Cell Junctions	Mixed			Expressed in all		
+VWA7	Predicted secreted proteins	Plasma membrane, Cytosol	Tissue enhanced		fallopian tube: 9.1	Cell line enhanced		U-266/70: 1.0
+LY6G5C	Predicted intracellular proteins, Predicted membrane proteins	Nucleoplasm, Cytosol	Tissue enhanced		cerebral cortex: 1.5	Not detected		
+BAG6	Predicted intracellular proteins	Nucleoplasm, Cytosol	Expressed in all			Expressed in all		
+PRRC2A	Plasma proteins, Predicted intracellular proteins	Nucleoplasm, Plasma membrane, Cytosol	Mixed			Cell line enhanced		HBEC3-KT: 58.8;HEK 293: 135.9;U-266/70: 57.4;U-266/84: 59.9;U-698: 54.2
+MICB	Disease related genes, Predicted membrane proteins	Golgi apparatus, Vesicles	Tissue enhanced		lymph node: 3.2	Cell line enhanced		U-266/84: 26.2
+PPP1R10	Predicted intracellular proteins	Nucleoplasm, Nuclear bodies	Mixed			Expressed in all		
+FAM216A	Predicted intracellular proteins	Actin filaments	Group enriched	7	cerebral cortex: 16.2;testis: 61.1	Mixed		
+CPT1B	Enzymes, Predicted membrane proteins		Expressed in all			Mixed		
+LIN52	Predicted intracellular proteins	Nuclear speckles	Mixed			Expressed in all		
+C17orf107	Predicted intracellular proteins	Nucleus	Mixed			Cell line enhanced		fHDF/TERT166: 2.2;HMC-1: 3.2;hTCEpi: 2.4
+MXD3	Predicted intracellular proteins, Transcription factors	Nucleus, Nucleoli	Tissue enhanced		bone marrow: 24.2	Cell line enhanced		HDLM-2: 162.8
+ATF6B	Plasma proteins, Predicted intracellular proteins, Predicted membrane proteins, Transcription factors	Nucleus, Nucleoli	Expressed in all			Expressed in all		
+DDAH2	Enzymes, Plasma proteins, Predicted intracellular proteins	Microtubule organizing center, Cytosol	Mixed			Cell line enhanced		EFO-21: 23.0;U-2 OS: 18.9
+NUDT19	Predicted secreted proteins	Nucleus, Nucleoli, Cytosol	Expressed in all			Mixed		
+PPME1	Enzymes, Predicted intracellular proteins	Nucleus, Nuclear bodies	Expressed in all			Expressed in all		
+GRID2IP	Predicted intracellular proteins		Mixed			Cell line enhanced		REH: 3.3
+GCGR	FDA approved drug targets, G-protein coupled receptors, Plasma proteins, Predicted membrane proteins, Predicted secreted proteins	Golgi apparatus	Group enriched	7	adrenal gland: 6.6;kidney: 8.4;liver: 20.8;parathyroid gland: 8.0	Cell line enhanced		HeLa: 1.2;MCF7: 2.2;SK-BR-3: 1.8;U-87 MG: 2.7
+FADS3	Predicted intracellular proteins, Predicted membrane proteins	Nucleoli fibrillar center	Expressed in all			Expressed in all		
+HLA-DQB2	Predicted membrane proteins, Predicted secreted proteins		Tissue enhanced		lung: 8.1;skin: 13.3	Not detected		
+LY6G5B	Predicted intracellular proteins, Predicted secreted proteins		Expressed in all			Expressed in all		
+ATP5J2	Predicted intracellular proteins, Predicted membrane proteins	Mitochondria	Expressed in all			Expressed in all		
+UGT1A1	Cancer-related genes, Disease related genes, Enzymes, Plasma proteins, Potential drug targets, Predicted membrane proteins		Group enriched	33	duodenum: 199.5;liver: 155.8;small intestine: 81.9	Cell line enhanced		HaCaT: 12.7;PC-3: 6.0;RT4: 27.4
+ARPC1A	Plasma proteins, Predicted intracellular proteins	Cell Junctions, Cytosol	Expressed in all			Expressed in all		
+UGT1A7	Enzymes, Predicted intracellular proteins, Predicted membrane proteins		Tissue enriched	13	esophagus: 61.4	Cell line enriched	21	SiHa: 118.8
+GS1-259H13.2	Predicted membrane proteins		Tissue enriched	54	testis: 234.7	Cell line enhanced		Karpas-707: 8.5
+LY6G6E	Predicted intracellular proteins, Predicted secreted proteins	Nucleus	Tissue enhanced		skin: 1.2;thyroid gland: 1.0	Cell line enriched	103	HEL: 21.3
+APOPT1	Predicted intracellular proteins		Expressed in all			Expressed in all		
+MGAM	Enzymes, FDA approved drug targets, Plasma proteins, Predicted membrane proteins		Tissue enhanced		duodenum: 59.4;small intestine: 97.2	Cell line enhanced		A549: 1.6;BJ hTERT+: 1.3;HL-60: 2.2;U-937: 3.4
+CNPY2	Plasma proteins, Predicted intracellular proteins, Predicted secreted proteins	Cytosol	Expressed in all			Expressed in all		
+EPPK1	Predicted intracellular proteins	Intermediate filaments	Tissue enhanced		skin: 11.2	Cell line enhanced		BEWO: 13.8;EFO-21: 12.5;HaCaT: 12.0;HeLa: 15.1;MCF7: 15.3
+RP11-81A22.5	Predicted intracellular proteins		Mixed			Cell line enhanced		AN3-CA: 3.1;SCLC-21H: 12.1
+STRADA	Disease related genes, Enzymes, Potential drug targets, Predicted intracellular proteins	Nucleoplasm, Cytosol	Expressed in all			Expressed in all		
+NUDT3	Enzymes, Predicted intracellular proteins	Cytosol	Expressed in all			Expressed in all		
+SCO2	Disease related genes, Predicted intracellular proteins, Predicted membrane proteins	Mitochondria	Tissue enhanced		bone marrow: 5.3	Mixed		
